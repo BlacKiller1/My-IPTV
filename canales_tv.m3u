@@ -103,118 +103,22 @@ http://38.91.106.197:80/nau9JBYrOq/bTE1IEaPRH/139326
 #EXTINF:-1 xui-id="357998" tvg-id="" tvg-name="TV Senado | CL" tvg-logo="https://cdn.m3u.cl/logo/444_TV_Senado.png" group-title="Noticias",TV Senado | CL
 https://boxtreampro.vip:2087/play/gErEWaqXwwIab6JWeCfjEVGHQaSxtZIJyHk5jNJkDYUL7uabbU152pyQfOv65zEB/ts
 
-#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/250px-ESPN_wordmark.svg.png" group-title="ESPN",ESPN
-http://elpapanatas.space:8080/eder7378/8388eder/207954
-#EXTINF:-1 group-title="ESPN",ESPN 1 FHD²
+#EXTINF:-1 group-title="ESPN",ESPN 1
 http://38.91.106.197:80/nau9JBYrOq/bTE1IEaPRH/138546
-#EXTINF:-1 group-title="ESPN",ESPN 1 HD²
-http://38.91.106.197:80/nau9JBYrOq/bTE1IEaPRH/138547
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2  FHD | AR" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/wcualh1660760950.png" group-title="ESPN",ESPN 2  FHD | AR
-http://avefenixtv.com:80/gilbertoking/aZLwiv7TUB/712744.ts
-#EXTINF:-1 tvg-id="ESPN 2 HD" tvg-name="ESPN 2 FHD" tvg-logo="http://fplay.me/images/YljKBdOJdm3PuPv_iWyAeTJ_Z2xfX-SzY3vAsL8v_KOqVnW5juFC5oG8HUWUvPlDpXF_UMK7eXLTeEikptsf7vnayRWuxIml5BM_W8GnlrY.png" group-title="ESPN",ESPN 2 FHD
+#EXTINF:-1 tvg-id="ESPN 2 HD" tvg-name="ESPN 2 FHD" tvg-logo="http://fplay.me/images/YljKBdOJdm3PuPv_iWyAeTJ_Z2xfX-SzY3vAsL8v_KOqVnW5juFC5oG8HUWUvPlDpXF_UMK7eXLTeEikptsf7vnayRWuxIml5BM_W8GnlrY.png" group-title="ESPN",ESPN 2
 http://dbox10.com:80/247000869047/166157246103/24639.ts
-#EXTINF:-1 group-title="ESPN",ESPN 2 FHD²
-http://38.91.106.197:80/nau9JBYrOq/bTE1IEaPRH/138911
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/250px-ESPN2_logo.svg.png" group-title="ESPN",ESPN 2 HD
-http://elpapanatas.space:8080/eder7378/8388eder/207955
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD ARG" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=262x10000:format=png/path/s86a1480785a470a0/image/i91a3a3b97ec03fad/version/1480780272/image.png" group-title="ESPN",ESPN 2 HD ARG
-http://planettvweb.com:8091/FedericoGonzalez/Gonzalez404/11996
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD Colombia" tvg-logo="https://cdn.mitvstatic.com/channels/ar_espn-2_m.png" group-title="ESPN",ESPN 2 HD Colombia
-http://planettvweb.com:8091/FedericoGonzalez/Gonzalez404/11905
-#EXTINF:-1 group-title="ESPN",ESPN 2 HD²
-http://38.91.106.197:80/nau9JBYrOq/bTE1IEaPRH/138912
-#EXTINF:-1 xui-id="14859" tvg-id="ESPN2.us" tvg-name="ESPN 2 | HD" tvg-logo="http://xtreamview.net:80/images/75Dasug4Cl3n03mPqiyvKRt82bzHUjQBweNP3M57Xjk.png" group-title="ESPN",ESPN 2 | HD
-http://xtreamview.net:80/play/s2ndt497_d3_n9sbCQbq7-c4y3zU_nQvxP2dubpSt-g/m3u8
-#EXTINF:-1 tvg-id="ESPN 3 HD" tvg-name="ESPN 3 FHD" tvg-logo="http://fplay.me:80/images/YljKBdOJdm3PuPv_iWyAecKza6xMtoDn0YRdMcB4yTwbWc-tzAtwRnDFjzuS0lf3J2XycIlm1wNK9EKBpiWYI0ssh-JFS5dXU2Vwt0ex3gc.png" group-title="ESPN",ESPN 3 FHD
+#EXTINF:-1 tvg-id="ESPN 3 HD" tvg-name="ESPN 3 FHD" tvg-logo="http://fplay.me:80/images/YljKBdOJdm3PuPv_iWyAecKza6xMtoDn0YRdMcB4yTwbWc-tzAtwRnDFjzuS0lf3J2XycIlm1wNK9EKBpiWYI0ssh-JFS5dXU2Vwt0ex3gc.png" group-title="ESPN",ESPN 3
 http://dbox10.com:80/247000869047/166157246103/24652.ts
-#EXTINF:-1 group-title="ESPN",ESPN 3 FHD²
-http://38.91.106.197:80/nau9JBYrOq/bTE1IEaPRH/138915
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKEF6ZBpdGrphpxWN411VHj3RZ70HYSO0p4VNZo3UOxA&s=10" group-title="ESPN",ESPN 3 HD
-http://resplaytvofc.vip:80//live/cliente617/654321/306388.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD @" tvg-logo="https://i.postimg.cc/3JgzrFjr/espn3.jpg" group-title="ESPN",ESPN 3 HD @
-http://jumangis.cloud:2082/JairoVargas/5T5wLJjTbu/117717
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD ARG" tvg-logo="https://www.logolynx.com/images/logolynx/2b/2b8d3f1f3f0ceec6579802355fdce78f.jpeg" group-title="ESPN",ESPN 3 HD ARG
-http://planettvweb.com:8091/FedericoGonzalez/Gonzalez404/11915
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD| AR" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/wkdrnd1660760961.png" group-title="ESPN",ESPN 3 HD| AR
-http://avefenixtv.com:80/gilbertoking/aZLwiv7TUB/712745.ts
-#EXTINF:-1 group-title="ESPN",ESPN 3 HD²
-http://38.91.106.197:80/nau9JBYrOq/bTE1IEaPRH/138916
-#EXTINF:-1 xui-id="14860" tvg-id="ESPN3.us" tvg-name="ESPN 3 | HD" tvg-logo="http://xtreamview.net:80/images/Ak5Lq40t5V2oWuVdB30LspKRUWDEkVWyh67eBqSK7dV5vw5QcQ4_V7tprq-OuQ0iBiRfIPThe-hnNHA0wI5pz9IZcX0aoBkIoyyOtD7Z9KQ.png" group-title="ESPN",ESPN 3 | HD
-http://xtreamview.net:80/play/s2ndt497_d3_n9sbCQbq79j7YLPCq_1bT7jxTEzONyc/m3u8
-#EXTINF:-1 group-title="ESPN",ESPN 4
-http://streamprostk.com:2082/johnnyamador/478445688/50373
-#EXTINF:-1 tvg-id="ESPN 4 HD" tvg-name="ESPN 4 FHD" tvg-logo="http://fplay.me:80/images/YljKBdOJdm3PuPv_iWyAeVv38D-2kKzqRjA7B_lWDHgQSS61M0mkZdWpdfYP_6PK0hy-KhIIOYTXeFjoKQgJnEk7d669iBGj6yZwm5VrYao.png" group-title="ESPN",ESPN 4 FHD
+#EXTINF:-1 tvg-id="ESPN 4 HD" tvg-name="ESPN 4 FHD" tvg-logo="http://fplay.me:80/images/YljKBdOJdm3PuPv_iWyAeVv38D-2kKzqRjA7B_lWDHgQSS61M0mkZdWpdfYP_6PK0hy-KhIIOYTXeFjoKQgJnEk7d669iBGj6yZwm5VrYao.png" group-title="ESPN",ESPN 4
 http://dbox10.com:80/247000869047/166157246103/24586.ts
-#EXTINF:-1 tvg-id="ESPN 4 HD" tvg-name="ESPN 4 FHD 2" tvg-logo="http://fplay.me:80/images/YljKBdOJdm3PuPv_iWyAeVv38D-2kKzqRjA7B_lWDHgQSS61M0mkZdWpdfYP_6PK0hy-KhIIOYTXeFjoKQgJnEk7d669iBGj6yZwm5VrYao.png" group-title="ESPN",ESPN 4 FHD 2
-http://dbox10.com:80/247000869047/166157246103/33806.ts
-#EXTINF:-1 group-title="ESPN",ESPN 4 FHD²
-http://38.91.106.197:80/nau9JBYrOq/bTE1IEaPRH/138943
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 HD" tvg-logo="https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/61a4c896fc740bb1476f0225_LOGO_ESPN4%5B2%5D.png" group-title="ESPN",ESPN 4 HD
-http://elpapanatas.space:8080/eder7378/8388eder/207957
-#EXTINF:-1 tvg-id="" tvg-name="Espn 4 HD @" tvg-logo="https://i.postimg.cc/rFs8DR0W/espn4.png" group-title="ESPN",Espn 4 HD @
-http://jumangis.cloud:2082/JairoVargas/5T5wLJjTbu/135242
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 HD | AR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/ESPN_4.svg/revision/latest/scale-to-width-down/250?cb=20211120194330" group-title="ESPN",ESPN 4 HD | AR
-http://avefenixtv.com:80/gilbertoking/aZLwiv7TUB/712746.ts
-#EXTINF:-1 group-title="ESPN",ESPN 4 HD²
-http://38.91.106.197:80/nau9JBYrOq/bTE1IEaPRH/138944
-#EXTINF:-1 group-title="ESPN",ESPN 5
-http://streamprostk.com:2082/johnnyamador/478445688/52202
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 5 FHD" tvg-logo="https://i.postimg.cc/c4VX2vfg/ESPN-5.png" group-title="ESPN",ESPN 5 FHD
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 5 FHD" tvg-logo="https://i.postimg.cc/c4VX2vfg/ESPN-5.png" group-title="ESPN",ESPN 5
 http://jumangis.cloud:2082/JairoVargas/5T5wLJjTbu/406364
-#EXTINF:-1 group-title="ESPN",ESPN 5 FHD²
-http://38.91.106.197:80/nau9JBYrOq/bTE1IEaPRH/138939
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 5 HD" tvg-logo="https://i.postimg.cc/c4VX2vfg/ESPN-5.png" group-title="ESPN",ESPN 5 HD
-http://avefenixtv.com:80/gilbertoking/aZLwiv7TUB/195496.ts
-#EXTINF:-1 group-title="ESPN",ESPN 5 HD²
-http://38.91.106.197:80/nau9JBYrOq/bTE1IEaPRH/138940
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 5HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/500px-ESPN_5_logo.svg.png" group-title="ESPN",ESPN 5HD
-http://elpapanatas.space:8080/eder7378/8388eder/207958
-#EXTINF:-1 tvg-id="ESPN7.co" tvg-name="ESPN 7" tvg-logo="https://i.postimg.cc/5NzBqwPb/espn7.png" group-title="ESPN",ESPN 7
-http://jumangis.cloud:2082/JairoVargas/5T5wLJjTbu/531138
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 7 FHD" tvg-logo="https://i.postimg.cc/rwqsjJzf/ESPN-7-logo-svg.png" group-title="ESPN",ESPN 7 FHD
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 7 FHD" tvg-logo="https://i.postimg.cc/rwqsjJzf/ESPN-7-logo-svg.png" group-title="ESPN",ESPN 7
 http://jumangis.cloud:2082/JairoVargas/5T5wLJjTbu/406370
-#EXTINF:-1 group-title="ESPN",ESPN 7 HD
-http://streamprostk.com:2082/johnnyamador/478445688/3083
-#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA" tvg-logo="https://i.postimg.cc/V61nPM8h/espn.jpg" group-title="ESPN",ESPN EXTRA
-http://jumangis.cloud:2082/JairoVargas/5T5wLJjTbu/138197
-#EXTINF:-1 group-title="ESPN",ESPN EXTRA FHD
+#EXTINF:-1 group-title="ESPN",ESPN EXTRA
 http://38.91.106.197:80/nau9JBYrOq/bTE1IEaPRH/73485
-#EXTINF:-1 group-title="ESPN",ESPN EXTRA FHD²
-http://38.91.106.197:80/nau9JBYrOq/bTE1IEaPRH/138907
-#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA FHD²²" tvg-logo="http://digitaltvsv.com:80/images/FROyVc99IF67kMP7WV1BheSTL2mOxJ74Yar5ErtSLQHCdkEV6vTF3G_ry2OXmMBzvNWWFCwb5bTTvuYPC_OqD84KUwl6HkHsKrmg4mC4ochgWixjPRt8nbT5smqzSMYHCp3eFqqjEGVDebdEsxK1Yojk9MCsCoJLQw42JYgWaQHd_Twht7Fu6a1kWYaZA23M.png" group-title="ESPN",ESPN EXTRA FHD²²
-http://elpapanatas.space:8080/eder7378/8388eder/114330
-#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA HD" tvg-logo="https://pbs.twimg.com/media/FytQLIxXgAATtYC.jpg:large" group-title="ESPN",ESPN EXTRA HD
-http://avefenixtv.com:80/gilbertoking/aZLwiv7TUB/195673.ts
-#EXTINF:-1 group-title="ESPN",ESPN EXTRA HD²
-http://38.91.106.197:80/nau9JBYrOq/bTE1IEaPRH/138908
-#EXTINF:-1 tvg-id="" tvg-name="ESPN FHD" tvg-logo="https://elcomercio.pe/resizer/QikIJlcwRoKBJUtP64TMVNZKxZk=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/734Z5O7GVRH3XPIBNPA4AZSYFQ.png" group-title="ESPN",ESPN FHD
-http://avefenixtv.com:80/gilbertoking/aZLwiv7TUB/195674.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN FHD | AR" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/hdrkql1660762351.png" group-title="ESPN",ESPN FHD | AR
-http://avefenixtv.com:80/gilbertoking/aZLwiv7TUB/712743.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN HD" tvg-logo="https://elcomercio.pe/resizer/QikIJlcwRoKBJUtP64TMVNZKxZk=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/734Z5O7GVRH3XPIBNPA4AZSYFQ.png" group-title="ESPN",ESPN HD
-http://avefenixtv.com:80/gilbertoking/aZLwiv7TUB/195675.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN HD MX" tvg-logo="https://www.ecured.cu/images/thumb/2/2f/Espn_logo.jpg/260px-Espn_logo.jpg" group-title="ESPN",ESPN HD MX
-http://planettvweb.com:8091/FedericoGonzalez/Gonzalez404/11991
-#EXTINF:-1 tvg-id="" tvg-name="ESPN HD OP 2" tvg-logo="http://mundo2.pro:80/images/db74988ae31d459907f62c43dcc987eb.jpg" group-title="ESPN",ESPN HD OP 2
-http://resplaytvofc.vip:80//live/cliente617/654321/472221.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN PREMIUM" tvg-logo="https://www.multifibra.ar/wp-content/uploads/2023/11/IMG_espn.png" group-title="ESPN",ESPN PREMIUM
-http://jumangis.cloud:2082/JairoVargas/5T5wLJjTbu/531139
-#EXTINF:-1 tvg-id="" tvg-name="ESPN Premium  | AR FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="ESPN",ESPN Premium  | AR FHD
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Premium  | AR FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="ESPN",ESPN PREMIUM
 http://avefenixtv.com:80/gilbertoking/aZLwiv7TUB/712747.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN Premium HD" tvg-logo="https://cdn.storage.foromedios.com/monthly_2022_05/large_es.png.aa439426a82c10606ef062d67bd99b89.png" group-title="ESPN",ESPN Premium HD
-http://elpapanatas.space:8080/eder7378/8388eder/207960
-#EXTINF:-1 xui-id="14861" tvg-id="ESPN.us" tvg-name="ESPN | HD" tvg-logo="http://xtreamview.net:80/images/75Dasug4Cl3n03mPqiyvKSFFUojXxjSxIm6GSOm1H0U.png" group-title="ESPN",ESPN | HD
-http://xtreamview.net:80/play/s2ndt497_d3_n9sbCQbq7xCIraVipOIrefZF5144EqI/m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN2 HD" tvg-logo="https://elcomercio.pe/resizer/QikIJlcwRoKBJUtP64TMVNZKxZk=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/734Z5O7GVRH3XPIBNPA4AZSYFQ.png" group-title="ESPN",ESPN2 HD
-http://avefenixtv.com:80/gilbertoking/aZLwiv7TUB/195679.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN3 FHD" tvg-logo="http://digitaltvsv.com:80/images/6z4swcxHbKk6hOL9is6k_pbCw1qXryfPchVOjCPGeKZvd01jkwBWeJm9AY6E9rzuOmptFm7ZcMVf7FNPKc9JQyrxAC4T8nGvKczGdUmKn-9H8FtqgcXNqIa8LVm6z54LY7fPQ7e_j95sSwi8W1DnOw.png" group-title="ESPN",ESPN3 FHD
-http://elpapanatas.space:8080/eder7378/8388eder/114328
-#EXTINF:-1 tvg-id="" tvg-name="ESPN3 HD" tvg-logo="https://elcomercio.pe/resizer/QikIJlcwRoKBJUtP64TMVNZKxZk=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/734Z5O7GVRH3XPIBNPA4AZSYFQ.png" group-title="ESPN",ESPN3 HD
-http://avefenixtv.com:80/gilbertoking/aZLwiv7TUB/195681.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN4 FHD" tvg-logo="https://elcomercio.pe/resizer/QikIJlcwRoKBJUtP64TMVNZKxZk=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/734Z5O7GVRH3XPIBNPA4AZSYFQ.png" group-title="ESPN",ESPN4 FHD
-http://avefenixtv.com:80/gilbertoking/aZLwiv7TUB/195683.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN4 HD" tvg-logo="https://elcomercio.pe/resizer/QikIJlcwRoKBJUtP64TMVNZKxZk=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/734Z5O7GVRH3XPIBNPA4AZSYFQ.png" group-title="ESPN",ESPN4 HD
-http://avefenixtv.com:80/gilbertoking/aZLwiv7TUB/195684.ts
 
 #EXTINF:-1 tvg-id="TNTSPORTSFIX CL" tvg-name="TNT Sports" tvg-logo="https://logos.iptv.wtf/deportes/tntsportshd.png" group-title="TNT Sports",TNT Sports
 http://live.stablechannels.tv:80/live/fD1UHP3sR/k1vdCg559Z/6817.ts

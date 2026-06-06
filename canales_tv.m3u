@@ -1,264 +1,275 @@
-#EXTM3U
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_CL1.xml.gz" x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_CL1.xml.gz"
 
-#EXTINF:-1 group-title="Canales Cine",AR-| CINE AR HD
-http://resplaytvofc.vip:80//live/Cristianbe56/Benavente56/81320.ts
-#EXTINF:-1 group-title="Canales Cine",AXN FHD |opc-1|
-http://resplaytvofc.vip:80//live/Cristianbe56/Benavente56/316363.ts
-#EXTINF:-1 group-title="Canales Cine",AXN Movies FHD |opc-1|
-http://resplaytvofc.vip:80//live/Cristianbe56/Benavente56/315765.ts
-#EXTINF:-1 group-title="Canales Cine",AXN WHITE HD
-http://resplaytvofc.vip:80//live/Cristianbe56/Benavente56/110141.ts
-#EXTINF:-1 group-title="Canales Cine",BOM cine FHD²
-http://TENTACYON.ORG:2096/Miguel25/Miguel25/29.ts
-#EXTINF:-1 group-title="Canales Cine",CINE  | *HBÖ* 2 HD
-http://rlatinop.com:8880/61717117/qTWrKTLgrw4a/414462
-#EXTINF:-1 group-title="Canales Cine",CINE  | A&E FHD
-http://rlatinop.com:8880/61717117/qTWrKTLgrw4a/414453
-#EXTINF:-1 group-title="Canales Cine",CINE  | TÑT  HD
-http://resplaytvofc.vip:80//live/Cristianbe56/Benavente56/1245.ts
-#EXTINF:-1 group-title="Canales Cine",CINE  | TⓝT  FHD
-http://resplaytvofc.vip:80//live/Cristianbe56/Benavente56/1244.ts
-#EXTINF:-1 group-title="Canales Cine",CINE GOLDEN PLUS FHD
-http://rlatinop.com:8880/61717117/qTWrKTLgrw4a/414515
-#EXTINF:-1 group-title="Canales Cine",CINE l P∆NICO HD
-http://resplaytvofc.vip:80//live/Cristianbe56/Benavente56/538093.ts
-#EXTINF:-1 group-title="Canales Cine",CINE l P∆R∆M0UNT + HD
-http://resplaytvofc.vip:80//live/Cristianbe56/Benavente56/53938.ts
-#EXTINF:-1 group-title="Canales Cine",CINE | AMC  FHD
-http://rlatinop.com:8880/61717117/qTWrKTLgrw4a/414503
-#EXTINF:-1 group-title="Canales Cine",CINE | AXN  FHD
-http://resplaytvofc.vip:80//live/Cristianbe56/Benavente56/1254.ts
-#EXTINF:-1 group-title="Canales Cine",CINE | CINECANAL  FHD
-http://rlatinop.com:8880/61717117/qTWrKTLgrw4a/414479
-#EXTINF:-1 group-title="Canales Cine",CINE | FX  FHD
-http://rlatinop.com:8880/61717117/qTWrKTLgrw4a/414497
-#EXTINF:-1 group-title="Canales Cine",CINE | GOLDEN  FHD
-http://rlatinop.com:8880/61717117/qTWrKTLgrw4a/414506
-#EXTINF:-1 group-title="Canales Cine",CINE | GOLDEN EDG  HD
-http://resplaytvofc.vip:80//live/Cristianbe56/Benavente56/1290.ts
-#EXTINF:-1 group-title="Canales Cine",CINE | GOLDEN PLUS HD
-http://rlatinop.com:8880/61717117/qTWrKTLgrw4a/414516
-#EXTINF:-1 group-title="Canales Cine",CINE | GOLDEN PREMIER  HD
-http://resplaytvofc.vip:80//live/Cristianbe56/Benavente56/1293.ts
-#EXTINF:-1 group-title="Canales Cine",CINE | PARAMOUNT CHANEL FHD
-http://rlatinop.com:8880/61717117/qTWrKTLgrw4a/414512
-#EXTINF:-1 group-title="Canales Cine",CINE | SONY  FHD
-http://rlatinop.com:8880/61717117/qTWrKTLgrw4a/414488
-#EXTINF:-1 group-title="Canales Cine",CINE | SONY M0VIES FHD
-http://resplaytvofc.vip:80//live/Cristianbe56/Benavente56/1261.ts
-#EXTINF:-1 group-title="Canales Cine",CINE | SPACE CHANEL  FHD
-http://rlatinop.com:8880/61717117/qTWrKTLgrw4a/414500
-#EXTINF:-1 group-title="Canales Cine",CINE | STAR CHANEL HD
-http://resplaytvofc.vip:80//live/Cristianbe56/Benavente56/436007.ts
-#EXTINF:-1 group-title="Canales Cine",CINE | STAR CHANNEL  FHD
-http://rlatinop.com:8880/61717117/qTWrKTLgrw4a/414464
-#EXTINF:-1 group-title="Canales Cine",CINE | TCM  FHD
-http://rlatinop.com:8880/61717117/qTWrKTLgrw4a/414491
-#EXTINF:-1 group-title="Canales Cine",CINE | UNIVERSAL CHANEL  FHD
-http://rlatinop.com:8880/Jhonatan2.tv/x9428sVkss7T/414494
-#EXTINF:-1 group-title="Canales Cine",CINE | UNIVERSAL STUDIO FHD
-http://resplaytvofc.vip:80//live/Cristianbe56/Benavente56/1268.ts
-#EXTINF:-1 group-title="Canales Cine",Cinecanal 4K
-http://resplaytvofc.vip:80//live/Cristianbe56/Benavente56/400091.ts
-#EXTINF:-1 group-title="Canales Cine",ClNE l DHE cine  HD
-http://resplaytvofc.vip:80//live/Cristianbe56/Benavente56/400290.ts
-#EXTINF:-1 group-title="Canales Cine",M+Cine Espanol FHD¹
-http://TENTACYON.ORG:2096/Miguel25/Miguel25/84.ts
-#EXTINF:-1 group-title="Canales Cine",M+Cine Español FHD |opc-2|
-http://resplaytvofc.vip:80//live/Cristianbe56/Benavente56/315745.ts
-#EXTINF:-1 group-title="Canales Cine",Miraculous Las Aventuras De Ladybug - La Pelicula FHD 2023
-http://resplaytvofc.vip:80/movie/AbigailQuintuna/LV9z2EEPrmGE/458522.mp4
-#EXTINF:-1 group-title="Canales Cine",MX || CINE ESTRELLA HD®
-http://resplaytvofc.vip:80//live/AbigailQuintuna/LV9z2EEPrmGE/450379.ts
-#EXTINF:-1 group-title="Canales Cine",MX || MyTime Movie Network MX HD®
-http://resplaytvofc.vip:80//live/ClienteAnpacu240224/7pahj62ajgh/404348.ts
-#EXTINF:-1 group-title="Canales Cine",MX || ULTRA CINE HD®
-http://resplaytvofc.vip:80//live/ClienteAnpacu240224/7pahj62ajgh/404376.ts
-#EXTINF:-1 group-title="Canales Cine",P | UNIVERSAL CINEMA HD
-http://resplaytvofc.vip:80//live/Cristianbe56/Benavente56/111421.ts
-#EXTINF:-1 group-title="Canales Cine",P | UNIVERSAL COMEDY HD
-http://resplaytvofc.vip:80//live/Cristianbe56/Benavente56/111417.ts
-#EXTINF:-1 group-title="Canales Cine",P | UNIVERSAL CRIMEN HD
-http://resplaytvofc.vip:80//live/Cristianbe56/Benavente56/111422.ts
-#EXTINF:-1 group-title="Canales Cine",P | UNIVERSAL PREMIER HD
-http://resplaytvofc.vip:80//live/Cristianbe56/Benavente56/111419.ts
-#EXTINF:-1 group-title="Canales Cine",P | UNIVERSAL REALITY HD
-http://resplaytvofc.vip:80//live/Cristianbe56/Benavente56/111420.ts
-#EXTINF:-1 group-title="Canales Cine",PARAMOUNT CHANNEL | 4k
-http://resplaytvofc.vip:80//live/Cristianbe56/Benavente56/111754.ts
-#EXTINF:-1 group-title="Canales Cine",PARAMOUNT+ FHD
-http://resplaytvofc.vip:80//live/Cristianbe56/Benavente56/317033.ts
-#EXTINF:-1 group-title="Canales Cine",Runtime Cine Y Series FHD¹
-http://TENTACYON.ORG:2096/Cristina26/Cristina26/303.ts
-#EXTINF:-1 group-title="Canales Cine",Spa1n: TCM FHD
-http://infinitisurl.com:8080/JARED34/675GTd/621858
-#EXTINF:-1 group-title="Canales Cine",Space 4K
-http://resplaytvofc.vip:80//live/cliente617/654321/400162.ts
-#EXTINF:-1 group-title="Canales Cine",STAR Channel FHD |opc-1|
-http://resplaytvofc.vip:80//live/Cristianbe56/Benavente56/315776.ts
-#EXTINF:-1 group-title="Canales Cine",Studio Universal 4K
-http://resplaytvofc.vip:80//live/cliente617/654321/400164.ts
-#EXTINF:-1 group-title="Canales Cine",SYFY FHD
-http://resplaytvofc.vip:80//live/Cristianbe56/Benavente56/110083.ts
-#EXTINF:-1 group-title="Canales Cine",UNIVERSAL CHANNEL 4K
-http://resplaytvofc.vip:80//live/cliente617/654321/400187.ts
-#EXTINF:-1 group-title="Canales Cine",Universal Premiere 4K
-http://resplaytvofc.vip:80//live/Cristianbe56/Benavente56/400190.ts
-#EXTINF:-1 group-title="Canales Cine",USA: CINE ESTRELLA TV FHD
-http://resplaytvofc.vip:80//live/usuariocanales259/eVySVC6vv5/399466.ts
-#EXTINF:-1 group-title="Canales Cine",USA: Cinemax Moremax FHD* US.
-http://resplaytvofc.vip:80//live/AbigailQuintuna/LV9z2EEPrmGE/399124.ts
-#EXTINF:-1 group-title="Canales Cine",USA: FX HD USA
-http://resplaytvofc.vip:80//live/jparodi/FE2rwz9p8KLP/399204.ts
-#EXTINF:-1 group-title="Canales Cine",USA| CINEMAX EAST HD
-http://rlatinop.com:8880/Jhonatan2.tv/x9428sVkss7T/452659
-#EXTINF:-1 group-title="Canales Cine",USA| VIP MOVIE 5 STARMAX HD
-http://rlatinop.com:8880/Jhonatan2.tv/x9428sVkss7T/452685
+#EXTINF:-1 group-title="Chile",13c
+http://streamprostk.com:2082/johnnyamador/478445688/7111
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 13" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Canal13GT2023.png/revision/latest?cb=20230225184026" group-title="Chile",CANAL 13
+http://avefenixtv.com:80/gilbertoking/aZLwiv7TUB/9182.ts
+#EXTINF:-1 group-title="Chile",Canal 13 FHD
+http://streamprostk.com:2082/johnnyamador/478445688/16017
+#EXTINF:-1 group-title="Chile",Canal 13 FHD 2
+http://streamprostk.com:2082/johnnyamador/478445688/57369
+#EXTINF:-1 tvg-id="" tvg-name="CHILEVISION" tvg-logo="https://i.postimg.cc/qMYhfTCW/chilevision7955-removebg-preview.png" group-title="Chile",CHILEVISION
+http://avefenixtv.com:80/gilbertoking/aZLwiv7TUB/9826.ts
+#EXTINF:-1 group-title="Chile",CHV FHD
+http://streamprostk.com:2082/johnnyamador/478445688/16018
+#EXTINF:-1 group-title="Chile",CHV FHD2
+http://streamprostk.com:2082/johnnyamador/478445688/57368
+#EXTINF:-1 xui-id="357557" tvg-id="" tvg-name="CHV | CL" tvg-logo="https://cdn.m3u.cl/logo/1153_CHV.png" group-title="Chile",CHV | CL
+https://boxtreampro.vip:2087/play/gErEWaqXwwIab6JWeCfjEXrb9CeQRE85Qv5gKZuTaah9ty1W5WZ120m7-pOsQHIh/ts
+#EXTINF:-1 tvg-id="" tvg-name="LA RED" tvg-logo="https://i.imgur.com/JcfqpjP.png" group-title="Chile",LA RED
+http://avefenixtv.com:80/gilbertoking/aZLwiv7TUB/231767.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA RED HD" tvg-logo="https://i.imgur.com/CGbKsm8.png" group-title="Chile",LA RED HD
+http://avefenixtv.com:80/gilbertoking/aZLwiv7TUB/33500.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mega" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0w9E0CBe90SM7bxXPtzZJDF-mebUwami6iA&s" group-title="Chile",Mega
+http://resplaytvofc.vip:80//live/cliente617/654321/315694.ts
+#EXTINF:-1 group-title="Chile",MEGA 2
+http://streamprostk.com:2082/johnnyamador/478445688/56930
+#EXTINF:-1 tvg-id="" tvg-name="Mega FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0w9E0CBe90SM7bxXPtzZJDF-mebUwami6iA&s" group-title="Chile",Mega FHD
+http://resplaytvofc.vip:80//live/cliente617/654321/316199.ts
+#EXTINF:-1 tvg-id="mega" tvg-name="MEGA HD" tvg-logo="https://i.postimg.cc/BnrMYQdv/Mega-Spain-2015.png" group-title="Chile",MEGA HD
+http://avefenixtv.com:80/gilbertoking/aZLwiv7TUB/327793.ts
+#EXTINF:-1 group-title="Chile",Mega | CL
+http://streamprostk.com:2082/johnnyamador/478445688/75747
+#EXTINF:-1 tvg-id="" tvg-name="Telecanal HD" tvg-logo="http://spott4k.online:8080/images/logopedia/TELECANAL_305675.png" group-title="Chile",Telecanal HD
+http://spott4k.online:8080/FatmiriTV/jv8D9RARGJ/305675
+#EXTINF:-1 tvg-id="" tvg-name="TV+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png" group-title="Chile",TV+
+http://elpapanatas.space:8080/eder7378/8388eder/207975
+#EXTINF:-1 group-title="Chile",TVN FHD
+http://streamprostk.com:2082/johnnyamador/478445688/2359
+#EXTINF:-1 group-title="Chile",TVN FHD 2
+http://streamprostk.com:2082/johnnyamador/478445688/2358
+#EXTINF:-1 tvg-id="" tvg-name="ZONA LATINA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6TpmeLVvfRgRt57eEnafP7rViLBeNIElAtQ&s" group-title="Chile",ZONA LATINA
+http://avefenixtv.com:80/gilbertoking/aZLwiv7TUB/715105.ts
+#EXTINF:-1 tvg-id="ZonaLatina.cl" tvg-name="Zona Latina HD" tvg-logo="https://i.postimg.cc/RhyjC7MZ/zona-latina-logo.jpg" group-title="Chile",Zona Latina HD
+http://jumangis.cloud:2082/JairoVargas/5T5wLJjTbu/151642
 
-#EXTINF:-1 group-title="Chile",CL | *TV*N HD
-http://rlatinop.com:8880/61717117/qTWrKTLgrw4a/272251
-#EXTINF:-1 group-title="Chile",CL | 24 HORAS HD
-http://rlatinop.com:8880/61717117/qTWrKTLgrw4a/272253
-#EXTINF:-1 group-title="Chile",CL | CANAL 13  HD
-http://resplaytvofc.vip:80//live/Cristianbe56/Benavente56/209.ts
-#EXTINF:-1 group-title="Chile",CL | CHILEVISION HD
-http://rlatinop.com:8880/Jhonatan2.tv/x9428sVkss7T/58287
-#EXTINF:-1 group-title="Chile",CL | LA RED HD
-http://rlatinop.com:8880/61717117/qTWrKTLgrw4a/272254
-#EXTINF:-1 group-title="Chile",CL | MEGA HD
-http://rlatinop.com:8880/Jhonatan2.tv/x9428sVkss7T/28244
-#EXTINF:-1 group-title="Chile",CL | NTV HD
-http://rlatinop.com:8880/61717117/qTWrKTLgrw4a/327356
-#EXTINF:-1 group-title="Chile",CL | TELETRAK HD
-http://rlatinop.com:8880/61717117/qTWrKTLgrw4a/300287
-#EXTINF:-1 group-title="Chile",CL | TVN  HD OP 2
-http://resplaytvofc.vip:80//live/Cristianbe56/Benavente56/55279.ts
-#EXTINF:-1 group-title="Chile",CL | TVN. HD
-http://resplaytvofc.vip:80//live/Cristianbe56/Benavente56/55278.ts
-#EXTINF:-1 group-title="Chile",CL | UCV HD
-http://rlatinop.com:8880/61717117/qTWrKTLgrw4a/273733
-#EXTINF:-1 group-title="Chile",CL | VIA X HD
-http://rlatinop.com:8880/61717117/qTWrKTLgrw4a/298545
-#EXTINF:-1 group-title="Chile",FUT BASIC HD (CHI)
-http://rlatinop.com:8880/Jhonatan2.tv/x9428sVkss7T/430830
-#EXTINF:-1 group-title="Chile",FUT PREMIER CHI | HD OP 2
-http://rlatinop.com:8880/61717117/qTWrKTLgrw4a/430650
-#EXTINF:-1 group-title="Chile",FUT PREMIER CHI | HD(SOLO EVENTOS IMPORTANTES)
-http://rlatinop.com:8880/61717117/qTWrKTLgrw4a/430649
-#EXTINF:-1 group-title="Chile",PREM CHI | HD OP1 (SOLO EVENTOS IMPORTANTES)
-http://rlatinop.com:8880/61717117/qTWrKTLgrw4a/430575
-#EXTINF:-1 group-title="Chile",PREMIER CHI | OP 3 HD
-http://rlatinop.com:8880/61717117/qTWrKTLgrw4a/430577
-#EXTINF:-1 group-title="Chile",ᴺᴱᵂˢ | CNN CHILE UHD
-http://resplaytvofc.vip:80//live/jparodi/FE2rwz9p8KLP/399515.ts
+#EXTINF:-1 tvg-id="24 Horas" tvg-name="24 HORAS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Logo_Canal_24_horas.svg/960px-Logo_Canal_24_horas.svg.png" group-title="Chile Noticias",24 HORAS FHD
+http://avefenixtv.com:80/gilbertoking/aZLwiv7TUB/414778.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas HD" tvg-logo="https://i.ibb.co/16Cz5rS/2234.png" group-title="Chile Noticias",24 Horas HD
+http://avefenixtv.com:80/gilbertoking/aZLwiv7TUB/79085.ts
+#EXTINF:-1 tvg-id="13 CULTURA CL" tvg-name="24 Horas HD *" tvg-logo="http://logos.iptv.wtf/chile/24horas.png" group-title="Chile Noticias",24 Horas HD *
+http://live.stablechannels.tv:80/live/fD1UHP3sR/k1vdCg559Z/2110.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNN Chile HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/CNN_Chile_boxless_2024.svg/revision/latest/scale-to-width-down/250?cb=20240517225007" group-title="Chile Noticias",CNN Chile HD
+http://avefenixtv.com:80/gilbertoking/aZLwiv7TUB/79091.ts
+#EXTINF:-1 xui-id="358207" tvg-id="" tvg-name="Cooperativa | CL" tvg-logo="https://cdn.m3u.cl/logo/422_Cooperativa.png" group-title="Chile Noticias",Cooperativa | CL
+https://boxtreampro.vip:2087/play/gErEWaqXwwIab6JWeCfjEc0R73Xs4gnmL_Xd7KipH7ll80Ee2UzWDUSHsmrbr8dw/ts
+#EXTINF:-1 group-title="Chile Noticias",Meganoticias
+http://streamprostk.com:2082/johnnyamador/478445688/51139
+#EXTINF:-1 tvg-id="NODATA" tvg-name="T13 HD" tvg-logo="" group-title="Chile Noticias",T13 HD
+http://live.stablechannels.tv:80/live/fD1UHP3sR/k1vdCg559Z/2111.ts
+#EXTINF:-1 xui-id="211631" tvg-id="" tvg-name="T13 | CL" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/2z37b4dgdrsu.png" group-title="Chile Noticias",T13 | CL
+https://boxtreampro.vip:2087/play/gErEWaqXwwIab6JWeCfjEYUmnnCO2tSuTIvrIfjnHGK6ndh2ZG4lQeX0I266dO4A/ts
 
+#EXTINF:-1 tvg-id="" tvg-name="BBC NEWS HD" tvg-logo="http://23.131.184.86:8081/live/bbccanada/playlist.m3u8?s=113ef61cd472e66fda37ee7c40b2eb1b" group-title="Noticias",BBC NEWS HD
+http://liontv.es:8080/ReneLatino30/ycvgQuW5zV/345624
+#EXTINF:-1 xui-id="1895" tvg-id="CNNespanol.us" tvg-name="CNN en Espanol" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.jaxSmAEdJJpvJeF6AsIj6AAAAA%3Fr%3D0%26pid%3DApi&f=1&ipt=9d4ed4048eb48daeb6a9673bddc86d51558d1ab85d39a00f40bcbc4c0c0664e8&ipo=images" group-title="Noticias",CNN en Espanol
+http://xtreamview.net:80/play/s2ndt497_d3_n9sbCQbq728UEs0vArl8HPQgRcQY87c/m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN En Español" tvg-logo="http://redworld.pro:8880/images/0e0ab4b1c8a2fd5e40510a12eeaca2f8.png" group-title="Noticias",CNN En Español
+http://rlatinop.com:8880/patriciaramos2342/UFhFXja7s2gP/518524
+#EXTINF:-1 tvg-id="" tvg-name="CNN en Español HD| AR" tvg-logo="https://i.ibb.co/7bKRcnz/cvrr.png" group-title="Noticias",CNN en Español HD| AR
+http://avefenixtv.com:80/gilbertoking/aZLwiv7TUB/79088.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNN INTERNACIONAL HD" tvg-logo="http://api.rockettv.me/img/thumbnail.php?w=240&t=channel&id=1315" group-title="Noticias",CNN INTERNACIONAL HD
+http://liontv.es:8080/ReneLatino30/ycvgQuW5zV/345606
+#EXTINF:-1 group-title="Noticias",CNN INTERNACIONAL HD²
+http://38.91.106.197:80/nau9JBYrOq/bTE1IEaPRH/139354
+#EXTINF:-1 tvg-id="" tvg-name="DW" tvg-logo="http://mundo2.vip:8080/images/0bdfe2e55090d6be70793778d0d8e147.png" group-title="Noticias",DW
+http://resplaytvofc.vip:80//live/cliente617/654321/317520.ts
+#EXTINF:-1 tvg-id="" tvg-name="DW Espanol (1080p)" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="Noticias",DW Espanol (1080p)
+http://elpapanatas.space:8080/eder7378/8388eder/397878
+#EXTINF:-1 tvg-id="" tvg-name="DW Espanol FHD" tvg-logo="http://spott4k.online:8080/images/logopedia/DW_ESPANOL_305304.png" group-title="Noticias",DW Espanol FHD
+http://spott4k.online:8080/FatmiriTV/jv8D9RARGJ/305304
+#EXTINF:-1 tvg-id="DWespanol.ar" tvg-name="DW Español" tvg-logo="https://i.ibb.co/hdqsJXJ/dwsdddddd.png" group-title="Noticias",DW Español
+http://avefenixtv.com:80/gilbertoking/aZLwiv7TUB/79084.ts
+#EXTINF:-1 tvg-id="" tvg-name="DW Español (FHD)" tvg-logo="https://i.postimg.cc/Dykd1Z1p/image.png" group-title="Noticias",DW Español (FHD)
+http://xstr.cyou:8080/IsaacB0013/B4qJCJN47tBQ/474741
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 24" tvg-logo="https://i.postimg.cc/hGhLb7vY/france24.png" group-title="Noticias",FRANCE 24
+http://xstr.cyou:8080/IsaacB0013/B4qJCJN47tBQ/110350
+#EXTINF:-1 tvg-id="" tvg-name="France 24 Espaol FHD" tvg-logo="http://spott4k.online:8080/images/logopedia/FRANCE_24_ESPAOL_305310.png" group-title="Noticias",France 24 Espaol FHD
+http://spott4k.online:8080/FatmiriTV/jv8D9RARGJ/305310
+#EXTINF:-1 group-title="Noticias",France 24 Español
+http://streamprostk.com:2082/johnnyamador/478445688/49499
+#EXTINF:-1 tvg-id="" tvg-name="France 24 Español (1080p)" tvg-logo="https://i.imgur.com/u8N6uoj.png" group-title="Noticias",France 24 Español (1080p)
+http://elpapanatas.space:8080/eder7378/8388eder/141168
+#EXTINF:-1 tvg-id="france24.fr" tvg-name="FRANCE 24 FHD" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-FRANCEFHD/FRANCE24.png" group-title="Noticias",FRANCE 24 FHD
+http://refapp.pro:80/510055154762083/1593574628/138
+#EXTINF:-1 xui-id="451" tvg-id="" tvg-name="FRANCE 24 HD" tvg-logo="http://fomo.re:80/images/UK_france_24.png" group-title="Noticias",FRANCE 24 HD
+http://fomo.re:80/play/BYvCkTUxzu0kEjk_qRZXbyGitwhkCwfncacWmB07P4A/ts
+#EXTINF:-1 group-title="Noticias",France 24 | French
+http://streamprostk.com:2082/johnnyamador/478445688/41516
+#EXTINF:-1 tvg-id="" tvg-name="TV Senado HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TV_Senado.svg/1200px-TV_Senado.svg.png" group-title="Noticias",TV Senado HD
+http://elpapanatas.space:8080/eder7378/8388eder/239790
+#EXTINF:-1 group-title="Noticias",TV SENADO HD²
+http://38.91.106.197:80/nau9JBYrOq/bTE1IEaPRH/139326
+#EXTINF:-1 xui-id="357998" tvg-id="" tvg-name="TV Senado | CL" tvg-logo="https://cdn.m3u.cl/logo/444_TV_Senado.png" group-title="Noticias",TV Senado | CL
+https://boxtreampro.vip:2087/play/gErEWaqXwwIab6JWeCfjEVGHQaSxtZIJyHk5jNJkDYUL7uabbU152pyQfOv65zEB/ts
 
-#EXTINF:-1 group-title="Fox",FOX FHD
-http://resplaytvofc.vip:80//live/Cristianbe56/Benavente56/110157.ts
-#EXTINF:-1 group-title="Fox",USA: Fox Atlanta HD WAGA
-http://resplaytvofc.vip:80//live/Cristianbe56/Benavente56/399164.ts
-#EXTINF:-1 group-title="Fox",USA: Fox Atlanta WAGA HD
-http://resplaytvofc.vip:80//live/cliente617/654321/399163.ts
-#EXTINF:-1 group-title="Fox",USA: FOX Boston WFXT HD
-http://resplaytvofc.vip:80//live/Cristianbe56/Benavente56/399431.ts
-#EXTINF:-1 group-title="Fox",USA: Fox Business Network HD
-http://resplaytvofc.vip:80//live/7109212/710472267/399167.ts
-#EXTINF:-1 group-title="Fox",USA: Fox Cleveland WJW HD
-http://resplaytvofc.vip:80//live/AbigailQuintuna/LV9z2EEPrmGE/399169.ts
-#EXTINF:-1 group-title="Fox",USA: Fox News HD USA
-http://resplaytvofc.vip:80//live/ClienteHenryC1A24n/NJMeWb8NaMST/399179.ts
-#EXTINF:-1 group-title="Fox",USA: Fox Soccer + FHD USA
-http://resplaytvofc.vip:80//live/Cristianbe56/Benavente56/399182.ts
-#EXTINF:-1 group-title="Fox",USA| FOX NEWS HD
-http://rlatinop.com:8880/Jhonatan2.tv/x9428sVkss7T/452697
-#EXTINF:-1 group-title="Fox",ᴺᴱᵂˢ | FOX NEWS FHD
-http://resplaytvofc.vip:80//live/Cristianbe56/Benavente56/399510.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/250px-ESPN_wordmark.svg.png" group-title="ESPN",ESPN
+http://elpapanatas.space:8080/eder7378/8388eder/207954
+#EXTINF:-1 group-title="ESPN",ESPN 1 FHD²
+http://38.91.106.197:80/nau9JBYrOq/bTE1IEaPRH/138546
+#EXTINF:-1 group-title="ESPN",ESPN 1 HD²
+http://38.91.106.197:80/nau9JBYrOq/bTE1IEaPRH/138547
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2  FHD | AR" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/wcualh1660760950.png" group-title="ESPN",ESPN 2  FHD | AR
+http://avefenixtv.com:80/gilbertoking/aZLwiv7TUB/712744.ts
+#EXTINF:-1 tvg-id="ESPN 2 HD" tvg-name="ESPN 2 FHD" tvg-logo="http://fplay.me/images/YljKBdOJdm3PuPv_iWyAeTJ_Z2xfX-SzY3vAsL8v_KOqVnW5juFC5oG8HUWUvPlDpXF_UMK7eXLTeEikptsf7vnayRWuxIml5BM_W8GnlrY.png" group-title="ESPN",ESPN 2 FHD
+http://dbox10.com:80/247000869047/166157246103/24639.ts
+#EXTINF:-1 group-title="ESPN",ESPN 2 FHD²
+http://38.91.106.197:80/nau9JBYrOq/bTE1IEaPRH/138911
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/250px-ESPN2_logo.svg.png" group-title="ESPN",ESPN 2 HD
+http://elpapanatas.space:8080/eder7378/8388eder/207955
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD ARG" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=262x10000:format=png/path/s86a1480785a470a0/image/i91a3a3b97ec03fad/version/1480780272/image.png" group-title="ESPN",ESPN 2 HD ARG
+http://planettvweb.com:8091/FedericoGonzalez/Gonzalez404/11996
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD Colombia" tvg-logo="https://cdn.mitvstatic.com/channels/ar_espn-2_m.png" group-title="ESPN",ESPN 2 HD Colombia
+http://planettvweb.com:8091/FedericoGonzalez/Gonzalez404/11905
+#EXTINF:-1 group-title="ESPN",ESPN 2 HD²
+http://38.91.106.197:80/nau9JBYrOq/bTE1IEaPRH/138912
+#EXTINF:-1 xui-id="14859" tvg-id="ESPN2.us" tvg-name="ESPN 2 | HD" tvg-logo="http://xtreamview.net:80/images/75Dasug4Cl3n03mPqiyvKRt82bzHUjQBweNP3M57Xjk.png" group-title="ESPN",ESPN 2 | HD
+http://xtreamview.net:80/play/s2ndt497_d3_n9sbCQbq7-c4y3zU_nQvxP2dubpSt-g/m3u8
+#EXTINF:-1 tvg-id="ESPN 3 HD" tvg-name="ESPN 3 FHD" tvg-logo="http://fplay.me:80/images/YljKBdOJdm3PuPv_iWyAecKza6xMtoDn0YRdMcB4yTwbWc-tzAtwRnDFjzuS0lf3J2XycIlm1wNK9EKBpiWYI0ssh-JFS5dXU2Vwt0ex3gc.png" group-title="ESPN",ESPN 3 FHD
+http://dbox10.com:80/247000869047/166157246103/24652.ts
+#EXTINF:-1 group-title="ESPN",ESPN 3 FHD²
+http://38.91.106.197:80/nau9JBYrOq/bTE1IEaPRH/138915
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKEF6ZBpdGrphpxWN411VHj3RZ70HYSO0p4VNZo3UOxA&s=10" group-title="ESPN",ESPN 3 HD
+http://resplaytvofc.vip:80//live/cliente617/654321/306388.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD @" tvg-logo="https://i.postimg.cc/3JgzrFjr/espn3.jpg" group-title="ESPN",ESPN 3 HD @
+http://jumangis.cloud:2082/JairoVargas/5T5wLJjTbu/117717
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD ARG" tvg-logo="https://www.logolynx.com/images/logolynx/2b/2b8d3f1f3f0ceec6579802355fdce78f.jpeg" group-title="ESPN",ESPN 3 HD ARG
+http://planettvweb.com:8091/FedericoGonzalez/Gonzalez404/11915
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD| AR" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/wkdrnd1660760961.png" group-title="ESPN",ESPN 3 HD| AR
+http://avefenixtv.com:80/gilbertoking/aZLwiv7TUB/712745.ts
+#EXTINF:-1 group-title="ESPN",ESPN 3 HD²
+http://38.91.106.197:80/nau9JBYrOq/bTE1IEaPRH/138916
+#EXTINF:-1 xui-id="14860" tvg-id="ESPN3.us" tvg-name="ESPN 3 | HD" tvg-logo="http://xtreamview.net:80/images/Ak5Lq40t5V2oWuVdB30LspKRUWDEkVWyh67eBqSK7dV5vw5QcQ4_V7tprq-OuQ0iBiRfIPThe-hnNHA0wI5pz9IZcX0aoBkIoyyOtD7Z9KQ.png" group-title="ESPN",ESPN 3 | HD
+http://xtreamview.net:80/play/s2ndt497_d3_n9sbCQbq79j7YLPCq_1bT7jxTEzONyc/m3u8
+#EXTINF:-1 group-title="ESPN",ESPN 4
+http://streamprostk.com:2082/johnnyamador/478445688/50373
+#EXTINF:-1 tvg-id="ESPN 4 HD" tvg-name="ESPN 4 FHD" tvg-logo="http://fplay.me:80/images/YljKBdOJdm3PuPv_iWyAeVv38D-2kKzqRjA7B_lWDHgQSS61M0mkZdWpdfYP_6PK0hy-KhIIOYTXeFjoKQgJnEk7d669iBGj6yZwm5VrYao.png" group-title="ESPN",ESPN 4 FHD
+http://dbox10.com:80/247000869047/166157246103/24586.ts
+#EXTINF:-1 tvg-id="ESPN 4 HD" tvg-name="ESPN 4 FHD 2" tvg-logo="http://fplay.me:80/images/YljKBdOJdm3PuPv_iWyAeVv38D-2kKzqRjA7B_lWDHgQSS61M0mkZdWpdfYP_6PK0hy-KhIIOYTXeFjoKQgJnEk7d669iBGj6yZwm5VrYao.png" group-title="ESPN",ESPN 4 FHD 2
+http://dbox10.com:80/247000869047/166157246103/33806.ts
+#EXTINF:-1 group-title="ESPN",ESPN 4 FHD²
+http://38.91.106.197:80/nau9JBYrOq/bTE1IEaPRH/138943
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 HD" tvg-logo="https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/61a4c896fc740bb1476f0225_LOGO_ESPN4%5B2%5D.png" group-title="ESPN",ESPN 4 HD
+http://elpapanatas.space:8080/eder7378/8388eder/207957
+#EXTINF:-1 tvg-id="" tvg-name="Espn 4 HD @" tvg-logo="https://i.postimg.cc/rFs8DR0W/espn4.png" group-title="ESPN",Espn 4 HD @
+http://jumangis.cloud:2082/JairoVargas/5T5wLJjTbu/135242
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 HD | AR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/ESPN_4.svg/revision/latest/scale-to-width-down/250?cb=20211120194330" group-title="ESPN",ESPN 4 HD | AR
+http://avefenixtv.com:80/gilbertoking/aZLwiv7TUB/712746.ts
+#EXTINF:-1 group-title="ESPN",ESPN 4 HD²
+http://38.91.106.197:80/nau9JBYrOq/bTE1IEaPRH/138944
+#EXTINF:-1 group-title="ESPN",ESPN 5
+http://streamprostk.com:2082/johnnyamador/478445688/52202
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 5 FHD" tvg-logo="https://i.postimg.cc/c4VX2vfg/ESPN-5.png" group-title="ESPN",ESPN 5 FHD
+http://jumangis.cloud:2082/JairoVargas/5T5wLJjTbu/406364
+#EXTINF:-1 group-title="ESPN",ESPN 5 FHD²
+http://38.91.106.197:80/nau9JBYrOq/bTE1IEaPRH/138939
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 5 HD" tvg-logo="https://i.postimg.cc/c4VX2vfg/ESPN-5.png" group-title="ESPN",ESPN 5 HD
+http://avefenixtv.com:80/gilbertoking/aZLwiv7TUB/195496.ts
+#EXTINF:-1 group-title="ESPN",ESPN 5 HD²
+http://38.91.106.197:80/nau9JBYrOq/bTE1IEaPRH/138940
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 5HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/500px-ESPN_5_logo.svg.png" group-title="ESPN",ESPN 5HD
+http://elpapanatas.space:8080/eder7378/8388eder/207958
+#EXTINF:-1 tvg-id="ESPN7.co" tvg-name="ESPN 7" tvg-logo="https://i.postimg.cc/5NzBqwPb/espn7.png" group-title="ESPN",ESPN 7
+http://jumangis.cloud:2082/JairoVargas/5T5wLJjTbu/531138
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 7 FHD" tvg-logo="https://i.postimg.cc/rwqsjJzf/ESPN-7-logo-svg.png" group-title="ESPN",ESPN 7 FHD
+http://jumangis.cloud:2082/JairoVargas/5T5wLJjTbu/406370
+#EXTINF:-1 group-title="ESPN",ESPN 7 HD
+http://streamprostk.com:2082/johnnyamador/478445688/3083
+#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA" tvg-logo="https://i.postimg.cc/V61nPM8h/espn.jpg" group-title="ESPN",ESPN EXTRA
+http://jumangis.cloud:2082/JairoVargas/5T5wLJjTbu/138197
+#EXTINF:-1 group-title="ESPN",ESPN EXTRA FHD
+http://38.91.106.197:80/nau9JBYrOq/bTE1IEaPRH/73485
+#EXTINF:-1 group-title="ESPN",ESPN EXTRA FHD²
+http://38.91.106.197:80/nau9JBYrOq/bTE1IEaPRH/138907
+#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA FHD²²" tvg-logo="http://digitaltvsv.com:80/images/FROyVc99IF67kMP7WV1BheSTL2mOxJ74Yar5ErtSLQHCdkEV6vTF3G_ry2OXmMBzvNWWFCwb5bTTvuYPC_OqD84KUwl6HkHsKrmg4mC4ochgWixjPRt8nbT5smqzSMYHCp3eFqqjEGVDebdEsxK1Yojk9MCsCoJLQw42JYgWaQHd_Twht7Fu6a1kWYaZA23M.png" group-title="ESPN",ESPN EXTRA FHD²²
+http://elpapanatas.space:8080/eder7378/8388eder/114330
+#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA HD" tvg-logo="https://pbs.twimg.com/media/FytQLIxXgAATtYC.jpg:large" group-title="ESPN",ESPN EXTRA HD
+http://avefenixtv.com:80/gilbertoking/aZLwiv7TUB/195673.ts
+#EXTINF:-1 group-title="ESPN",ESPN EXTRA HD²
+http://38.91.106.197:80/nau9JBYrOq/bTE1IEaPRH/138908
+#EXTINF:-1 tvg-id="" tvg-name="ESPN FHD" tvg-logo="https://elcomercio.pe/resizer/QikIJlcwRoKBJUtP64TMVNZKxZk=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/734Z5O7GVRH3XPIBNPA4AZSYFQ.png" group-title="ESPN",ESPN FHD
+http://avefenixtv.com:80/gilbertoking/aZLwiv7TUB/195674.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN FHD | AR" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/hdrkql1660762351.png" group-title="ESPN",ESPN FHD | AR
+http://avefenixtv.com:80/gilbertoking/aZLwiv7TUB/712743.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD" tvg-logo="https://elcomercio.pe/resizer/QikIJlcwRoKBJUtP64TMVNZKxZk=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/734Z5O7GVRH3XPIBNPA4AZSYFQ.png" group-title="ESPN",ESPN HD
+http://avefenixtv.com:80/gilbertoking/aZLwiv7TUB/195675.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD MX" tvg-logo="https://www.ecured.cu/images/thumb/2/2f/Espn_logo.jpg/260px-Espn_logo.jpg" group-title="ESPN",ESPN HD MX
+http://planettvweb.com:8091/FedericoGonzalez/Gonzalez404/11991
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD OP 2" tvg-logo="http://mundo2.pro:80/images/db74988ae31d459907f62c43dcc987eb.jpg" group-title="ESPN",ESPN HD OP 2
+http://resplaytvofc.vip:80//live/cliente617/654321/472221.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PREMIUM" tvg-logo="https://www.multifibra.ar/wp-content/uploads/2023/11/IMG_espn.png" group-title="ESPN",ESPN PREMIUM
+http://jumangis.cloud:2082/JairoVargas/5T5wLJjTbu/531139
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Premium  | AR FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="ESPN",ESPN Premium  | AR FHD
+http://avefenixtv.com:80/gilbertoking/aZLwiv7TUB/712747.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Premium HD" tvg-logo="https://cdn.storage.foromedios.com/monthly_2022_05/large_es.png.aa439426a82c10606ef062d67bd99b89.png" group-title="ESPN",ESPN Premium HD
+http://elpapanatas.space:8080/eder7378/8388eder/207960
+#EXTINF:-1 xui-id="14861" tvg-id="ESPN.us" tvg-name="ESPN | HD" tvg-logo="http://xtreamview.net:80/images/75Dasug4Cl3n03mPqiyvKSFFUojXxjSxIm6GSOm1H0U.png" group-title="ESPN",ESPN | HD
+http://xtreamview.net:80/play/s2ndt497_d3_n9sbCQbq7xCIraVipOIrefZF5144EqI/m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN2 HD" tvg-logo="https://elcomercio.pe/resizer/QikIJlcwRoKBJUtP64TMVNZKxZk=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/734Z5O7GVRH3XPIBNPA4AZSYFQ.png" group-title="ESPN",ESPN2 HD
+http://avefenixtv.com:80/gilbertoking/aZLwiv7TUB/195679.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN3 FHD" tvg-logo="http://digitaltvsv.com:80/images/6z4swcxHbKk6hOL9is6k_pbCw1qXryfPchVOjCPGeKZvd01jkwBWeJm9AY6E9rzuOmptFm7ZcMVf7FNPKc9JQyrxAC4T8nGvKczGdUmKn-9H8FtqgcXNqIa8LVm6z54LY7fPQ7e_j95sSwi8W1DnOw.png" group-title="ESPN",ESPN3 FHD
+http://elpapanatas.space:8080/eder7378/8388eder/114328
+#EXTINF:-1 tvg-id="" tvg-name="ESPN3 HD" tvg-logo="https://elcomercio.pe/resizer/QikIJlcwRoKBJUtP64TMVNZKxZk=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/734Z5O7GVRH3XPIBNPA4AZSYFQ.png" group-title="ESPN",ESPN3 HD
+http://avefenixtv.com:80/gilbertoking/aZLwiv7TUB/195681.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN4 FHD" tvg-logo="https://elcomercio.pe/resizer/QikIJlcwRoKBJUtP64TMVNZKxZk=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/734Z5O7GVRH3XPIBNPA4AZSYFQ.png" group-title="ESPN",ESPN4 FHD
+http://avefenixtv.com:80/gilbertoking/aZLwiv7TUB/195683.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN4 HD" tvg-logo="https://elcomercio.pe/resizer/QikIJlcwRoKBJUtP64TMVNZKxZk=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/734Z5O7GVRH3XPIBNPA4AZSYFQ.png" group-title="ESPN",ESPN4 HD
+http://avefenixtv.com:80/gilbertoking/aZLwiv7TUB/195684.ts
 
-#EXTINF:-1 group-title="Fox Sports",AR | FOX SPORTS 2 HD
-http://resplaytvofc.vip:80//live/Cristianbe56/Benavente56/50507.ts
-#EXTINF:-1 group-title="Fox Sports",D | Fox Sports 2 | COL HD
-http://resplaytvofc.vip:80//live/Cristianbe56/Benavente56/360945.ts
-#EXTINF:-1 group-title="Fox Sports",D | Fox Sports 3 | COL HD
-http://resplaytvofc.vip:80//live/Cristianbe56/Benavente56/360944.ts
-#EXTINF:-1 group-title="Fox Sports",D| Fox Sports 2 | ARG HD
-http://resplaytvofc.vip:80//live/Cristianbe56/Benavente56/361005.ts
-#EXTINF:-1 group-title="Fox Sports",D| Fox Sports 2 | CL HD
-http://resplaytvofc.vip:80//live/Cristianbe56/Benavente56/360962.ts
-#EXTINF:-1 group-title="Fox Sports",D| Fox Sports 2 | MX HD
-http://resplaytvofc.vip:80//live/Cristianbe56/Benavente56/361006.ts
-#EXTINF:-1 group-title="Fox Sports",D| FOX Sports Premium Arg HD
-http://resplaytvofc.vip:80//live/Cristianbe56/Benavente56/361018.ts
-#EXTINF:-1 group-title="Fox Sports",D| Fox Sports | ARG HD
-http://resplaytvofc.vip:80//live/Cristianbe56/Benavente56/361002.ts
-#EXTINF:-1 group-title="Fox Sports",D| Fox Sports | MX HD
-http://resplaytvofc.vip:80//live/Cristianbe56/Benavente56/360982.ts
-#EXTINF:-1 group-title="Fox Sports",FOX DEPORTES HD²
-http://TENTACYON.ORG:2096/Miguel25/Miguel25/737.ts
-#EXTINF:-1 group-title="Fox Sports",FOX SPORTS 2 HD
-http://resplaytvofc.vip:80//live/Cristianbe56/Benavente56/306500.ts
-#EXTINF:-1 group-title="Fox Sports",FOX SPORTS 2 MX HD²
-http://TENTACYON.ORG:2096/Sofia25/Sofia25/662.ts
-#EXTINF:-1 group-title="Fox Sports",FOX SPORTS 3 MX HD²
-http://TENTACYON.ORG:2096/Pedro74/Pedro74/674.ts
-#EXTINF:-1 group-title="Fox Sports",FOX SPORTS PREMIUM FHD²
-http://TENTACYON.ORG:2096/Sofia25/Sofia25/657.ts
-#EXTINF:-1 group-title="Fox Sports",MX | FOX SPORTS 1 HD
-http://resplaytvofc.vip:80//live/Cristianbe56/Benavente56/306299.ts
-#EXTINF:-1 group-title="Fox Sports",MX | FOX SPORTS PREMIUM HD
-http://resplaytvofc.vip:80//live/Cristianbe56/Benavente56/306663.ts
-#EXTINF:-1 group-title="Fox Sports",USA: Fox Deportes HD
-http://resplaytvofc.vip:80//live/Cristianbe56/Benavente56/399378.ts
-#EXTINF:-1 group-title="Fox Sports",USA: FOX Deportes HD USA
-http://resplaytvofc.vip:80//live/cliente617/654321/399230.ts
-#EXTINF:-1 group-title="Fox Sports",USA: Fox Sports Florida HD USA
-http://resplaytvofc.vip:80//live/jparodi/FE2rwz9p8KLP/399190.ts
-#EXTINF:-1 group-title="Fox Sports",USA: Fox Sports Ohaio HD
-http://resplaytvofc.vip:80//live/jparodi/FE2rwz9p8KLP/399186.ts
+#EXTINF:-1 tvg-id="TNTSPORTSFIX CL" tvg-name="TNT Sports" tvg-logo="https://logos.iptv.wtf/deportes/tntsportshd.png" group-title="TNT Sports",TNT Sports
+http://live.stablechannels.tv:80/live/fD1UHP3sR/k1vdCg559Z/6817.ts
+#EXTINF:-1 group-title="TNT Sports",TNT Sports  HD
+http://streamprostk.com:2082/johnnyamador/478445688/57161
+#EXTINF:-1 tvg-id="TNTSPORTSFIX CL" tvg-name="TNT Sports HD *" tvg-logo="https://logos.iptv.wtf/deportes/tntsportshd.png" group-title="TNT Sports",TNT Sports HD *
+http://live.stablechannels.tv:80/live/fD1UHP3sR/k1vdCg559Z/17.ts
+#EXTINF:-1 tvg-id="TNTSPORTSFIX CL" tvg-name="TNT Sports HD **" tvg-logo="https://logos.iptv.wtf/deportes/tntsportshd.png" group-title="TNT Sports",TNT Sports HD **
+http://live.stablechannels.tv:80/live/fD1UHP3sR/k1vdCg559Z/15174.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports HD ***" tvg-logo="https://logos.iptv.wtf/deportes/tntsportshd.png" group-title="TNT Sports",TNT Sports HD ***
+http://live.stablechannels.tv:80/live/fD1UHP3sR/k1vdCg559Z/15717.ts
+#EXTINF:-1 tvg-id="AR TNT SPORTS" tvg-name="TNT Sports HD ARG *" tvg-logo="http://logos.iptv.wtf/deportes/tntsports.png" group-title="TNT Sports",TNT Sports HD ARG *
+http://live.stablechannels.tv:80/live/fD1UHP3sR/k1vdCg559Z/13884.ts
+#EXTINF:-1 tvg-id="AR TNT SPORTS" tvg-name="TNT Sports HD ARG **" tvg-logo="http://logos.iptv.wtf/deportes/tntsports.png" group-title="TNT Sports",TNT Sports HD ARG **
+http://live.stablechannels.tv:80/live/fD1UHP3sR/k1vdCg559Z/13885.ts
+#EXTINF:-1 tvg-id="AR TNT SPORTS" tvg-name="TNT Sports HD ARG ***" tvg-logo="http://logos.iptv.wtf/deportes/tntsports.png" group-title="TNT Sports",TNT Sports HD ARG ***
+http://live.stablechannels.tv:80/live/fD1UHP3sR/k1vdCg559Z/13886.ts
+#EXTINF:-1 tvg-id="13 CULTURA CL" tvg-name="TNT Sports HD Argentina" tvg-logo="http://logos.iptv.wtf/deportes/tntsports.png" group-title="TNT Sports",TNT Sports HD Argentina
+http://live.stablechannels.tv:80/live/fD1UHP3sR/k1vdCg559Z/9486.ts
 
-#EXTINF:-1 group-title="HBO",CINE  | *HBO* POP  HD
-http://rlatinop.com:8880/61717117/qTWrKTLgrw4a/414471
-#EXTINF:-1 group-title="HBO",CINE  | HBO .POP  HD
-http://resplaytvofc.vip:80//live/Cristianbe56/Benavente56/1243.ts
-#EXTINF:-1 group-title="HBO",CINE  | HBO FAMILY FHD
-http://resplaytvofc.vip:80//live/Cristianbe56/Benavente56/51.ts
-#EXTINF:-1 group-title="HBO",CINE  | HBO PLUS  FHD
-http://resplaytvofc.vip:80//live/Cristianbe56/Benavente56/50.ts
-#EXTINF:-1 group-title="HBO",CINE  | HBO POP  FHD
-http://resplaytvofc.vip:80//live/Cristianbe56/Benavente56/1242.ts
-#EXTINF:-1 group-title="HBO",CINE | *HBO* F@MILY  HD
-http://rlatinop.com:8880/61717117/qTWrKTLgrw4a/414465
-#EXTINF:-1 group-title="HBO",CINE | *HBO* HD
-http://rlatinop.com:8880/61717117/qTWrKTLgrw4a/414468
-#EXTINF:-1 group-title="HBO",CINE | HBO  FHD
-http://resplaytvofc.vip:80//live/Cristianbe56/Benavente56/54.ts
-#EXTINF:-1 group-title="HBO",CINE | HBO MUNDI HD
-http://resplaytvofc.vip:80//live/Cristianbe56/Benavente56/53939.ts
-#EXTINF:-1 group-title="HBO",CINE | HBO MUNDl FHD
-http://resplaytvofc.vip:80//live/Cristianbe56/Benavente56/53937.ts
-#EXTINF:-1 group-title="HBO",CINE | HBO XTREME FHD
-http://resplaytvofc.vip:80//live/Cristianbe56/Benavente56/48.ts
-#EXTINF:-1 group-title="HBO",HBO 2 4K
-http://resplaytvofc.vip:80//live/Cristianbe56/Benavente56/400123.ts
-#EXTINF:-1 group-title="HBO",HBO Family 4K
-http://resplaytvofc.vip:80//live/cliente617/654321/400124.ts
-#EXTINF:-1 group-title="HBO",HBO MAX AVANCES FHD²
-http://TENTACYON.ORG:2096/Cristina26/Cristina26/103.ts
-#EXTINF:-1 group-title="HBO",HBO MUNDI | 4k
-http://resplaytvofc.vip:80//live/Cristianbe56/Benavente56/111738.ts
-#EXTINF:-1 group-title="HBO",HBO PLUS 4K
-http://resplaytvofc.vip:80//live/Cristianbe56/Benavente56/400126.ts
-#EXTINF:-1 group-title="HBO",HBO POP 4K
-http://resplaytvofc.vip:80//live/Cristianbe56/Benavente56/400127.ts
-#EXTINF:-1 group-title="HBO",HBO SIGNATURE | 4k
-http://resplaytvofc.vip:80//live/ClienteAnpacu240224/7pahj62ajgh/111741.ts
-#EXTINF:-1 group-title="HBO",HBO XTREME 4K
-http://resplaytvofc.vip:80//live/cliente617/654321/400129.ts
-#EXTINF:-1 group-title="HBO",HBO+ | 4k
-http://resplaytvofc.vip:80//live/ClienteAnpacu240224/7pahj62ajgh/111739.ts
-#EXTINF:-1 group-title="HBO",USA: HBO HITS FHD
-http://resplaytvofc.vip:80//live/Cristianbe56/Benavente56/399486.ts
-#EXTINF:-1 group-title="HBO",ᴜsᴀ Spᴏʀᴛs ᴴᴰ | WBTV HBO Boxing FHD
-http://resplaytvofc.vip:80//live/Cristianbe56/Benavente56/399000.ts
+#EXTINF:-1 xui-id="200409" tvg-id="GOLFBO" tvg-name="Golf Channel" tvg-logo="http://fomo.re:80/images/_dPfLuGUDAi0_8XEWWgXfBNQKdoVeFybDKwsK_f5OnjJxWaTtgsnKLIypQs7F2y-B5EeNWZtj4wUbwNuN3cpdw.png" group-title="Deportes",Golf Channel
+http://fomo.re:80/play/BYvCkTUxzu0kEjk_qRZXb-ZfjtyycGJ-FqO5mDyKuVc/ts
+#EXTINF:-1 group-title="Deportes",GOLF CHANNEL FHD
+http://cristalfumacento.xyz:80/43416216/78523449/1767709
+#EXTINF:-1 tvg-id="" tvg-name="GOLF CHANNEL HD" tvg-logo="http://www.africanamericangolfersdigest.com/wp-content/uploads/2015/01/TGC_logo_300x2001.jpg" group-title="Deportes",GOLF CHANNEL HD
+http://planettvweb.com:8091/FedericoGonzalez/Gonzalez404/11889
+#EXTINF:-1 tvg-id="" tvg-name="TyC Sports" tvg-logo="https://i.ibb.co/CWDY264/tvcsports.png" group-title="Deportes",TyC Sports
+http://elpapanatas.space:8080/eder7378/8388eder/207978
+#EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS HD" tvg-logo="https://play-lh.googleusercontent.com/lMZ8IE19zdpnlDuZSPtapCYDBDwOGXlovEMsZHXClDzl0m_MHuMM1Hsdo-oohnFW3Q" group-title="Deportes",TYC SPORTS HD
+http://elpapanatas.space:8080/eder7378/8388eder/258796
+#EXTINF:-1 tvg-id="13 CULTURA CL" tvg-name="TyC Sports HD *" tvg-logo="http://logos.iptv.wtf/deportes/tycsports.png" group-title="Deportes",TyC Sports HD *
+http://live.stablechannels.tv:80/live/fD1UHP3sR/k1vdCg559Z/9485.ts
+#EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS HD ARGENTINA OPCION 1" tvg-logo="https://i.postimg.cc/Zqw57ywZ/tyc-sport.jpg" group-title="Deportes",TYC SPORTS HD ARGENTINA OPCION 1
+http://jumangis.cloud:2082/JairoVargas/5T5wLJjTbu/117760
+#EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS HD ARGENTINA OPCION 2" tvg-logo="https://i.postimg.cc/Zqw57ywZ/tyc-sport.jpg" group-title="Deportes",TYC SPORTS HD ARGENTINA OPCION 2
+http://jumangis.cloud:2082/JairoVargas/5T5wLJjTbu/117761
+#EXTINF:-1 tvg-id="" tvg-name="VIa X" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/VIA_X.png" group-title="Deportes",VIa X
+http://avefenixtv.com:80/gilbertoking/aZLwiv7TUB/235662.ts
+
+#EXTINF:-1 group-title="UFC",06/06 Preliminar UFC - Paramount+ Español
+http://elpapanatas.space:8080/3mauric1206/XJQ7mmhZFf/441517
+#EXTINF:-1 group-title="UFC",Paramount Network
+http://elpapanatas.space:8080/3mauric1206/XJQ7mmhZFf/15472
+#EXTINF:-1 group-title="UFC",Paramount Network FHD
+http://elpapanatas.space:8080/3mauric1206/XJQ7mmhZFf/239822
+#EXTINF:-1 group-title="UFC",Paramount Network HD
+http://elpapanatas.space:8080/3mauric1206/XJQ7mmhZFf/239823
+#EXTINF:-1 group-title="UFC",PARAMOUNT+ UFC Fight Night EN ESPAÑOL
+http://toh-users.xyz:8080/jamesdowning3563@gmail.com/dVDQnULKaE/1176537
+#EXTINF:-1 group-title="UFC",PARAMOUNT+ UFC Fight Night ENGLISH
+http://toh-users.xyz:8080/jamesdowning3563@gmail.com/dVDQnULKaE/1176535
+#EXTINF:-1 group-title="UFC",UFC PARAMOUNT+ 1 FHD
+http://cristalfumacento.xyz:80/43416216/78523449/1770966
+#EXTINF:-1 group-title="UFC",UFC PARAMOUNT+ 1 HD
+http://cristalfumacento.xyz:80/43416216/78523449/233137
 
 #EXTINF:-1 tvg-id="" tvg-name="06/05 Basketball 08:30pm: New York Knicks @ San Antonio Spurs: NBA Finals - NYK leads 1-0" tvg-logo="https://i.postimg.cc/nV4nVJHG/ESTO_ES_TV_-_NBA.png" group-title="NBA",06/05 Basketball 08:30pm: New York Knicks @ San Antonio Spurs: NBA Finals - NYK leads 1-0
 http://elpapanatas.space:8080/JavierRenderos/xakRfkrgDJ/441178
@@ -428,90 +439,3 @@ http://xstr.cyou:8080/Arce3682/cEGuVWH9dcMQ/580417
 http://xstr.cyou:8080/Arce3682/cEGuVWH9dcMQ/580418
 #EXTINF:-1 tvg-id="" tvg-name="★ NBA ★ 66: PORTLAND TRAIL BLAZERS" tvg-logo="http://onerestream.us:80/images/E8KGoSwj2u7k1yTTl5XI6QIw5RHsM5idmSlUbG46URGX8wBLkH5gGJQgakPfOeiMnsgb7A05_2lOwDJuAycwThMr8tVAK3VJH7C1lrJ9p1NdzP-WnHGzzSHaFj0kvZ1_Gr5etJfTYhymZTYpbVMNBmDjpnlja0jWnwXGupyE9nfUa4ShibAFrUxjYn8KJES3.jpg" group-title="NBA",★ NBA ★ 66: PORTLAND TRAIL BLAZERS
 http://xstr.cyou:8080/Arce3682/cEGuVWH9dcMQ/580419
-
-#EXTINF:-1 group-title="Otros",CL∆R0 SP0RTS GT HD
-http://resplaytvofc.vip:80//live/Cristianbe56/Benavente56/115785.ts
-#EXTINF:-1 group-title="Otros",DAZN Combat Germany (1080p)
-http://elpapanatas.space:8080/JavierRenderos/xakRfkrgDJ/80657
-#EXTINF:-1 group-title="Otros",MLB | Boston Red Sox
-http://infinitisurl.com:8080/JARED34/675GTd/594062
-#EXTINF:-1 group-title="Otros",Tele Oriental Digital | DO
-http://infinitisurl.com:8080/JARED34/675GTd/433496
-#EXTINF:-1 group-title="Otros",★ NBA ★ 39: DALLAS MAVERICKS -PR-
-http://infinitisurl.com:8080/JARED34/675GTd/580392
-#EXTINF:-1 group-title="Otros",★ NBA ★ 40: DALLAS MAVERICKS
-http://infinitisurl.com:8080/JARED34/675GTd/580393
-
-#EXTINF:-1 group-title="TNT / Turner",CINE  | TNT  FHD
-http://rlatinop.com:8880/61717117/qTWrKTLgrw4a/414473
-#EXTINF:-1 group-title="TNT / Turner",CINE  | TNT SERIES  FHD
-http://rlatinop.com:8880/61717117/qTWrKTLgrw4a/414476
-#EXTINF:-1 group-title="TNT / Turner",TBS | TNT NOVELAS HD
-http://rlatinop.com:8880/61717117/qTWrKTLgrw4a/422647
-#EXTINF:-1 group-title="TNT / Turner",TNT 4K
-http://resplaytvofc.vip:80//live/Cristianbe56/Benavente56/400177.ts
-#EXTINF:-1 group-title="TNT / Turner",TNT Novelas 4K
-http://resplaytvofc.vip:80//live/cliente617/654321/400178.ts
-#EXTINF:-1 group-title="TNT / Turner",TNT Series 4K
-http://resplaytvofc.vip:80//live/cliente617/654321/400180.ts
-#EXTINF:-1 group-title="TNT / Turner",USA: TNT HD
-http://resplaytvofc.vip:80//live/cliente617/654321/399352.ts
-
-#EXTINF:-1 group-title="TNT Sports",CL | *T*N*T SPORTS FHD /OP /0
-http://resplaytvofc.vip:80//live/Cristianbe56/Benavente56/276334.ts
-#EXTINF:-1 group-title="TNT Sports",CL | *T*N*T SPORTS HD / OP / 02
-http://resplaytvofc.vip:80//live/Cristianbe56/Benavente56/276335.ts
-#EXTINF:-1 group-title="TNT Sports",CL | *T*N*T SPORTS HD/OP/ 01
-http://resplaytvofc.vip:80//live/Cristianbe56/Benavente56/276332.ts
-#EXTINF:-1 group-title="TNT Sports",TNT Sports COL HD²
-http://TENTACYON.ORG:2096/Pedro74/Pedro74/728.ts
-#EXTINF:-1 group-title="TNT Sports",TNT Sports HD²
-http://TENTACYON.ORG:2096/Miguel25/Miguel25/730.ts
-
-
-#EXTINF:-1 group-title="Warner",CINE | WARNER  FHD
-http://rlatinop.com:8880/61717117/qTWrKTLgrw4a/414485
-#EXTINF:-1 group-title="Warner",Warner Channel 4K
-http://resplaytvofc.vip:80//live/ANWRtU64Wd/7yQ4ngDkVm/400193.ts
-#EXTINF:-1 group-title="Warner",Warner TV FHD |opc-1|
-http://resplaytvofc.vip:80//live/Cristianbe56/Benavente56/316369.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="ARG | ESPN PREMIUM ᴴᴰ" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/604.png" group-title="ESPN",ARG | ESPN PREMIUM ᴴᴰ
-http://elpapanatas.space:8080/JavierRenderos/xakRfkrgDJ/1123
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 FHD" tvg-logo="http://digitaltvsv.com:80/images/lnuIy0tt2FGLwvxuRltWPNlgh3rP0HxNUmv7PmUQHVD2YFKvrBTZ1Ub7H_E330IgcqSvEuW6O9gPtzeppSpkSXskVVUR-RzZQXfoVq5DvTM.png" group-title="ESPN",ESPN 1 FHD
-http://elpapanatas.space:8080/JavierRenderos/xakRfkrgDJ/114325
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/250px-ESPN2_logo.svg.png" group-title="ESPN",ESPN 2 HD
-http://elpapanatas.space:8080/JavierRenderos/xakRfkrgDJ/207955
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKEF6ZBpdGrphpxWN411VHj3RZ70HYSO0p4VNZo3UOxA&s=10" group-title="ESPN",ESPN 3 HD
-http://resplaytvofc.vip:80//live/Cristianbe56/Benavente56/306388.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 HD" tvg-logo="https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/61a4c896fc740bb1476f0225_LOGO_ESPN4%5B2%5D.png" group-title="ESPN",ESPN 4 HD
-http://elpapanatas.space:8080/JavierRenderos/xakRfkrgDJ/207957
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 5HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/500px-ESPN_5_logo.svg.png" group-title="ESPN",ESPN 5HD
-http://elpapanatas.space:8080/JavierRenderos/xakRfkrgDJ/207958
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 7HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/1280px-ESPN_7_logo.svg.png" group-title="ESPN",ESPN 7HD
-http://elpapanatas.space:8080/JavierRenderos/xakRfkrgDJ/207959
-#EXTINF:-1 tvg-id="" tvg-name="ESPN HD OP 2" tvg-logo="http://mundo2.pro:80/images/db74988ae31d459907f62c43dcc987eb.jpg" group-title="ESPN",ESPN HD OP 2
-http://resplaytvofc.vip:80//live/Cristianbe56/Benavente56/472221.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN PREMIUM ARGENTINA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/512px-ESPN_Premium_logo.svg.png" group-title="ESPN",ESPN PREMIUM ARGENTINA HD
-http://elpapanatas.space:8080/JavierRenderos/xakRfkrgDJ/258745
-#EXTINF:-1 tvg-id="" tvg-name="ESPN Premium HD" tvg-logo="https://cdn.storage.foromedios.com/monthly_2022_05/large_es.png.aa439426a82c10606ef062d67bd99b89.png" group-title="ESPN",ESPN Premium HD
-http://elpapanatas.space:8080/JavierRenderos/xakRfkrgDJ/207960
-#EXTINF:-1 tvg-id="" tvg-name="ESPN3 FHD" tvg-logo="http://digitaltvsv.com:80/images/6z4swcxHbKk6hOL9is6k_pbCw1qXryfPchVOjCPGeKZvd01jkwBWeJm9AY6E9rzuOmptFm7ZcMVf7FNPKc9JQyrxAC4T8nGvKczGdUmKn-9H8FtqgcXNqIa8LVm6z54LY7fPQ7e_j95sSwi8W1DnOw.png" group-title="ESPN",ESPN3 FHD
-http://elpapanatas.space:8080/JavierRenderos/xakRfkrgDJ/114328
-
-#EXTINF:-1 group-title="UFC",06/06 Preliminar UFC - Paramount+ Español
-http://elpapanatas.space:8080/3mauric1206/XJQ7mmhZFf/441517
-#EXTINF:-1 group-title="UFC",Paramount Network
-http://elpapanatas.space:8080/3mauric1206/XJQ7mmhZFf/15472
-#EXTINF:-1 group-title="UFC",Paramount Network FHD
-http://elpapanatas.space:8080/3mauric1206/XJQ7mmhZFf/239822
-#EXTINF:-1 group-title="UFC",Paramount Network HD
-http://elpapanatas.space:8080/3mauric1206/XJQ7mmhZFf/239823
-#EXTINF:-1 group-title="UFC",PARAMOUNT+ UFC Fight Night EN ESPAÑOL
-http://toh-users.xyz:8080/jamesdowning3563@gmail.com/dVDQnULKaE/1176537
-#EXTINF:-1 group-title="UFC",PARAMOUNT+ UFC Fight Night ENGLISH
-http://toh-users.xyz:8080/jamesdowning3563@gmail.com/dVDQnULKaE/1176535
-#EXTINF:-1 group-title="UFC",UFC PARAMOUNT+ 1 FHD
-http://cristalfumacento.xyz:80/43416216/78523449/1770966
-#EXTINF:-1 group-title="UFC",UFC PARAMOUNT+ 1 HD
-http://cristalfumacento.xyz:80/43416216/78523449/233137

@@ -1,0 +1,3491 @@
+﻿Extrayendo canales de los archivos M3U...
+  super_lista_limpia.m3u: 3054 canales candidatos
+  lista_redworld.m3u: 96 canales candidatos
+
+Total candidatos (sin duplicados): 2862
+Verificando cuales estan en linea (esto toma unos minutos)...
+
+  [VIVO] M+Cine Espanol FHD¹
+  [VIVO] WARNER TV HD¹
+  [VIVO] BOM cine FHD²
+  [VIVO] BOM cine FHD²
+  [VIVO] Syfy HD¹
+  [VIVO] BOM cine FHD²
+  [VIVO] FOX DEPORTES HD²
+  [VIVO] FOX DEPORTES HD²
+  [VIVO] HBO MAX AVANCES FHD²
+  [VIVO] ESPN 5 HD²
+  [VIVO] M+Cine Espanol FHD¹
+  [VIVO] WARNER TV FHD²
+  [VIVO] HBO MAX AVANCES FHD²
+  [VIVO] WARNER TV FHD²
+  [VIVO] AXN HD¹
+  [VIVO] AXN FHD²
+  ... Verificados 50/2862 | Activos hasta ahora: 16
+  [VIVO] AXN FHD²
+  [VIVO] FOX SPORTS HD²
+  [VIVO] FOX SPORTS HD²
+  [VIVO] WARNER TV HD¹
+  [VIVO] ESPN 5 HD²
+  [VIVO] AXN MOVIES HD¹
+  [VIVO] AXN MOVIES FHD²
+  [VIVO] ESPN 2 HD²
+  [VIVO] Syfy HD¹
+  [VIVO] AXN MOVIES HD¹
+  [VIVO] TNT Sports HD²
+  [VIVO] Syfy FHD²
+  [VIVO] ESPN 5 HD²
+  [VIVO] Runtime Cine Y Series FHD¹
+  [VIVO] FOX DEPORTES HD²
+  [VIVO] TNT Sports HD²
+  [VIVO] M+Cine Espanol FHD¹
+  [VIVO] WARNER TV FHD²
+  [VIVO] FOX SPORTS HD²
+  [VIVO] HBO MAX AVANCES FHD²
+  [VIVO] STAR CHANNEL HD¹
+  [VIVO] WARNER TV HD¹
+  [VIVO] BOM cine FHD²
+  [VIVO] AXN MOVIES FHD²
+  [VIVO] AXN FHD²
+  [VIVO] STAR CHANNEL HD¹
+  [VIVO] Syfy HD¹
+  [VIVO] AXN HD¹
+  [VIVO] ESPN 2 HD²
+  [VIVO] ESPN 5 HD²
+  [VIVO] FOX DEPORTES HD²
+  [VIVO] FOX SPORTS HD²
+  [VIVO] WARNER TV FHD²
+  [VIVO] M+Cine Espanol FHD¹
+  [VIVO] TNT Sports HD²
+  ... Verificados 100/2862 | Activos hasta ahora: 51
+  [VIVO] AXN MOVIES HD¹
+  [VIVO] STAR CHANNEL FHD²
+  [VIVO] Syfy FHD²
+  [VIVO] BOM cine FHD²
+  [VIVO] AXN FHD²
+  [VIVO] WARNER TV HD¹
+  [VIVO] Runtime Cine Y Series FHD¹
+  [VIVO] AXN HD¹
+  [VIVO] STAR CHANNEL HD¹
+  [VIVO] HBO MAX AVANCES FHD²
+  [VIVO] Runtime Cine Y Series FHD¹
+  [VIVO] Syfy FHD²
+  [VIVO] ESPN 2 HD²
+  [VIVO] AXN MOVIES FHD²
+  [VIVO] AXN MOVIES HD¹
+  [VIVO] FOX DEPORTES HD²
+  [VIVO] FOX SPORTS HD²
+  [VIVO] Syfy HD¹
+  [VIVO] TNT Sports HD²
+  [VIVO] WARNER TV FHD²
+  [VIVO] HBO MAX AVANCES FHD²
+  [VIVO] M+Cine Espanol FHD¹
+  [VIVO] STAR CHANNEL FHD²
+  [VIVO] AXN FHD²
+  [VIVO] BOM cine FHD²
+  [VIVO] AXN MOVIES FHD²
+  [VIVO] AXN MOVIES HD¹
+  [VIVO] AXN HD¹
+  [VIVO] WARNER TV HD¹
+  [VIVO] STAR CHANNEL HD¹
+  [VIVO] Syfy FHD²
+  [VIVO] Runtime Cine Y Series FHD¹
+  [VIVO] ESPN 2 HD²
+  ... Verificados 150/2862 | Activos hasta ahora: 84
+  [VIVO] Syfy HD¹
+  [VIVO] ESPN 5 HD²
+  [VIVO] CL | CHILEVISION HD
+  [VIVO] ESPN 5 HD²
+  [VIVO] STAR CHANNEL FHD²
+  [VIVO] CL | MEGA HD
+  [VIVO] TNT Sports HD²
+  [VIVO] CL | CHILEVISION HD
+  [VIVO] CL | MEGA HD
+  [VIVO] CL | CHILEVISION HD
+  [VIVO] CL | MEGA HD
+  [VIVO] CL | 24 HORAS HD
+  [VIVO] CL | UCV HD
+  [VIVO] CL | LA RED HD
+  [VIVO] CL | CANAL 13 HD
+  [VIVO] CL | *TV*N HD
+  [VIVO] CL | UCV HD
+  [VIVO] FOX SPORTS 3 MX HD²
+  [VIVO] CL | 24 HORAS HD
+  [VIVO] CL | LA RED HD
+  [VIVO] CL | NTV HD
+  [VIVO] Naruto Shippuden 8: Boruto La Pelicula FHD (2015)
+  [VIVO] TNT Sports COL HD²
+  [VIVO] CL | CANAL 13 HD
+  [VIVO] CL | TELETRAK HD
+  [VIVO] CL | *TV*N HD
+  [VIVO] FOX SPORTS HD²
+  [VIVO] FOX SPORTS 3 MX HD²
+  [VIVO] ESPN 6 HD²
+  [VIVO] FOX SPORTS 3 HD²
+  [VIVO] FOX SPORTS PREMIUM FHD²
+  [VIVO] CINE  | A&E FHD
+  [VIVO] CINE  | A&E HD
+  [VIVO] CINE | STAR CHANNEL  HD
+  [VIVO] CINE  | *HBÖ* 2 HD
+  [VIVO] FOX DEPORTES HD²
+  [VIVO] TNT Sports COL HD²
+  [VIVO] CINE | STAR CHANNEL  FHD
+  [VIVO] CINE | *HBO* F@MILY  HD
+  ... Verificados 200/2862 | Activos hasta ahora: 123
+  [VIVO] CINE | *HBO* HD
+  [VIVO] CINE  | *HBO* POP  HD
+  [VIVO] CINE  | TNT  FHD
+  [VIVO] CINE  | TNT  HD
+  [VIVO] CINE  | TNT SERIES  FHD
+  [VIVO] CINE | TNT SERIES  HD
+  [VIVO] FOX SPORTS 2 MX HD²
+  [VIVO] CINE | CINECANAL  FHD
+  [VIVO] CINE | WARNER  FHD
+  [VIVO] CINE | CINECANAL  HD
+  [VIVO] CINE | AXN  HD
+  [VIVO] CINE | WARNER  HD
+  [VIVO] CINE | SONY  FHD
+  [VIVO] CINE | SONY  HD
+  [VIVO] CINE | TCM  FHD
+  [VIVO] CINE | TCM  HD
+  [VIVO] CINE | FX  FHD
+  [VIVO] CINE | FX  HD
+  [VIVO] CINE | SPACE CHANEL  HD
+  [VIVO] CINE | SPACE CHANEL  FHD
+  [VIVO] ESPN HD²
+  [VIVO] FOX SPORTS 3 HD²
+  [VIVO] ESPN 3 HD²
+  [VIVO] CINE | AMC  FHD
+  [VIVO] CINE | AMC HD
+  [VIVO] CINE | GOLDEN  HD
+  [VIVO] CINE | PARAMOUNT CHANEL FHD
+  [VIVO] CINE GOLDEN PLUS FHD
+  [VIVO] CINE | GOLDEN PLUS HD
+  [VIVO] CINE | PARAMOUNT CHANEL HD
+  [VIVO] CINE | GOLDEN  FHD
+  [VIVO] TBS | TNT NOVELAS HD
+  [VIVO] ESPN 4 HD²
+  [VIVO] PREMIER CHI | OP 3 HD
+  [VIVO] FUT PREMIER CHI | HD OP 2
+  [VIVO] FOX SPORTS 2 HD²
+  [VIVO] CL | VIA X HD
+  [VIVO] PREM CHI | HD OP1 (SOLO EVENTOS IMPORTANTES)
+  [VIVO] FUT PREMIER CHI | HD(SOLO EVENTOS IMPORTANTES)
+  ... Verificados 250/2862 | Activos hasta ahora: 162
+  [VIVO] CL | TELETRAK HD
+  [VIVO] CL | NTV HD
+  [VIVO] Naruto Shippuden 8: Boruto La Pelicula FHD (2015)
+  [VIVO] CINE  | A&E FHD
+  [VIVO] CINE  | A&E HD
+  [VIVO] CINE | STAR CHANNEL  HD
+  [VIVO] CINE  | *HBÖ* 2 HD
+  [VIVO] CINE | STAR CHANNEL  FHD
+  [VIVO] CINE | *HBO* F@MILY  HD
+  [VIVO] CINE | *HBO* HD
+  [VIVO] CINE  | *HBO* POP  HD
+  [VIVO] CINE  | TNT  FHD
+  [VIVO] CINE  | TNT  HD
+  [VIVO] CINE  | TNT SERIES  FHD
+  [VIVO] CINE | TNT SERIES  HD
+  [VIVO] CINE | CINECANAL  FHD
+  [VIVO] CINE | CINECANAL  HD
+  ... Verificados 300/2862 | Activos hasta ahora: 179
+  [VIVO] CINE | AXN  HD
+  [VIVO] CINE | WARNER  FHD
+  [VIVO] CINE | WARNER  HD
+  [VIVO] CINE | SONY  FHD
+  [VIVO] CINE | SONY  HD
+  [VIVO] CINE | TCM  FHD
+  [VIVO] CINE | TCM  HD
+  [VIVO] CINE | UNIVERSAL CHANEL  FHD
+  [VIVO] CINE | FX  FHD
+  [VIVO] CINE | FX  HD
+  [VIVO] CINE | UNIVERSAL CHANEL  HD
+  [VIVO] CINE | SPACE CHANEL  FHD
+  [VIVO] CINE | SPACE CHANEL  HD
+  [VIVO] CINE | AMC  FHD
+  [VIVO] CINE | AMC HD
+  [VIVO] CINE | GOLDEN  HD
+  [VIVO] CINE | PARAMOUNT CHANEL FHD
+  [VIVO] CINE GOLDEN PLUS FHD
+  [VIVO] CINE | GOLDEN PLUS HD
+  [VIVO] CINE | PARAMOUNT CHANEL HD
+  [VIVO] TBS | TNT NOVELAS HD
+  [VIVO] PREMIER CHI | OP 3 HD
+  [VIVO] CINE | GOLDEN  FHD
+  [VIVO] FUT PREMIER CHI | HD OP 2
+  [VIVO] USA| CINEMAX EAST HD
+  [VIVO] CL | VIA X HD
+  [VIVO] PREM CHI | HD OP1 (SOLO EVENTOS IMPORTANTES)
+  [VIVO] FUT PREMIER CHI | HD(SOLO EVENTOS IMPORTANTES)
+  [VIVO] USA| VIP MOVIE 5 STARMAX HD
+  [VIVO] FUT BASIC HD (CHI)
+  [VIVO] CL | UCV HD
+  ... Verificados 350/2862 | Activos hasta ahora: 210
+  [VIVO] USA| FOX NEWS HD
+  [VIVO] CL | 24 HORAS HD
+  [VIVO] CL | LA RED HD
+  [VIVO] CL | NTV HD
+  [VIVO] CL | CANAL 13 HD
+  [VIVO] Naruto Shippuden 8: Boruto La Pelicula FHD (2015)
+  [VIVO] CL | *TV*N HD
+  [VIVO] CL | TELETRAK HD
+  ... Verificados 400/2862 | Activos hasta ahora: 218
+  [VIVO] CINE  | A&E FHD
+  [VIVO] CINE | STAR CHANNEL  HD
+  [VIVO] CINE  | *HBÖ* 2 HD
+  [VIVO] CINE | STAR CHANNEL  FHD
+  [VIVO] CINE | *HBO* F@MILY  HD
+  [VIVO] CINE | *HBO* HD
+  [VIVO] CINE | TNT SERIES  HD
+  [VIVO] CINE | AXN  HD
+  [VIVO] CINE | WARNER  HD
+  [VIVO] CINE | SONY  FHD
+  [VIVO] CINE | SONY  HD
+  [VIVO] CINE | TCM  FHD
+  [VIVO] CINE | AMC  FHD
+  [VIVO] CINE | UNIVERSAL CHANEL  HD
+  [VIVO] CINE | PARAMOUNT CHANEL FHD
+  [VIVO] CINE GOLDEN PLUS FHD
+  [VIVO] CINE | GOLDEN PLUS HD
+  [VIVO] CINE | PARAMOUNT CHANEL HD
+  ... Verificados 450/2862 | Activos hasta ahora: 236
+  [VIVO] FUT PREMIER CHI | HD OP 2
+  [VIVO] USA| CINEMAX EAST HD
+  [VIVO] CINE | GOLDEN  FHD
+  [VIVO] USA| VIP MOVIE 5 STARMAX HD
+  [VIVO] FUT PREMIER CHI | HD(SOLO EVENTOS IMPORTANTES)
+  [VIVO] FUT BASIC HD (CHI)
+  [VIVO] USA| FOX NEWS HD
+  [VIVO] CL | UCV HD
+  ... Verificados 500/2862 | Activos hasta ahora: 244
+  [VIVO] CL | CHILEVISION HD
+  [VIVO] CL | 24 HORAS HD
+  [VIVO] Naruto Shippuden 8: Boruto La Pelicula FHD (2015)
+  [VIVO] CL | CHILEVISION HD
+  [VIVO] CINE  | A&E HD
+  [VIVO] CINE | *HBO* HD
+  [VIVO] CINE  | *HBO* POP  HD
+  [VIVO] CINE  | TNT  HD
+  [VIVO] CINE | CINECANAL  FHD
+  [VIVO] CINE | WARNER  HD
+  [VIVO] CINE | SONY  FHD
+  [VIVO] CINE | UNIVERSAL CHANEL  FHD
+  [VIVO] CINE | FX  FHD
+  [VIVO] CINE | SPACE CHANEL  FHD
+  [VIVO] CINE | SPACE CHANEL  HD
+  [VIVO] CINE | PARAMOUNT CHANEL FHD
+  ... Verificados 550/2862 | Activos hasta ahora: 260
+  [VIVO] CINE GOLDEN PLUS FHD
+  [VIVO] PREMIER CHI | OP 3 HD
+  [VIVO] FUT PREMIER CHI | HD OP 2
+  [VIVO] USA| CINEMAX EAST HD
+  [VIVO] USA| VIP MOVIE 5 STARMAX HD
+  [VIVO] CINE | GOLDEN  FHD
+  ... Verificados 600/2862 | Activos hasta ahora: 266
+  ... Verificados 650/2862 | Activos hasta ahora: 266
+  [VIVO] CL | 24 HORAS HD
+  ... Verificados 700/2862 | Activos hasta ahora: 267
+  [VIVO] CL | TELETRAK HD
+  [VIVO] CINE  | A&E HD
+  [VIVO] CINE  | *HBÖ* 2 HD
+  [VIVO] CINE | *HBO* HD
+  [VIVO] CINE  | TNT SERIES  FHD
+  [VIVO] CINE | WARNER  FHD
+  [VIVO] CINE | SONY  HD
+  [VIVO] CINE | TCM  HD
+  [VIVO] CINE | FX  FHD
+  [VIVO] CINE | SPACE CHANEL  HD
+  [VIVO] CINE | AMC HD
+  [VIVO] CINE | PARAMOUNT CHANEL HD
+  ... Verificados 750/2862 | Activos hasta ahora: 279
+  [VIVO] USA| CINEMAX EAST HD
+  [VIVO] USA| VIP MOVIE 5 STARMAX HD
+  [VIVO] CL | UCV HD
+  [VIVO] CL | NTV HD
+  [VIVO] USA| FOX NEWS HD
+  [VIVO] CL | VIA X HD
+  [VIVO] PREM CHI | HD OP1 (SOLO EVENTOS IMPORTANTES)
+  [VIVO] FUT PREMIER CHI | HD(SOLO EVENTOS IMPORTANTES)
+  [VIVO] CL | 24 HORAS HD
+  ... Verificados 800/2862 | Activos hasta ahora: 288
+  [VIVO] CINE | STAR CHANNEL  FHD
+  [VIVO] CINE | *HBO* HD
+  [VIVO] CINE  | TNT  FHD
+  [VIVO] CINE  | TNT SERIES  FHD
+  [VIVO] CINE | AXN  HD
+  [VIVO] CINE | WARNER  HD
+  [VIVO] CINE | TCM  HD
+  [VIVO] CINE | SPACE CHANEL  FHD
+  [VIVO] CINE | AMC  FHD
+  [VIVO] CINE | UNIVERSAL CHANEL  HD
+  [VIVO] FUT PREMIER CHI | HD OP 2
+  [VIVO] AR | FOX SPORTS 2 HD
+  [VIVO] USA| CINEMAX EAST HD
+  ... Verificados 850/2862 | Activos hasta ahora: 301
+  [VIVO] AR | FOX SPORTS 3 HD
+  [VIVO] FOX SPORTS 2 HD
+  [VIVO] CL | *T*N*T SPORTS HD/OP/ 01
+  [VIVO] CL | *T*N*T SPORTS HD / OP / 02
+  [VIVO] CL | *T*N*T SPORTS FHD /OP /0
+  [VIVO] USA| VIP MOVIE 5 STARMAX HD
+  [VIVO] ESPN HD OP 2
+  [VIVO] MX | ESPN 2 MX HD
+  [VIVO] PE| ESPN 4 HD
+  [VIVO] AR | FOX SPORTS 2 HD
+  [VIVO] MX | FOX SPORTS 2 HD
+  [VIVO] MX | FOX SPORTS PREMIUM HD
+  [VIVO] ESPN 3 HD
+  [VIVO] MX | FOX SPORTS 1 HD
+  [VIVO] MX | FOX SPORTS 3 HD
+  [VIVO] USA| FOX NEWS HD
+  [VIVO] CINE l P∆NICO HD
+  [VIVO] CINE | A&E HD
+  [VIVO] AR | FOX SPORTS 3 HD
+  [VIVO] CL | VIA X HD
+  [VIVO] CINE | STAR CHANEL HD
+  [VIVO] CINE | UNIVERSAL CHANEL  FHD
+  [VIVO] CINE | AXN  FHD
+  [VIVO] CINE | CINECANAL  HD
+  [VIVO] FUT BASIC HD (CHI)
+  [VIVO] CINE  | TⓝT  FHD
+  [VIVO] CINE  | TNT SERIES  FHD
+  [VIVO] CINE | TNT SERIES  HD
+  [VIVO] CINE | AXN  HD
+  [VIVO] CINE  | TÑT  HD
+  [VIVO] CINE | HBO  FHD
+  [VIVO] CINE | HBO 2 HD
+  [VIVO] CINE | HBO  HD
+  [VIVO] CINE | HBO FAMILY  HD
+  [VIVO] CINE | HBO 2 FHD
+  [VIVO] CINE  | HBO PLUS  HD
+  [VIVO] CINE  | HBO FAMILY FHD
+  [VIVO] CINE  | HBO XTREME HD
+  [VIVO] CINE  | HBO PLUS  FHD
+  [VIVO] CINE  | HBO POP  FHD
+  [VIVO] CINE  | HBO .POP  HD
+  [VIVO] CINE | HBO MUNDl FHD
+  [VIVO] CINE | HBO XTREME FHD
+  [VIVO] CINE l P∆R∆M0UNT + HD
+  [VIVO] CINE | HBO MUNDI HD
+  [VIVO] CINE | SPACE CHANEL  HD
+  [VIVO] CINE | SPACE CHANEL  FHD
+  [VIVO] CINE | FX  HD
+  [VIVO] CINE | GOLDEN PLUS HD
+  ... Verificados 900/2862 | Activos hasta ahora: 350
+  [VIVO] CINE GOLDEN PLUS FHD
+  [VIVO] CINE | TCM  HD
+  [VIVO] CINE | WARNER  FHD
+  [VIVO] CINE | GOLDEN PREMIER  HD
+  [VIVO] CINE | SONY M0VIES FHD
+  [VIVO] CINE | WARNER  HD
+  [VIVO] CINE | GOLDEN  HD
+  [VIVO] CINE | SONY  HD
+  [VIVO] P | UNIVERSAL CRIMEN HD
+  [VIVO] CINE | GOLDEN EDG  HD
+  [VIVO] P | UNIVERSAL CINEMA HD
+  [VIVO] P | UNIVERSAL COMEDY HD
+  [VIVO] P | UNIVERSAL PREMIER HD
+  [VIVO] CINE | UNIVERSAL CHANEL HD
+  [VIVO] P | UNIVERSAL REALITY HD
+  [VIVO] ClNE l DHE cine  HD
+  [VIVO] CINE | UNIVERSAL STUDIO FHD
+  [VIVO] CINE | AMC HD
+  [VIVO] CL | CANAL 13  HD
+  [VIVO] CL | CANAL 13 HD OP 02
+  [VIVO] CL | CHILEVISION HD
+  [VIVO] CL | MEGA HD OP 2
+  [VIVO] CL | TVN. HD
+  [VIVO] CL | MEGA HD
+  [VIVO] CL | TVN  HD OP 2
+  [VIVO] CL | TELETRAK HD
+  [VIVO] AR-| CINE AR HD
+  [VIVO] HBO MUNDI | 4k
+  [VIVO] HBO | 4k
+  [VIVO] PARAMOUNT CHANNEL | 4k
+  [VIVO] TNT NOVELAS HD
+  [VIVO] TNT NOVELAS HD
+  [VIVO] D | Espn 3 | COL HD
+  [VIVO] D | Fox Sports 3 | COL HD
+  [VIVO] D | Espn Deportes | HD
+  [VIVO] D | Fox Sports 2 | COL HD
+  [VIVO] D| Fox Sports 2 | CL HD
+  [VIVO] D | Espn 2 | COL HD
+  [VIVO] D| Fox Sports | MX HD
+  [VIVO] D| Espn 2 | ARG HD
+  [VIVO] D| Espn 3 | MX HD
+  [VIVO] D| Espn 2 | MX HD
+  [VIVO] D| Espn Plus | MX HD
+  [VIVO] D| Fox Sports 2 | ARG HD
+  [VIVO] D| Fox Sports | ARG HD
+  [VIVO] D| Espn | MX HD
+  [VIVO] D| Fox Sports 2 | MX HD
+  [VIVO] AXN 4K
+  ... Verificados 950/2862 | Activos hasta ahora: 398
+  [VIVO] D| FOX Sports Premium Arg HD
+  [VIVO] Cinecanal 4K
+  [VIVO] HBO 2 4K
+  [VIVO] HBO POP 4K
+  [VIVO] HBO PLUS 4K
+  [VIVO] TNT 4K
+  [VIVO] Universal Premiere 4K
+  [VIVO] PARAMOUNT+ FHD
+  [VIVO] PARAMOUNT+ FHD
+  [VIVO] STAR Channel FHD |opc-2|
+  [VIVO] Warner TV FHD |opc-2|
+  [VIVO] Star Channel FHD |opc-4|
+  [VIVO] AXN FHD |opc-1|
+  [VIVO] Syfy FHD |opc-1|
+  [VIVO] M+Cine Español FHD |opc-2|
+  [VIVO] M+Cine Español FHD |opc-2|
+  [VIVO] Warner TV FHD |opc-1|
+  [VIVO] AXN FHD |opc-1|
+  [VIVO] AXN FHD |opc-3|
+  [VIVO] STAR Channel FHD |opc-1|
+  [VIVO] AXN Movies FHD |opc-1|
+  [VIVO] STAR Channel FHD |opc-2|
+  [VIVO] Star Channel HD
+  [VIVO] Warner TV FHD |opc-1|
+  [VIVO] Warner TV FHD |opc-2|
+  [VIVO] Syfy FHD |opc-1|
+  [VIVO] CL∆R0 SP0RTS GT HD
+  [VIVO] ᴺᴱᵂˢ | FOX NEWS FHD
+  ... Verificados 1000/2862 | Activos hasta ahora: 426
+  [VIVO] USA: Fox Atlanta HD WAGA
+  [VIVO] ᴜsᴀ Spᴏʀᴛs ᴴᴰ | WBTV HBO Boxing FHD
+  [VIVO] SYFY HD
+  [VIVO] AXN WHITE HD
+  [VIVO] USA: Fox Soccer + FHD USA
+  [VIVO] FOX FHD
+  [VIVO] SYFY FHD
+  [VIVO] ESPN HD OP 2
+  [VIVO] USA: FOX Boston WFXT HD
+  [VIVO] USA: HBO HITS FHD
+  [VIVO] USA: Fox Deportes HD
+  [VIVO] CINE | STAR CHANEL HD
+  [VIVO] CINE | CINECANAL  HD
+  ... Verificados 1050/2862 | Activos hasta ahora: 439
+  [VIVO] CINE | TNT SERIES  HD
+  [VIVO] CINE  | TⓝT  FHD
+  [VIVO] CINE | AXN  FHD
+  [VIVO] CINE | HBO  FHD
+  [VIVO] CINE  | TÑT  HD
+  [VIVO] CINE  | TNT SERIES  FHD
+  [VIVO] CINE | HBO 2 HD
+  [VIVO] CINE  | HBO PLUS  HD
+  [VIVO] CINE | HBO 2 FHD
+  [VIVO] CINE  | HBO PLUS  FHD
+  [VIVO] CINE | HBO FAMILY  HD
+  [VIVO] CINE  | HBO FAMILY FHD
+  [VIVO] CINE  | HBO XTREME HD
+  [VIVO] CINE | AXN  HD
+  [VIVO] CINE | HBO MUNDl FHD
+  [VIVO] CINE  | HBO .POP  HD
+  [VIVO] CINE | A&E HD
+  [VIVO] CINE | TCM  HD
+  [VIVO] CINE GOLDEN PLUS FHD
+  [VIVO] CINE | SPACE CHANEL  HD
+  [VIVO] CINE | SPACE CHANEL  FHD
+  [VIVO] CINE | HBO  HD
+  [VIVO] CINE | FX  HD
+  [VIVO] CINE | GOLDEN PLUS HD
+  [VIVO] CINE | GOLDEN PREMIER  HD
+  [VIVO] CINE | SONY M0VIES FHD
+  [VIVO] P | UNIVERSAL CINEMA HD
+  [VIVO] CINE | GOLDEN  HD
+  [VIVO] CINE | SONY  HD
+  [VIVO] P | UNIVERSAL CRIMEN HD
+  [VIVO] CINE | WARNER  HD
+  [VIVO] CINE | GOLDEN EDG  HD
+  [VIVO] P | UNIVERSAL PREMIER HD
+  [VIVO] P | UNIVERSAL REALITY HD
+  [VIVO] ClNE l DHE cine  HD
+  [VIVO] CINE  | HBO POP  FHD
+  [VIVO] P | UNIVERSAL COMEDY HD
+  [VIVO] CINE | HBO MUNDI HD
+  [VIVO] CINE | AMC HD
+  [VIVO] CINE | UNIVERSAL CHANEL HD
+  ... Verificados 1100/2862 | Activos hasta ahora: 479
+  [VIVO] CL | CANAL 13  HD
+  [VIVO] CINE l P∆R∆M0UNT + HD
+  [VIVO] CINE | WARNER  FHD
+  [VIVO] CL | TVN. HD
+  [VIVO] PARAMOUNT CHANNEL | 4k
+  [VIVO] MX || CINE ESTRELLA HD®
+  [VIVO] TNT NOVELAS HD
+  [VIVO] TNT NOVELAS HD
+  [VIVO] CINE | UNIVERSAL STUDIO FHD
+  [VIVO] D | Espn Deportes | HD
+  [VIVO] D | Fox Sports 3 | COL HD
+  [VIVO] AR-| CINE AR HD
+  [VIVO] HBO MUNDI | 4k
+  [VIVO] D| Fox Sports 2 | CL HD
+  [VIVO] D | Espn 3 | COL HD
+  [VIVO] D| Fox Sports | MX HD
+  [VIVO] D | Fox Sports 2 | COL HD
+  [VIVO] D| Espn 2 | ARG HD
+  [VIVO] D| Espn 3 | MX HD
+  [VIVO] D| Espn 2 | MX HD
+  [VIVO] D| Fox Sports | ARG HD
+  [VIVO] D| Espn Plus | MX HD
+  [VIVO] D| FOX Sports Premium Arg HD
+  [VIVO] D| Espn | MX HD
+  [VIVO] HBO 2 4K
+  [VIVO] HBO 4K
+  [VIVO] D| Fox Sports 2 | MX HD
+  ... Verificados 1150/2862 | Activos hasta ahora: 506
+  [VIVO] D| Fox Sports 2 | ARG HD
+  [VIVO] PARAMOUNT+ FHD
+  [VIVO] Star Channel FHD |opc-4|
+  [VIVO] AXN FHD |opc-1|
+  [VIVO] STAR Channel FHD |opc-1|
+  [VIVO] Warner TV FHD |opc-2|
+  [VIVO] ᴺᴱᵂˢ | FOX NEWS FHD
+  [VIVO] USA: Fox Soccer + FHD USA
+  ... Verificados 1200/2862 | Activos hasta ahora: 514
+  [VIVO] USA: Cinemax Moremax FHD* US.
+  [VIVO] USA: Fox Deportes HD
+  [VIVO] USA: Fox Cleveland WJW HD
+  [VIVO] Miraculous Las Aventuras De Ladybug - La Pelicula FHD 2023
+  [VIVO] Miraculous Las Aventuras De Ladybug - La Pelicula FHD 2023
+  [VIVO] SYFY FHD
+  [VIVO] Aunque No Siempre" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E06 - En el Mar la Vida Es Más Sabrosa, Aunque No Siempre
+  [VIVO] Aunque No Siempre" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E06 - En el Mar la Vida Es Más Sabrosa, Aunque No Siempre
+  [VIVO] Se Hacía Chiquita" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E05 - Lina Se Hacía Grandota, Se Hacía Chiquita
+  [VIVO] Este Cuento No Ha Terminado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E07 - Y Colorín Colorado, Este Cuento No Ha Terminado
+  [VIVO] Este Cuento No Ha Terminado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E07 - Y Colorín Colorado, Este Cuento No Ha Terminado
+  [VIVO] AR | FOX SPORTS 2 HD
+  [VIVO] AR | FOX SPORTS 3 HD
+  [VIVO] FOX SPORTS 2 HD
+  [VIVO] CL | *T*N*T SPORTS HD/OP/ 01
+  [VIVO] CL | *T*N*T SPORTS HD / OP / 02
+  [VIVO] Escribe La Tuya" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m8rWq3j73ZGhDuSCZWMMoE9ePH1.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Watchmen (2019) S01 Watchmen (2019) - S01E04 - Si No Te Gusta Mi Historia, Escribe La Tuya
+  [VIVO] PE| ESPN 4 HD
+  [VIVO] ESPN 3 HD
+  [VIVO] AR | FOX SPORTS 2 HD
+  [VIVO] MX | FOX SPORTS PREMIUM HD
+  [VIVO] MX | FOX SPORTS 1 HD
+  [VIVO] MX | FOX SPORTS 2 HD
+  [VIVO] MX | FOX SPORTS 3 HD
+  [VIVO] CINE l P∆NICO HD
+  ... Verificados 1250/2862 | Activos hasta ahora: 539
+  [VIVO] CINE  | HBO POP  FHD
+  [VIVO] CL | CANAL 13  HD
+  [VIVO] CL | MEGA HD
+  [VIVO] CL | CHILEVISION HD
+  [VIVO] CL | TVN. HD
+  [VIVO] CL | TVN  HD OP 2
+  ... Verificados 1300/2862 | Activos hasta ahora: 545
+  [VIVO] HBO MUNDI | 4k
+  [VIVO] AXN 4K
+  [VIVO] Cinecanal 4K
+  [VIVO] HBO 2 4K
+  [VIVO] HBO 4K
+  ... Verificados 1350/2862 | Activos hasta ahora: 550
+  [VIVO] PARAMOUNT+ FHD
+  [VIVO] Universal Premiere 4K
+  [VIVO] Syfy FHD |opc-1|
+  [VIVO] STAR Channel FHD |opc-2|
+  [VIVO] Star Channel FHD |opc-4|
+  [VIVO] AXN FHD |opc-1|
+  [VIVO] PARAMOUNT+ FHD
+  [VIVO] Warner TV FHD |opc-1|
+  [VIVO] M+Cine Español FHD |opc-2|
+  [VIVO] AXN FHD |opc-3|
+  [VIVO] AXN FHD |opc-1|
+  [VIVO] STAR Channel FHD |opc-2|
+  [VIVO] Warner TV FHD |opc-2|
+  [VIVO] Syfy FHD |opc-1|
+  [VIVO] Star Channel HD
+  [VIVO] CL∆R0 SP0RTS GT HD
+  [VIVO] ᴺᴱᵂˢ | FOX NEWS FHD
+  [VIVO] ᴺᴱᵂˢ | CNN CHILE UHD
+  [VIVO] Aunque No Siempre" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E06 - En el Mar la Vida Es Más Sabrosa, Aunque No Siempre
+  [VIVO] Se Hacía Chiquita" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E05 - Lina Se Hacía Grandota, Se Hacía Chiquita
+  [VIVO] USA: Fox Cleveland WJW HD
+  [VIVO] USA: Fox Sports Ohaio HD
+  ... Verificados 1400/2862 | Activos hasta ahora: 572
+  [VIVO] USA: FX HD USA
+  [VIVO] USA: Fox Sports Florida HD USA
+  [VIVO] ᴜsᴀ Spᴏʀᴛs ᴴᴰ | WBTV HBO Boxing FHD
+  [VIVO] ᴜsᴀ Spᴏʀᴛs ᴴᴰ | ESPN HD
+  [VIVO] USA: Fox Deportes HD
+  [VIVO] SYFY HD
+  [VIVO] FOX FHD
+  [VIVO] SYFY FHD
+  [VIVO] AXN WHITE HD
+  [VIVO] AR | FOX SPORTS 2 HD
+  [VIVO] Miraculous Las Aventuras De Ladybug - La Pelicula FHD 2023
+  [VIVO] AR | FOX SPORTS 3 HD
+  [VIVO] CL | *T*N*T SPORTS FHD /OP /0
+  [VIVO] ESPN HD OP 2
+  [VIVO] CL | *T*N*T SPORTS HD / OP / 02
+  [VIVO] FOX SPORTS 2 HD
+  [VIVO] PE| ESPN 4 HD
+  [VIVO] MX | ESPN 2 MX HD
+  [VIVO] CL | *T*N*T SPORTS HD/OP/ 01
+  [VIVO] ESPN 3 HD
+  [VIVO] AR | FOX SPORTS 2 HD
+  [VIVO] MX | FOX SPORTS PREMIUM HD
+  [VIVO] MX | FOX SPORTS 1 HD
+  [VIVO] MX | FOX SPORTS 2 HD
+  ... Verificados 1450/2862 | Activos hasta ahora: 596
+  [VIVO] CINE | A&E HD
+  [VIVO] AR | FOX SPORTS 3 HD
+  [VIVO] MX | FOX SPORTS 3 HD
+  [VIVO] CINE | STAR CHANEL HD
+  [VIVO] CINE l P∆NICO HD
+  [VIVO] CINE | CINECANAL  HD
+  [VIVO] CINE  | TⓝT  FHD
+  [VIVO] CINE  | TÑT  HD
+  [VIVO] CINE | HBO 2 HD
+  [VIVO] CINE | AXN  HD
+  [VIVO] CINE | AXN  FHD
+  [VIVO] CINE  | TNT SERIES  FHD
+  [VIVO] CINE | HBO  FHD
+  [VIVO] CINE  | HBO PLUS  FHD
+  [VIVO] CINE  | HBO PLUS  HD
+  [VIVO] CINE | TNT SERIES  HD
+  [VIVO] CINE | HBO  HD
+  [VIVO] CINE | HBO 2 FHD
+  [VIVO] CINE  | HBO FAMILY FHD
+  [VIVO] CINE | HBO FAMILY  HD
+  [VIVO] CINE | HBO XTREME FHD
+  [VIVO] CINE  | HBO XTREME HD
+  [VIVO] CINE  | HBO .POP  HD
+  [VIVO] CINE  | HBO POP  FHD
+  [VIVO] CINE | HBO MUNDl FHD
+  [VIVO] CINE | HBO MUNDI HD
+  [VIVO] CINE l P∆R∆M0UNT + HD
+  [VIVO] CINE | SPACE CHANEL  HD
+  [VIVO] CINE | SPACE CHANEL  FHD
+  [VIVO] CINE | FX  HD
+  [VIVO] CINE | TCM  HD
+  [VIVO] CINE | GOLDEN PREMIER  HD
+  [VIVO] CINE GOLDEN PLUS FHD
+  [VIVO] CINE | WARNER  FHD
+  [VIVO] CINE | GOLDEN PLUS HD
+  [VIVO] CINE | SONY  HD
+  [VIVO] CINE | SONY M0VIES FHD
+  [VIVO] CINE | WARNER  HD
+  [VIVO] CINE | GOLDEN  HD
+  [VIVO] P | UNIVERSAL CINEMA HD
+  [VIVO] CINE | GOLDEN EDG  HD
+  [VIVO] P | UNIVERSAL CRIMEN HD
+  [VIVO] P | UNIVERSAL PREMIER HD
+  [VIVO] P | UNIVERSAL COMEDY HD
+  [VIVO] CL | MEGA HD OP 2
+  [VIVO] CL | CHILEVISION HD
+  ... Verificados 1500/2862 | Activos hasta ahora: 642
+  [VIVO] CL | CANAL 13  HD
+  [VIVO] CL | CANAL 13 HD OP 02
+  [VIVO] CL | MEGA HD
+  [VIVO] CINE | UNIVERSAL CHANEL HD
+  [VIVO] CINE | UNIVERSAL STUDIO FHD
+  [VIVO] CINE | AMC HD
+  [VIVO] P | UNIVERSAL REALITY HD
+  [VIVO] ClNE l DHE cine  HD
+  [VIVO] CL | TVN  HD OP 2
+  [VIVO] CL | TELETRAK HD
+  [VIVO] CL | TVN. HD
+  [VIVO] USA: HBO HITS FHD
+  [VIVO] HBO | 4k
+  [VIVO] AR-| CINE AR HD
+  [VIVO] HBO MUNDI | 4k
+  [VIVO] PARAMOUNT CHANNEL | 4k
+  [VIVO] TNT NOVELAS HD
+  [VIVO] TNT NOVELAS HD
+  [VIVO] D | Espn Deportes | HD
+  [VIVO] D | Fox Sports 3 | COL HD
+  [VIVO] D | Fox Sports 2 | COL HD
+  [VIVO] D | Espn 3 | COL HD
+  [VIVO] D | Espn 2 | COL HD
+  [VIVO] D| Fox Sports 2 | CL HD
+  [VIVO] D| Espn 2 | ARG HD
+  [VIVO] D| Fox Sports | MX HD
+  [VIVO] D| Espn 3 | MX HD
+  [VIVO] D| Espn 2 | MX HD
+  [VIVO] D| Espn | MX HD
+  [VIVO] D| Fox Sports | ARG HD
+  [VIVO] D| Fox Sports 2 | ARG HD
+  [VIVO] D| Fox Sports 2 | MX HD
+  [VIVO] D| Espn Plus | MX HD
+  [VIVO] D| FOX Sports Premium Arg HD
+  [VIVO] AXN 4K
+  [VIVO] Cinecanal 4K
+  [VIVO] HBO Family 4K
+  [VIVO] HBO 4K
+  [VIVO] HBO 2 4K
+  ... Verificados 1550/2862 | Activos hasta ahora: 681
+  [VIVO] HBO PLUS 4K
+  [VIVO] HBO POP 4K
+  [VIVO] TNT 4K
+  [VIVO] HBO XTREME 4K
+  [VIVO] Universal Premiere 4K
+  [VIVO] Studio Universal 4K
+  [VIVO] PARAMOUNT+ FHD
+  [VIVO] PARAMOUNT+ FHD
+  [VIVO] STAR Channel FHD |opc-2|
+  [VIVO] Star Channel FHD |opc-4|
+  [VIVO] Warner TV FHD |opc-2|
+  [VIVO] AXN FHD |opc-1|
+  [VIVO] Space 4K
+  [VIVO] Syfy FHD |opc-1|
+  [VIVO] Warner TV FHD |opc-1|
+  [VIVO] M+Cine Español FHD |opc-2|
+  [VIVO] M+Cine Español FHD |opc-2|
+  [VIVO] TNT Novelas 4K
+  [VIVO] AXN FHD |opc-1|
+  [VIVO] AXN FHD |opc-3|
+  [VIVO] AXN Movies FHD |opc-1|
+  [VIVO] STAR Channel FHD |opc-1|
+  [VIVO] STAR Channel FHD |opc-2|
+  [VIVO] Star Channel HD
+  [VIVO] Warner TV FHD |opc-1|
+  [VIVO] Warner TV FHD |opc-2|
+  [VIVO] Syfy FHD |opc-1|
+  [VIVO] UNIVERSAL CHANNEL 4K
+  [VIVO] CL∆R0 SP0RTS GT HD
+  [VIVO] TNT Series 4K
+  ... Verificados 1600/2862 | Activos hasta ahora: 711
+  [VIVO] ᴺᴱᵂˢ | FOX NEWS FHD
+  [VIVO] Aunque No Siempre" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E06 - En el Mar la Vida Es Más Sabrosa, Aunque No Siempre
+  [VIVO] Se Hacía Chiquita" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E05 - Lina Se Hacía Grandota, Se Hacía Chiquita
+  [VIVO] Se Hacía Chiquita" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E05 - Lina Se Hacía Grandota, Se Hacía Chiquita
+  [VIVO] USA: Cinemax Moremax FHD* US.
+  [VIVO] USA: Fox Atlanta WAGA HD
+  [VIVO] USA: Fox Atlanta HD WAGA
+  [VIVO] USA: Fox Sports Ohaio HD
+  [VIVO] USA: Fox Soccer + FHD USA
+  [VIVO] USA: Fox Cleveland WJW HD
+  [VIVO] USA: Fox Sports Florida HD USA
+  [VIVO] USA: FX HD USA
+  [VIVO] USA: FOX Deportes HD USA
+  [VIVO] USA: TNT HD
+  [VIVO] USA: Fox Deportes HD
+  [VIVO] USA: TNT HD
+  [VIVO] USA: FOX Boston WFXT HD
+  [VIVO] USA: HBO HITS FHD
+  [VIVO] ᴜsᴀ Spᴏʀᴛs ᴴᴰ | WBTV HBO Boxing FHD
+  [VIVO] ᴜsᴀ Spᴏʀᴛs ᴴᴰ | ESPN HD
+  [VIVO] ᴜsᴀ Spᴏʀᴛs ᴴᴰ | ESPN 2 HD
+  [VIVO] FOX FHD
+  [VIVO] SYFY HD
+  [VIVO] SYFY FHD
+  [VIVO] AXN WHITE HD
+  [VIVO] Miraculous Las Aventuras De Ladybug - La Pelicula FHD 2023
+  [VIVO] AR | FOX SPORTS 3 HD
+  [VIVO] AR | FOX SPORTS 2 HD
+  [VIVO] FOX SPORTS 2 HD
+  [VIVO] CL | *T*N*T SPORTS HD/OP/ 01
+  [VIVO] CL | *T*N*T SPORTS FHD /OP /0
+  [VIVO] CL | *T*N*T SPORTS HD / OP / 02
+  [VIVO] PE| ESPN 4 HD
+  [VIVO] Escribe La Tuya" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m8rWq3j73ZGhDuSCZWMMoE9ePH1.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Watchmen (2019) S01 Watchmen (2019) - S01E04 - Si No Te Gusta Mi Historia, Escribe La Tuya
+  [VIVO] ESPN HD OP 2
+  [VIVO] MX | ESPN 2 MX HD
+  [VIVO] Aunque No Siempre" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E06 - En el Mar la Vida Es Más Sabrosa, Aunque No Siempre
+  ... Verificados 1650/2862 | Activos hasta ahora: 748
+  [VIVO] ESPN 3 HD
+  [VIVO] AR | FOX SPORTS 2 HD
+  [VIVO] MX | FOX SPORTS PREMIUM HD
+  [VIVO] Se Hacía Chiquita" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E05 - Lina Se Hacía Grandota, Se Hacía Chiquita
+  [VIVO] Se Hacía Chiquita" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E05 - Lina Se Hacía Grandota, Se Hacía Chiquita
+  [VIVO] Este Cuento No Ha Terminado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E07 - Y Colorín Colorado, Este Cuento No Ha Terminado
+  [VIVO] Este Cuento No Ha Terminado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E07 - Y Colorín Colorado, Este Cuento No Ha Terminado
+  [VIVO] MX | FOX SPORTS 2 HD
+  [VIVO] MX | FOX SPORTS 1 HD
+  [VIVO] MX | FOX SPORTS 3 HD
+  [VIVO] AR | FOX SPORTS 3 HD
+  [VIVO] CINE | A&E HD
+  [VIVO] CINE | STAR CHANEL HD
+  [VIVO] CINE | AXN  FHD
+  [VIVO] CINE | CINECANAL  HD
+  [VIVO] CINE | AXN  HD
+  [VIVO] CINE  | TNT SERIES  FHD
+  [VIVO] CINE | TNT SERIES  HD
+  [VIVO] CINE  | TⓝT  FHD
+  [VIVO] CINE | HBO  FHD
+  [VIVO] CINE | HBO 2 HD
+  [VIVO] CINE l P∆NICO HD
+  [VIVO] CINE  | TÑT  HD
+  [VIVO] CINE | HBO  HD
+  [VIVO] CINE  | HBO FAMILY FHD
+  [VIVO] CINE | HBO 2 FHD
+  [VIVO] CINE | HBO FAMILY  HD
+  [VIVO] CINE  | HBO PLUS  HD
+  [VIVO] CINE  | HBO PLUS  FHD
+  [VIVO] CINE  | HBO XTREME HD
+  [VIVO] CINE | HBO XTREME FHD
+  [VIVO] CINE  | HBO .POP  HD
+  [VIVO] CINE  | HBO POP  FHD
+  [VIVO] CINE | HBO MUNDl FHD
+  [VIVO] CINE | HBO MUNDI HD
+  [VIVO] CINE l P∆R∆M0UNT + HD
+  [VIVO] CINE | SPACE CHANEL  FHD
+  [VIVO] CINE | TCM  HD
+  [VIVO] CINE | SPACE CHANEL  HD
+  [VIVO] CINE | FX  HD
+  [VIVO] CINE | GOLDEN PLUS HD
+  [VIVO] CINE GOLDEN PLUS FHD
+  [VIVO] CINE | WARNER  FHD
+  [VIVO] CINE | GOLDEN PREMIER  HD
+  [VIVO] CINE | WARNER  HD
+  [VIVO] CINE | SONY  HD
+  ... Verificados 1700/2862 | Activos hasta ahora: 794
+  [VIVO] CINE | SONY M0VIES FHD
+  [VIVO] CINE | GOLDEN EDG  HD
+  [VIVO] CINE | GOLDEN  HD
+  [VIVO] P | UNIVERSAL CINEMA HD
+  [VIVO] P | UNIVERSAL CRIMEN HD
+  [VIVO] P | UNIVERSAL COMEDY HD
+  [VIVO] P | UNIVERSAL PREMIER HD
+  [VIVO] P | UNIVERSAL REALITY HD
+  [VIVO] CINE | UNIVERSAL STUDIO FHD
+  [VIVO] CINE | UNIVERSAL CHANEL HD
+  [VIVO] CINE | AMC HD
+  [VIVO] ClNE l DHE cine  HD
+  [VIVO] CL | CANAL 13  HD
+  [VIVO] CL | CANAL 13 HD OP 02
+  [VIVO] CL | CHILEVISION HD
+  [VIVO] CL | MEGA HD OP 2
+  [VIVO] CL | MEGA HD
+  [VIVO] CL | TVN. HD
+  [VIVO] CL | TVN  HD OP 2
+  [VIVO] MX || MyTime Movie Network MX HD®
+  [VIVO] CL | TELETRAK HD
+  [VIVO] MX || ULTRA CINE HD®
+  [VIVO] MX || ULTRA CINE HD®
+  [VIVO] MX || MyTime Movie Network MX HD®
+  [VIVO] AR-| CINE AR HD
+  [VIVO] MX || CINE ESTRELLA HD®
+  [VIVO] HBO | 4k
+  [VIVO] HBO MUNDI | 4k
+  [VIVO] HBO+ | 4k
+  [VIVO] HBO POP | 4k
+  [VIVO] HBO SIGNATURE | 4k
+  [VIVO] PARAMOUNT CHANNEL | 4k
+  [VIVO] TNT NOVELAS HD
+  [VIVO] TNT NOVELAS HD
+  [VIVO] D | Espn Deportes | HD
+  [VIVO] D | Fox Sports 2 | COL HD
+  [VIVO] D | Fox Sports 3 | COL HD
+  [VIVO] D | Espn 3 | COL HD
+  [VIVO] D | Espn 2 | COL HD
+  ... Verificados 1750/2862 | Activos hasta ahora: 833
+  [VIVO] D| Fox Sports 2 | CL HD
+  [VIVO] D| Espn 2 | ARG HD
+  [VIVO] D| Espn 3 | MX HD
+  [VIVO] D| Fox Sports | MX HD
+  [VIVO] D| Espn 2 | MX HD
+  [VIVO] D| Fox Sports | ARG HD
+  [VIVO] D| Fox Sports 2 | ARG HD
+  [VIVO] D| Fox Sports 2 | MX HD
+  [VIVO] D| Espn | MX HD
+  [VIVO] D| FOX Sports Premium Arg HD
+  [VIVO] D| Espn Plus | MX HD
+  [VIVO] AXN 4K
+  [VIVO] Cinecanal 4K
+  [VIVO] HBO 2 4K
+  [VIVO] HBO Family 4K
+  [VIVO] HBO 4K
+  [VIVO] HBO PLUS 4K
+  [VIVO] HBO POP 4K
+  [VIVO] HBO XTREME 4K
+  [VIVO] Space 4K
+  [VIVO] Studio Universal 4K
+  [VIVO] TNT Novelas 4K
+  [VIVO] UNIVERSAL CHANNEL 4K
+  [VIVO] PARAMOUNT+ FHD
+  [VIVO] PARAMOUNT+ FHD
+  [VIVO] TNT Series 4K
+  [VIVO] Universal Premiere 4K
+  [VIVO] TNT 4K
+  [VIVO] STAR Channel FHD |opc-2|
+  [VIVO] Warner TV FHD |opc-2|
+  [VIVO] M+Cine Español FHD |opc-2|
+  [VIVO] M+Cine Español FHD |opc-2|
+  [VIVO] Star Channel FHD |opc-4|
+  [VIVO] AXN FHD |opc-1|
+  [VIVO] AXN FHD |opc-3|
+  [VIVO] Syfy FHD |opc-1|
+  [VIVO] Warner TV FHD |opc-1|
+  [VIVO] AXN Movies FHD |opc-1|
+  [VIVO] AXN FHD |opc-1|
+  [VIVO] STAR Channel FHD |opc-2|
+  [VIVO] STAR Channel FHD |opc-1|
+  [VIVO] Star Channel HD
+  [VIVO] Warner TV FHD |opc-2|
+  ... Verificados 1800/2862 | Activos hasta ahora: 876
+  [VIVO] Warner TV FHD |opc-1|
+  [VIVO] Syfy FHD |opc-1|
+  [VIVO] USA: Fox Atlanta WAGA HD
+  [VIVO] ᴺᴱᵂˢ | FOX NEWS FHD
+  [VIVO] USA: Fox Cleveland WJW HD
+  [VIVO] USA: Fox Atlanta HD WAGA
+  [VIVO] USA: Cinemax Moremax FHD* US.
+  [VIVO] USA: Fox Soccer + FHD USA
+  [VIVO] USA: Fox Sports Ohaio HD
+  [VIVO] USA: Fox Sports Florida HD USA
+  [VIVO] USA: FOX Deportes HD USA
+  [VIVO] USA: FX HD USA
+  [VIVO] ᴺᴱᵂˢ | CNN CHILE UHD
+  [VIVO] USA: TNT HD
+  [VIVO] USA: Fox Deportes HD
+  [VIVO] USA: HBO HITS FHD
+  [VIVO] USA: TNT HD
+  [VIVO] USA: FOX Boston WFXT HD
+  [VIVO] ᴜsᴀ Spᴏʀᴛs ᴴᴰ | ESPN HD
+  [VIVO] ᴜsᴀ Spᴏʀᴛs ᴴᴰ | WBTV HBO Boxing FHD
+  [VIVO] ᴜsᴀ Spᴏʀᴛs ᴴᴰ | ESPN 2 HD
+  [VIVO] FOX FHD
+  [VIVO] SYFY FHD
+  [VIVO] AXN WHITE HD
+  [VIVO] AR | FOX SPORTS 2 HD
+  [VIVO] Escribe La Tuya" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m8rWq3j73ZGhDuSCZWMMoE9ePH1.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Watchmen (2019) S01 Watchmen (2019) - S01E04 - Si No Te Gusta Mi Historia, Escribe La Tuya
+  [VIVO] AR | FOX SPORTS 3 HD
+  [VIVO] CL | *T*N*T SPORTS HD / OP / 02
+  [VIVO] CL | *T*N*T SPORTS FHD /OP /0
+  [VIVO] FOX SPORTS 2 HD
+  [VIVO] CL | *T*N*T SPORTS HD/OP/ 01
+  [VIVO] PE| ESPN 4 HD
+  ... Verificados 1850/2862 | Activos hasta ahora: 908
+  [VIVO] ESPN HD OP 2
+  [VIVO] SYFY HD
+  [VIVO] MX | ESPN 2 MX HD
+  [VIVO] AR | FOX SPORTS 2 HD
+  [VIVO] ESPN 3 HD
+  [VIVO] MX | FOX SPORTS PREMIUM HD
+  [VIVO] MX | FOX SPORTS 1 HD
+  [VIVO] MX | FOX SPORTS 2 HD
+  [VIVO] CINE l P∆NICO HD
+  [VIVO] CINE | A&E HD
+  [VIVO] AR | FOX SPORTS 3 HD
+  [VIVO] CINE | STAR CHANEL HD
+  [VIVO] MX | FOX SPORTS 3 HD
+  [VIVO] CINE | CINECANAL  HD
+  [VIVO] CINE | AXN  FHD
+  [VIVO] CINE  | TNT SERIES  FHD
+  [VIVO] CINE | AXN  HD
+  [VIVO] CINE  | TⓝT  FHD
+  [VIVO] CINE | HBO  FHD
+  [VIVO] CINE | HBO 2 HD
+  [VIVO] CINE | TNT SERIES  HD
+  [VIVO] CINE  | TÑT  HD
+  [VIVO] CINE | HBO  HD
+  [VIVO] CINE | HBO FAMILY  HD
+  [VIVO] CINE | HBO 2 FHD
+  [VIVO] CINE  | HBO FAMILY FHD
+  [VIVO] CINE  | HBO PLUS  HD
+  [VIVO] CINE  | HBO PLUS  FHD
+  [VIVO] CINE  | HBO XTREME HD
+  [VIVO] CINE  | HBO POP  FHD
+  [VIVO] CINE | HBO XTREME FHD
+  [VIVO] CINE | HBO MUNDl FHD
+  [VIVO] CINE | HBO MUNDI HD
+  [VIVO] CINE  | HBO .POP  HD
+  [VIVO] CINE l P∆R∆M0UNT + HD
+  [VIVO] CINE | SPACE CHANEL  FHD
+  [VIVO] CINE | SPACE CHANEL  HD
+  [VIVO] CINE | FX  HD
+  [VIVO] CINE | GOLDEN PLUS HD
+  [VIVO] CINE | TCM  HD
+  [VIVO] CINE | WARNER  FHD
+  [VIVO] CINE | SONY M0VIES FHD
+  [VIVO] CINE GOLDEN PLUS FHD
+  [VIVO] CINE | GOLDEN PREMIER  HD
+  [VIVO] CINE | WARNER  HD
+  [VIVO] CINE | SONY  HD
+  [VIVO] P | UNIVERSAL CINEMA HD
+  [VIVO] P | UNIVERSAL CRIMEN HD
+  ... Verificados 1900/2862 | Activos hasta ahora: 956
+  [VIVO] CINE | GOLDEN  HD
+  [VIVO] CINE | GOLDEN EDG  HD
+  [VIVO] P | UNIVERSAL COMEDY HD
+  [VIVO] P | UNIVERSAL PREMIER HD
+  [VIVO] P | UNIVERSAL REALITY HD
+  [VIVO] ClNE l DHE cine  HD
+  [VIVO] CINE | UNIVERSAL STUDIO FHD
+  [VIVO] CINE | UNIVERSAL CHANEL HD
+  [VIVO] CINE | AMC HD
+  [VIVO] CL | CANAL 13  HD
+  [VIVO] CL | CANAL 13 HD OP 02
+  [VIVO] CL | CHILEVISION HD
+  [VIVO] CL | MEGA HD
+  [VIVO] CL | MEGA HD OP 2
+  [VIVO] CL | TVN. HD
+  [VIVO] CL | TVN  HD OP 2
+  [VIVO] CL | TELETRAK HD
+  [VIVO] MX || ULTRA CINE HD®
+  [VIVO] MX || ULTRA CINE HD®
+  [VIVO] MX || MyTime Movie Network MX HD®
+  [VIVO] MX || MyTime Movie Network MX HD®
+  [VIVO] MX || CINE ESTRELLA HD®
+  [VIVO] AR-| CINE AR HD
+  [VIVO] HBO MUNDI | 4k
+  [VIVO] HBO | 4k
+  [VIVO] HBO POP | 4k
+  [VIVO] HBO+ | 4k
+  [VIVO] HBO SIGNATURE | 4k
+  [VIVO] PARAMOUNT CHANNEL | 4k
+  [VIVO] TNT NOVELAS HD
+  [VIVO] TNT NOVELAS HD
+  [VIVO] D | Espn Deportes | HD
+  [VIVO] D | Fox Sports 2 | COL HD
+  [VIVO] D | Espn 3 | COL HD
+  [VIVO] D | Fox Sports 3 | COL HD
+  [VIVO] D| Fox Sports 2 | CL HD
+  [VIVO] D| Fox Sports | MX HD
+  [VIVO] D | Espn 2 | COL HD
+  [VIVO] D| Espn 2 | MX HD
+  ... Verificados 1950/2862 | Activos hasta ahora: 995
+  [VIVO] D| Espn 2 | ARG HD
+  [VIVO] D| Espn 3 | MX HD
+  [VIVO] D| Espn | MX HD
+  [VIVO] D| Fox Sports | ARG HD
+  [VIVO] D| Fox Sports 2 | ARG HD
+  [VIVO] D| Fox Sports 2 | MX HD
+  [VIVO] D| FOX Sports Premium Arg HD
+  [VIVO] D| Espn Plus | MX HD
+  [VIVO] Cinecanal 4K
+  [VIVO] AXN 4K
+  [VIVO] HBO 2 4K
+  [VIVO] HBO POP 4K
+  [VIVO] HBO PLUS 4K
+  [VIVO] HBO 4K
+  [VIVO] Space 4K
+  [VIVO] UNIVERSAL CHANNEL 4K
+  [VIVO] TNT 4K
+  [VIVO] TNT Series 4K
+  [VIVO] MX || CINE ESTRELLA HD®
+  [VIVO] CL∆R0 SP0RTS GT HD
+  [VIVO] MX || CINE ESTRELLA HD®
+  [VIVO] Universal Premiere 4K
+  [VIVO] PARAMOUNT+ FHD
+  [VIVO] TNT Novelas 4K
+  [VIVO] PARAMOUNT+ FHD
+  [VIVO] Star Channel FHD |opc-4|
+  [VIVO] STAR Channel FHD |opc-2|
+  [VIVO] Warner TV FHD |opc-2|
+  [VIVO] AXN FHD |opc-1|
+  [VIVO] AXN FHD |opc-1|
+  [VIVO] M+Cine Español FHD |opc-2|
+  [VIVO] AXN FHD |opc-3|
+  [VIVO] Warner TV FHD |opc-1|
+  [VIVO] STAR Channel FHD |opc-2|
+  [VIVO] Syfy FHD |opc-1|
+  [VIVO] STAR Channel FHD |opc-1|
+  [VIVO] M+Cine Español FHD |opc-2|
+  [VIVO] AXN Movies FHD |opc-1|
+  [VIVO] Star Channel HD
+  [VIVO] ᴺᴱᵂˢ | FOX NEWS FHD
+  [VIVO] CL∆R0 SP0RTS GT HD
+  [VIVO] Warner TV FHD |opc-2|
+  [VIVO] Warner TV FHD |opc-1|
+  [VIVO] Syfy FHD |opc-1|
+  ... Verificados 2000/2862 | Activos hasta ahora: 1039
+  [VIVO] USA: Fox Atlanta WAGA HD
+  [VIVO] USA: Cinemax Moremax FHD* US.
+  [VIVO] USA: Fox Atlanta HD WAGA
+  [VIVO] ᴺᴱᵂˢ | CNN CHILE UHD
+  [VIVO] USA: Fox News HD USA
+  [VIVO] USA: Fox Cleveland WJW HD
+  [VIVO] USA: Fox Sports Ohaio HD
+  [VIVO] USA: Fox Sports Florida HD USA
+  [VIVO] USA: Fox Soccer + FHD USA
+  [VIVO] USA: FX HD USA
+  [VIVO] USA: TNT HD
+  [VIVO] USA: TNT HD
+  [VIVO] USA: Fox Deportes HD
+  [VIVO] USA: FOX Boston WFXT HD
+  [VIVO] USA: FOX Deportes HD USA
+  [VIVO] USA: HBO HITS FHD
+  [VIVO] ᴜsᴀ Spᴏʀᴛs ᴴᴰ | ESPN HD
+  [VIVO] ᴜsᴀ Spᴏʀᴛs ᴴᴰ | WBTV HBO Boxing FHD
+  [VIVO] SYFY HD
+  [VIVO] ᴜsᴀ Spᴏʀᴛs ᴴᴰ | ESPN 2 HD
+  [VIVO] AXN WHITE HD
+  [VIVO] FOX FHD
+  [VIVO] SYFY FHD
+  [VIVO] Miraculous Las Aventuras De Ladybug - La Pelicula FHD 2023
+  [VIVO] AR | FOX SPORTS 3 HD
+  [VIVO] AR | FOX SPORTS 2 HD
+  [VIVO] CL | *T*N*T SPORTS HD/OP/ 01
+  [VIVO] CL | *T*N*T SPORTS FHD /OP /0
+  [VIVO] Aunque No Siempre" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E06 - En el Mar la Vida Es Más Sabrosa, Aunque No Siempre
+  [VIVO] Aunque No Siempre" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E06 - En el Mar la Vida Es Más Sabrosa, Aunque No Siempre
+  [VIVO] PE| ESPN 4 HD
+  [VIVO] CL | *T*N*T SPORTS HD / OP / 02
+  [VIVO] MX | ESPN 2 MX HD
+  [VIVO] ESPN HD OP 2
+  [VIVO] ESPN 3 HD
+  [VIVO] AR | FOX SPORTS 2 HD
+  ... Verificados 2050/2862 | Activos hasta ahora: 1075
+  [VIVO] Este Cuento No Ha Terminado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E07 - Y Colorín Colorado, Este Cuento No Ha Terminado
+  [VIVO] Este Cuento No Ha Terminado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E07 - Y Colorín Colorado, Este Cuento No Ha Terminado
+  [VIVO] MX | FOX SPORTS 2 HD
+  [VIVO] AR | FOX SPORTS 3 HD
+  [VIVO] MX | FOX SPORTS 3 HD
+  [VIVO] MX | FOX SPORTS 1 HD
+  [VIVO] MX | FOX SPORTS PREMIUM HD
+  [VIVO] CINE l P∆NICO HD
+  [VIVO] CINE | A&E HD
+  [VIVO] CINE | STAR CHANEL HD
+  [VIVO] CINE | AXN  FHD
+  [VIVO] CINE | CINECANAL  HD
+  [VIVO] CINE | AXN  HD
+  [VIVO] CINE  | TNT SERIES  FHD
+  [VIVO] CINE  | TⓝT  FHD
+  [VIVO] CINE | TNT SERIES  HD
+  [VIVO] CINE  | TÑT  HD
+  [VIVO] CINE | HBO  FHD
+  [VIVO] CINE | HBO  HD
+  [VIVO] CINE | HBO 2 FHD
+  [VIVO] Escribe La Tuya" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m8rWq3j73ZGhDuSCZWMMoE9ePH1.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Watchmen (2019) S01 Watchmen (2019) - S01E04 - Si No Te Gusta Mi Historia, Escribe La Tuya
+  [VIVO] CINE  | HBO FAMILY FHD
+  [VIVO] CINE  | HBO PLUS  HD
+  [VIVO] CINE | HBO FAMILY  HD
+  [VIVO] CINE  | HBO XTREME HD
+  [VIVO] CINE  | HBO PLUS  FHD
+  [VIVO] CINE | HBO XTREME FHD
+  [VIVO] CINE  | HBO POP  FHD
+  [VIVO] CINE  | HBO .POP  HD
+  [VIVO] CINE | HBO MUNDl FHD
+  [VIVO] Se Hacía Chiquita" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E05 - Lina Se Hacía Grandota, Se Hacía Chiquita
+  [VIVO] Se Hacía Chiquita" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E05 - Lina Se Hacía Grandota, Se Hacía Chiquita
+  [VIVO] CINE GOLDEN PLUS FHD
+  [VIVO] CINE | TCM  HD
+  [VIVO] CINE | HBO MUNDI HD
+  [VIVO] CINE | WARNER  HD
+  [VIVO] CINE l P∆R∆M0UNT + HD
+  [VIVO] CINE | WARNER  FHD
+  [VIVO] CINE | FX  HD
+  [VIVO] CINE | SPACE CHANEL  HD
+  [VIVO] CINE | GOLDEN PLUS HD
+  [VIVO] CINE | GOLDEN PREMIER  HD
+  [VIVO] CINE | SPACE CHANEL  FHD
+  [VIVO] CINE | SONY  HD
+  [VIVO] CINE | GOLDEN EDG  HD
+  [VIVO] P | UNIVERSAL CRIMEN HD
+  [VIVO] CINE | SONY M0VIES FHD
+  ... Verificados 2100/2862 | Activos hasta ahora: 1122
+  [VIVO] P | UNIVERSAL CINEMA HD
+  [VIVO] P | UNIVERSAL PREMIER HD
+  [VIVO] CINE | UNIVERSAL CHANEL HD
+  [VIVO] P | UNIVERSAL COMEDY HD
+  [VIVO] CINE | GOLDEN  HD
+  [VIVO] P | UNIVERSAL REALITY HD
+  [VIVO] CINE | UNIVERSAL STUDIO FHD
+  [VIVO] CINE | AMC HD
+  [VIVO] ClNE l DHE cine  HD
+  [VIVO] CL | CANAL 13  HD
+  [VIVO] MX || MyTime Movie Network MX HD®
+  [VIVO] CL | MEGA HD OP 2
+  [VIVO] CL | CANAL 13 HD OP 02
+  [VIVO] CL | MEGA HD
+  [VIVO] CL | TVN  HD OP 2
+  [VIVO] CL | TVN. HD
+  [VIVO] CL | CHILEVISION HD
+  [VIVO] CL | TELETRAK HD
+  [VIVO] MX || CINE ESTRELLA HD®
+  [VIVO] MX || ULTRA CINE HD®
+  [VIVO] MX || CINE ESTRELLA HD®
+  [VIVO] TNT NOVELAS HD
+  [VIVO] MX || ULTRA CINE HD®
+  [VIVO] CL∆R0 SP0RTS GT HD
+  [VIVO] MX || MyTime Movie Network MX HD®
+  [VIVO] AR-| CINE AR HD
+  [VIVO] ᴺᴱᵂˢ | FOX NEWS FHD
+  [VIVO] TNT NOVELAS HD
+  [VIVO] ᴺᴱᵂˢ | CNN CHILE UHD
+  [VIVO] USA: Fox Atlanta WAGA HD
+  [VIVO] USA: Cinemax Moremax FHD* US.
+  [VIVO] USA: Fox Atlanta HD WAGA
+  [VIVO] USA: Fox News HD USA
+  [VIVO] USA: Fox Sports Ohaio HD
+  [VIVO] USA: Fox Soccer + FHD USA
+  [VIVO] USA: Fox Sports Florida HD USA
+  [VIVO] USA: Fox Cleveland WJW HD
+  [VIVO] USA: FX HD USA
+  [VIVO] USA: FOX Deportes HD USA
+  ... Verificados 2150/2862 | Activos hasta ahora: 1161
+  [VIVO] USA: FOX Boston WFXT HD
+  [VIVO] USA: TNT HD
+  [VIVO] USA: TNT HD
+  [VIVO] USA: Fox Deportes HD
+  [VIVO] USA: HBO HITS FHD
+  [VIVO] Miraculous Las Aventuras De Ladybug - La Pelicula FHD 2023
+  [VIVO] Cinecanal 4K
+  [VIVO] AXN 4K
+  [VIVO] HBO 2 4K
+  [VIVO] HBO POP 4K
+  [VIVO] HBO PLUS 4K
+  [VIVO] HBO 4K
+  [VIVO] TNT Series 4K
+  [VIVO] TNT 4K
+  [VIVO] Universal Premiere 4K
+  [VIVO] STAR Channel FHD |opc-2|
+  [VIVO] Star Channel FHD |opc-4|
+  [VIVO] Warner TV FHD |opc-2|
+  [VIVO] AXN FHD |opc-1|
+  [VIVO] Syfy FHD |opc-1|
+  [VIVO] Warner TV FHD |opc-1|
+  [VIVO] M+Cine Español FHD |opc-2|
+  [VIVO] AXN FHD |opc-1|
+  [VIVO] M+Cine Español FHD |opc-2|
+  [VIVO] AXN FHD |opc-3|
+  [VIVO] STAR Channel FHD |opc-1|
+  [VIVO] AXN Movies FHD |opc-1|
+  [VIVO] STAR Channel FHD |opc-2|
+  [VIVO] Star Channel HD
+  [VIVO] Warner TV FHD |opc-1|
+  [VIVO] Warner TV FHD |opc-2|
+  [VIVO] Syfy FHD |opc-1|
+  [VIVO] FOX SPORTS 2 HD
+  [VIVO] HBO MUNDI | 4k
+  [VIVO] HBO SIGNATURE | 4k
+  [VIVO] HBO | 4k
+  [VIVO] HBO POP | 4k
+  ... Verificados 2200/2862 | Activos hasta ahora: 1198
+  [VIVO] HBO+ | 4k
+  [VIVO] PARAMOUNT CHANNEL | 4k
+  [VIVO] D | Fox Sports 2 | COL HD
+  [VIVO] D | Fox Sports 3 | COL HD
+  [VIVO] D | Espn 3 | COL HD
+  [VIVO] D | Espn 2 | COL HD
+  [VIVO] PARAMOUNT+ FHD
+  [VIVO] D| Fox Sports 2 | ARG HD
+  [VIVO] D| Espn 3 | MX HD
+  [VIVO] D| Fox Sports | MX HD
+  [VIVO] PARAMOUNT+ FHD
+  [VIVO] D| Fox Sports 2 | CL HD
+  [VIVO] D| Fox Sports 2 | MX HD
+  [VIVO] D| Espn 2 | MX HD
+  [VIVO] D| Fox Sports | ARG HD
+  [VIVO] D| Espn Plus | MX HD
+  [VIVO] D| Espn 2 | ARG HD
+  [VIVO] ᴜsᴀ Spᴏʀᴛs ᴴᴰ | WBTV HBO Boxing FHD
+  [VIVO] D| FOX Sports Premium Arg HD
+  [VIVO] D| Espn | MX HD
+  [VIVO] ᴜsᴀ Spᴏʀᴛs ᴴᴰ | ESPN 2 HD
+  [VIVO] ᴜsᴀ Spᴏʀᴛs ᴴᴰ | ESPN HD
+  [VIVO] SYFY HD
+  [VIVO] AXN WHITE HD
+  [VIVO] FOX FHD
+  [VIVO] SYFY FHD
+  [VIVO] AR | FOX SPORTS 2 HD
+  [VIVO] FOX SPORTS 2 HD
+  [VIVO] AR | FOX SPORTS 3 HD
+  [VIVO] CL | *T*N*T SPORTS HD/OP/ 01
+  [VIVO] CL | *T*N*T SPORTS HD / OP / 02
+  [VIVO] CL | *T*N*T SPORTS FHD /OP /0
+  [VIVO] Se Hacía Chiquita" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E05 - Lina Se Hacía Grandota, Se Hacía Chiquita
+  [VIVO] Se Hacía Chiquita" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E05 - Lina Se Hacía Grandota, Se Hacía Chiquita
+  [VIVO] Este Cuento No Ha Terminado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E07 - Y Colorín Colorado, Este Cuento No Ha Terminado
+  [VIVO] Este Cuento No Ha Terminado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E07 - Y Colorín Colorado, Este Cuento No Ha Terminado
+  [VIVO] ESPN HD OP 2
+  [VIVO] MX | ESPN 2 MX HD
+  [VIVO] ESPN 3 HD
+  [VIVO] PE| ESPN 4 HD
+  [VIVO] MX | FOX SPORTS PREMIUM HD
+  ... Verificados 2250/2862 | Activos hasta ahora: 1239
+  [VIVO] Aunque No Siempre" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E06 - En el Mar la Vida Es Más Sabrosa, Aunque No Siempre
+  [VIVO] AR | FOX SPORTS 2 HD
+  [VIVO] MX | FOX SPORTS 1 HD
+  [VIVO] MX | FOX SPORTS 2 HD
+  [VIVO] MX | FOX SPORTS 3 HD
+  [VIVO] CINE l P∆NICO HD
+  [VIVO] AR | FOX SPORTS 3 HD
+  [VIVO] CINE | CINECANAL  HD
+  [VIVO] CINE | STAR CHANEL HD
+  [VIVO] CINE | A&E HD
+  [VIVO] CINE | AXN  FHD
+  [VIVO] CINE | AXN  HD
+  [VIVO] CINE | TNT SERIES  HD
+  [VIVO] CINE  | TNT SERIES  FHD
+  [VIVO] CINE | HBO  FHD
+  [VIVO] CINE  | TⓝT  FHD
+  [VIVO] CINE | HBO  HD
+  [VIVO] CINE  | TÑT  HD
+  [VIVO] CINE | HBO 2 FHD
+  [VIVO] CINE | HBO FAMILY  HD
+  [VIVO] CINE  | HBO FAMILY FHD
+  [VIVO] CINE  | HBO PLUS  HD
+  [VIVO] CINE  | HBO PLUS  FHD
+  [VIVO] CINE | HBO XTREME FHD
+  [VIVO] CINE  | HBO XTREME HD
+  [VIVO] CINE  | HBO .POP  HD
+  [VIVO] CINE  | HBO POP  FHD
+  [VIVO] CINE | FX  HD
+  [VIVO] CINE | HBO MUNDI HD
+  [VIVO] CINE | SPACE CHANEL  FHD
+  [VIVO] CINE l P∆R∆M0UNT + HD
+  [VIVO] CINE | HBO MUNDl FHD
+  [VIVO] CINE | SPACE CHANEL  HD
+  [VIVO] CINE | TCM  HD
+  [VIVO] CINE GOLDEN PLUS FHD
+  [VIVO] CINE | GOLDEN PREMIER  HD
+  [VIVO] CINE | GOLDEN PLUS HD
+  [VIVO] CINE | WARNER  FHD
+  [VIVO] CINE | SONY M0VIES FHD
+  [VIVO] CINE | WARNER  HD
+  [VIVO] CINE | SONY  HD
+  [VIVO] CINE | GOLDEN  HD
+  [VIVO] CINE | GOLDEN EDG  HD
+  [VIVO] P | UNIVERSAL CRIMEN HD
+  [VIVO] P | UNIVERSAL CINEMA HD
+  [VIVO] P | UNIVERSAL COMEDY HD
+  [VIVO] P | UNIVERSAL REALITY HD
+  [VIVO] CINE | UNIVERSAL STUDIO FHD
+  [VIVO] CINE | UNIVERSAL CHANEL HD
+  ... Verificados 2300/2862 | Activos hasta ahora: 1288
+  [VIVO] P | UNIVERSAL PREMIER HD
+  [VIVO] CINE | AMC HD
+  [VIVO] CL | CANAL 13 HD OP 02
+  [VIVO] ClNE l DHE cine  HD
+  [VIVO] CL | CANAL 13  HD
+  [VIVO] CL | CHILEVISION HD
+  [VIVO] CL | MEGA HD
+  [VIVO] CL | MEGA HD OP 2
+  [VIVO] CL | TVN. HD
+  [VIVO] CL | TVN  HD OP 2
+  [VIVO] CL | TELETRAK HD
+  [VIVO] MX || MyTime Movie Network MX HD®
+  [VIVO] MX || CINE ESTRELLA HD®
+  [VIVO] MX || MyTime Movie Network MX HD®
+  [VIVO] MX || ULTRA CINE HD®
+  [VIVO] MX || ULTRA CINE HD®
+  [VIVO] MX || CINE ESTRELLA HD®
+  [VIVO] HBO POP | 4k
+  [VIVO] AR-| CINE AR HD
+  [VIVO] HBO MUNDI | 4k
+  [VIVO] HBO | 4k
+  [VIVO] HBO SIGNATURE | 4k
+  [VIVO] HBO+ | 4k
+  [VIVO] D | Espn Deportes | HD
+  [VIVO] PARAMOUNT CHANNEL | 4k
+  [VIVO] TNT NOVELAS HD
+  [VIVO] TNT NOVELAS HD
+  [VIVO] D | Espn Deportes | HD
+  [VIVO] D | Fox Sports 2 | COL HD
+  [VIVO] D | Fox Sports 3 | COL HD
+  [VIVO] D| Fox Sports | MX HD
+  [VIVO] Warner Channel 4K
+  [VIVO] D| Fox Sports 2 | CL HD
+  [VIVO] D | Espn 3 | COL HD
+  [VIVO] D| Espn 3 | MX HD
+  [VIVO] D | Espn 2 | COL HD
+  [VIVO] D| Espn 2 | ARG HD
+  [VIVO] D| Espn 2 | MX HD
+  ... Verificados 2350/2862 | Activos hasta ahora: 1326
+  [VIVO] D| Espn | MX HD
+  [VIVO] D| Fox Sports | ARG HD
+  [VIVO] D| Fox Sports 2 | ARG HD
+  [VIVO] D| Fox Sports 2 | MX HD
+  [VIVO] D| FOX Sports Premium Arg HD
+  [VIVO] D| Espn Plus | MX HD
+  [VIVO] AXN 4K
+  [VIVO] Cinecanal 4K
+  [VIVO] HBO 2 4K
+  [VIVO] HBO PLUS 4K
+  [VIVO] HBO 4K
+  [VIVO] HBO POP 4K
+  [VIVO] TNT 4K
+  [VIVO] M+Cine Español FHD |opc-2|
+  [VIVO] Warner TV FHD |opc-1|
+  [VIVO] PARAMOUNT+ FHD
+  [VIVO] AXN FHD |opc-1|
+  [VIVO] Warner Channel 4K
+  [VIVO] AXN Movies FHD |opc-1|
+  [VIVO] AXN FHD |opc-3|
+  [VIVO] STAR Channel FHD |opc-2|
+  [VIVO] M+Cine Español FHD |opc-2|
+  [VIVO] Universal Premiere 4K
+  [VIVO] AXN FHD |opc-1|
+  [VIVO] Warner TV FHD |opc-2|
+  [VIVO] Star Channel FHD |opc-4|
+  [VIVO] PARAMOUNT+ FHD
+  [VIVO] STAR Channel FHD |opc-1|
+  [VIVO] Syfy FHD |opc-1|
+  [VIVO] STAR Channel FHD |opc-2|
+  [VIVO] Star Channel HD
+  [VIVO] Warner TV FHD |opc-1|
+  [VIVO] CL∆R0 SP0RTS GT HD
+  [VIVO] Syfy FHD |opc-1|
+  [VIVO] Warner TV FHD |opc-2|
+  ... Verificados 2400/2862 | Activos hasta ahora: 1361
+  [VIVO] USA: Cinemax Moremax FHD* US.
+  [VIVO] USA: Fox Atlanta WAGA HD
+  [VIVO] ᴺᴱᵂˢ | CNN CHILE UHD
+  [VIVO] USA: Fox News HD USA
+  [VIVO] ᴺᴱᵂˢ | FOX NEWS FHD
+  [VIVO] USA: Fox Soccer + FHD USA
+  [VIVO] USA: Fox Sports Ohaio HD
+  [VIVO] USA: Fox Cleveland WJW HD
+  [VIVO] USA: Fox Atlanta HD WAGA
+  [VIVO] USA: Fox Sports Florida HD USA
+  [VIVO] HBO XTREME 4K
+  [VIVO] USA: FOX Deportes HD USA
+  [VIVO] USA: FX HD USA
+  [VIVO] USA: TNT HD
+  [VIVO] USA: Fox Deportes HD
+  [VIVO] USA: FOX Boston WFXT HD
+  [VIVO] USA: HBO HITS FHD
+  [VIVO] HBO Family 4K
+  [VIVO] USA: TNT HD
+  [VIVO] ᴜsᴀ Spᴏʀᴛs ᴴᴰ | ESPN 2 HD
+  [VIVO] ᴜsᴀ Spᴏʀᴛs ᴴᴰ | ESPN HD
+  [VIVO] AXN WHITE HD
+  [VIVO] ᴜsᴀ Spᴏʀᴛs ᴴᴰ | WBTV HBO Boxing FHD
+  [VIVO] FOX FHD
+  [VIVO] SYFY FHD
+  [VIVO] SYFY HD
+  [VIVO] Miraculous Las Aventuras De Ladybug - La Pelicula FHD 2023
+  [VIVO] Miraculous Las Aventuras De Ladybug - La Pelicula FHD 2023
+  [VIVO] AR | FOX SPORTS 2 HD
+  [VIVO] FOX SPORTS 2 HD
+  [VIVO] AR | FOX SPORTS 3 HD
+  [VIVO] CL | *T*N*T SPORTS HD/OP/ 01
+  [VIVO] CL | *T*N*T SPORTS FHD /OP /0
+  [VIVO] CL | *T*N*T SPORTS HD / OP / 02
+  [VIVO] PE| ESPN 4 HD
+  [VIVO] ESPN HD OP 2
+  [VIVO] ESPN 3 HD
+  [VIVO] MX | ESPN 2 MX HD
+  [VIVO] AR | FOX SPORTS 2 HD
+  ... Verificados 2450/2862 | Activos hasta ahora: 1400
+  [VIVO] MX | FOX SPORTS 1 HD
+  [VIVO] Se Hacía Chiquita" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E05 - Lina Se Hacía Grandota, Se Hacía Chiquita
+  [VIVO] Se Hacía Chiquita" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E05 - Lina Se Hacía Grandota, Se Hacía Chiquita
+  [VIVO] MX | FOX SPORTS PREMIUM HD
+  [VIVO] CINE | STAR CHANEL HD
+  [VIVO] Studio Universal 4K
+  [VIVO] USA: CINE ESTRELLA TV FHD
+  [VIVO] Aunque No Siempre" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E06 - En el Mar la Vida Es Más Sabrosa, Aunque No Siempre
+  [VIVO] Aunque No Siempre" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E06 - En el Mar la Vida Es Más Sabrosa, Aunque No Siempre
+  [VIVO] CINE | A&E HD
+  [VIVO] AR | FOX SPORTS 3 HD
+  [VIVO] MX | FOX SPORTS 3 HD
+  [VIVO] CINE l P∆NICO HD
+  [VIVO] MX | FOX SPORTS 2 HD
+  [VIVO] CINE  | TNT SERIES  FHD
+  [VIVO] CINE | AXN  FHD
+  [VIVO] CINE | CINECANAL  HD
+  [VIVO] CINE | TNT SERIES  HD
+  [VIVO] CINE | AXN  HD
+  [VIVO] UNIVERSAL CHANNEL 4K
+  [VIVO] CINE  | TⓝT  FHD
+  [VIVO] CINE | HBO 2 HD
+  [VIVO] CINE | HBO  HD
+  [VIVO] CINE | HBO  FHD
+  [VIVO] CINE  | TÑT  HD
+  [VIVO] Escribe La Tuya" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m8rWq3j73ZGhDuSCZWMMoE9ePH1.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Watchmen (2019) S01 Watchmen (2019) - S01E04 - Si No Te Gusta Mi Historia, Escribe La Tuya
+  [VIVO] CINE | HBO FAMILY  HD
+  [VIVO] CINE  | HBO FAMILY FHD
+  [VIVO] CINE  | HBO PLUS  HD
+  [VIVO] CINE  | HBO PLUS  FHD
+  [VIVO] CINE | HBO XTREME FHD
+  [VIVO] CINE | HBO MUNDl FHD
+  [VIVO] CINE  | HBO .POP  HD
+  [VIVO] CINE  | HBO POP  FHD
+  [VIVO] CINE  | HBO XTREME HD
+  [VIVO] CINE | SPACE CHANEL  HD
+  [VIVO] CINE | HBO MUNDI HD
+  [VIVO] CINE l P∆R∆M0UNT + HD
+  [VIVO] CINE | FX  HD
+  [VIVO] CINE | SPACE CHANEL  FHD
+  [VIVO] Este Cuento No Ha Terminado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E07 - Y Colorín Colorado, Este Cuento No Ha Terminado
+  [VIVO] Este Cuento No Ha Terminado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E07 - Y Colorín Colorado, Este Cuento No Ha Terminado
+  [VIVO] CINE | TCM  HD
+  [VIVO] CINE GOLDEN PLUS FHD
+  [VIVO] CINE | WARNER  FHD
+  [VIVO] CINE | WARNER  HD
+  [VIVO] CINE | SONY M0VIES FHD
+  [VIVO] CINE | GOLDEN PLUS HD
+  [VIVO] CINE | GOLDEN PREMIER  HD
+  ... Verificados 2500/2862 | Activos hasta ahora: 1449
+  [VIVO] CINE | SONY  HD
+  [VIVO] CINE | GOLDEN EDG  HD
+  [VIVO] CINE | GOLDEN  HD
+  [VIVO] P | UNIVERSAL CINEMA HD
+  [VIVO] P | UNIVERSAL CRIMEN HD
+  [VIVO] CINE | HBO 2 FHD
+  [VIVO] Space 4K
+  [VIVO] P | UNIVERSAL PREMIER HD
+  [VIVO] P | UNIVERSAL COMEDY HD
+  [VIVO] CINE | AMC HD
+  [VIVO] CINE | UNIVERSAL CHANEL HD
+  [VIVO] P | UNIVERSAL REALITY HD
+  [VIVO] CL | MEGA HD
+  [VIVO] ClNE l DHE cine  HD
+  [VIVO] CL | MEGA HD OP 2
+  [VIVO] CL | CHILEVISION HD
+  [VIVO] CINE | UNIVERSAL STUDIO FHD
+  [VIVO] CL | CANAL 13  HD
+  [VIVO] CL | CANAL 13 HD OP 02
+  [VIVO] CL | TVN  HD OP 2
+  [VIVO] MX || MyTime Movie Network MX HD®
+  [VIVO] CL | TVN. HD
+  [VIVO] CL | TELETRAK HD
+  [VIVO] MX || ULTRA CINE HD®
+  [VIVO] MX || CINE ESTRELLA HD®
+  [VIVO] MX || ULTRA CINE HD®
+  [VIVO] TNT Novelas 4K
+  [VIVO] MX || MyTime Movie Network MX HD®
+  [VIVO] MX || CINE ESTRELLA HD®
+  [VIVO] HBO+ | 4k
+  [VIVO] AR-| CINE AR HD
+  [VIVO] HBO MUNDI | 4k
+  [VIVO] HBO | 4k
+  [VIVO] HBO SIGNATURE | 4k
+  [VIVO] HBO POP | 4k
+  [VIVO] PARAMOUNT CHANNEL | 4k
+  [VIVO] TNT NOVELAS HD
+  [VIVO] TNT NOVELAS HD
+  [VIVO] D | Espn Deportes | HD
+  ... Verificados 2550/2862 | Activos hasta ahora: 1488
+  [VIVO] D| Fox Sports 2 | CL HD
+  [VIVO] D | Fox Sports 2 | COL HD
+  [VIVO] D | Espn 3 | COL HD
+  [VIVO] D | Espn 2 | COL HD
+  [VIVO] D | Fox Sports 3 | COL HD
+  [VIVO] D| Fox Sports | MX HD
+  [VIVO] D| Espn 2 | ARG HD
+  [VIVO] D| Espn 3 | MX HD
+  [VIVO] D| Espn 2 | MX HD
+  [VIVO] D| Espn | MX HD
+  [VIVO] AXN 4K
+  [VIVO] Cinecanal 4K
+  [VIVO] D| Espn Plus | MX HD
+  [VIVO] D| FOX Sports Premium Arg HD
+  [VIVO] D| Fox Sports 2 | ARG HD
+  [VIVO] HBO Family 4K
+  [VIVO] D| Fox Sports | ARG HD
+  [VIVO] HBO 4K
+  [VIVO] D| Fox Sports 2 | MX HD
+  [VIVO] HBO XTREME 4K
+  [VIVO] HBO PLUS 4K
+  [VIVO] HBO 2 4K
+  [VIVO] HBO POP 4K
+  [VIVO] Universal Premiere 4K
+  [VIVO] TNT Novelas 4K
+  [VIVO] Space 4K
+  [VIVO] TNT 4K
+  [VIVO] STAR CHANNEL 4K
+  [VIVO] Studio Universal 4K
+  [VIVO] UNIVERSAL CHANNEL 4K
+  [VIVO] PARAMOUNT+ FHD
+  [VIVO] PARAMOUNT+ FHD
+  [VIVO] Warner Channel 4K
+  [VIVO] STAR Channel FHD |opc-2|
+  [VIVO] Syfy FHD |opc-1|
+  [VIVO] Warner TV FHD |opc-2|
+  [VIVO] Star Channel FHD |opc-4|
+  [VIVO] M+Cine Español FHD |opc-2|
+  [VIVO] AXN FHD |opc-3|
+  [VIVO] AXN Movies FHD |opc-1|
+  [VIVO] STAR Channel FHD |opc-1|
+  [VIVO] Warner TV FHD |opc-1|
+  [VIVO] Star Channel HD
+  ... Verificados 2600/2862 | Activos hasta ahora: 1531
+  [VIVO] AXN FHD |opc-1|
+  [VIVO] M+Cine Español FHD |opc-2|
+  [VIVO] Warner TV FHD |opc-1|
+  [VIVO] Warner TV FHD |opc-2|
+  [VIVO] CL∆R0 SP0RTS GT HD
+  [VIVO] USA: Fox Atlanta HD WAGA
+  [VIVO] STAR Channel FHD |opc-2|
+  [VIVO] ᴺᴱᵂˢ | FOX NEWS FHD
+  [VIVO] AXN FHD |opc-1|
+  [VIVO] TNT Series 4K
+  [VIVO] ᴜsᴀ Spᴏʀᴛs ᴴᴰ | WBTV HBO Boxing FHD
+  [VIVO] Syfy FHD |opc-1|
+  [VIVO] ᴜsᴀ Spᴏʀᴛs ᴴᴰ | ESPN HD
+  [VIVO] USA: Fox Soccer + FHD USA
+  [VIVO] USA: Fox Cleveland WJW HD
+  [VIVO] AXN WHITE HD
+  [VIVO] FOX FHD
+  [VIVO] SYFY FHD
+  [VIVO] SYFY HD
+  [VIVO] USA: FOX Deportes HD USA
+  [VIVO] FOX SPORTS 2 HD
+  [VIVO] AR | FOX SPORTS 2 HD
+  [VIVO] AR | FOX SPORTS 3 HD
+  [VIVO] CL | *T*N*T SPORTS FHD /OP /0
+  [VIVO] CL | *T*N*T SPORTS HD / OP / 02
+  [VIVO] CL | *T*N*T SPORTS HD/OP/ 01
+  [VIVO] PE| ESPN 4 HD
+  [VIVO] MX | ESPN 2 MX HD
+  [VIVO] ESPN HD OP 2
+  [VIVO] ESPN 3 HD
+  [VIVO] AR | FOX SPORTS 2 HD
+  [VIVO] MX | FOX SPORTS 1 HD
+  [VIVO] MX | FOX SPORTS PREMIUM HD
+  [VIVO] MX | FOX SPORTS 2 HD
+  [VIVO] MX | FOX SPORTS 3 HD
+  [VIVO] AR | FOX SPORTS 3 HD
+  [VIVO] CINE l P∆NICO HD
+  [VIVO] CINE | A&E HD
+  [VIVO] CINE | STAR CHANEL HD
+  [VIVO] CINE | CINECANAL  HD
+  [VIVO] CINE | AXN  FHD
+  [VIVO] CINE  | TNT SERIES  FHD
+  [VIVO] CINE | AXN  HD
+  [VIVO] CINE | TNT SERIES  HD
+  ... Verificados 2650/2862 | Activos hasta ahora: 1575
+  [VIVO] CINE  | TⓝT  FHD
+  [VIVO] CINE  | TÑT  HD
+  [VIVO] CINE | HBO  FHD
+  [VIVO] CINE | HBO 2 HD
+  [VIVO] CINE | HBO 2 FHD
+  [VIVO] CINE | HBO  HD
+  [VIVO] CINE | HBO FAMILY  HD
+  [VIVO] CINE  | HBO PLUS  HD
+  [VIVO] CINE  | HBO FAMILY FHD
+  [VIVO] CINE  | HBO PLUS  FHD
+  [VIVO] CINE  | HBO XTREME HD
+  [VIVO] CINE | HBO XTREME FHD
+  [VIVO] CINE  | HBO .POP  HD
+  [VIVO] CINE | HBO MUNDI HD
+  [VIVO] CINE  | HBO POP  FHD
+  [VIVO] CINE | HBO MUNDl FHD
+  [VIVO] CINE l P∆R∆M0UNT + HD
+  [VIVO] CINE | SPACE CHANEL  FHD
+  [VIVO] CINE | SPACE CHANEL  HD
+  [VIVO] CINE | FX  HD
+  [VIVO] CINE GOLDEN PLUS FHD
+  [VIVO] CINE | GOLDEN PLUS HD
+  [VIVO] CINE | TCM  HD
+  [VIVO] CINE | GOLDEN PREMIER  HD
+  [VIVO] CINE | WARNER  HD
+  [VIVO] CINE | WARNER  FHD
+  [VIVO] CINE | SONY M0VIES FHD
+  ... Verificados 2700/2862 | Activos hasta ahora: 1602
+  [VIVO] P | UNIVERSAL CINEMA HD
+  [VIVO] CINE | GOLDEN EDG  HD
+  [VIVO] CINE | GOLDEN  HD
+  [VIVO] P | UNIVERSAL CRIMEN HD
+  [VIVO] CINE | SONY  HD
+  [VIVO] P | UNIVERSAL REALITY HD
+  [VIVO] P | UNIVERSAL COMEDY HD
+  [VIVO] P | UNIVERSAL PREMIER HD
+  [VIVO] ClNE l DHE cine  HD
+  [VIVO] CL | MEGA HD
+  [VIVO] CL | CHILEVISION HD
+  [VIVO] CINE | AMC HD
+  [VIVO] CL | CANAL 13 HD OP 02
+  [VIVO] CINE | UNIVERSAL STUDIO FHD
+  [VIVO] CINE | UNIVERSAL CHANEL HD
+  [VIVO] CL | CANAL 13  HD
+  [VIVO] CL | MEGA HD OP 2
+  [VIVO] CL | TVN  HD OP 2
+  [VIVO] CL | TVN. HD
+  [VIVO] CL | TELETRAK HD
+  [VIVO] AR-| CINE AR HD
+  [VIVO] HBO | 4k
+  [VIVO] HBO MUNDI | 4k
+  [VIVO] HBO+ | 4k
+  [VIVO] PARAMOUNT CHANNEL | 4k
+  [VIVO] D | Fox Sports 3 | COL HD
+  [VIVO] TNT NOVELAS HD
+  [VIVO] D | Espn Deportes | HD
+  [VIVO] D | Fox Sports 2 | COL HD
+  [VIVO] D | Espn 3 | COL HD
+  [VIVO] TNT NOVELAS HD
+  [VIVO] D | Espn 2 | COL HD
+  [VIVO] D| Fox Sports 2 | CL HD
+  [VIVO] D| Fox Sports | MX HD
+  [VIVO] D| Espn 3 | MX HD
+  [VIVO] D| Espn 2 | ARG HD
+  [VIVO] D| Espn 2 | MX HD
+  [VIVO] AXN 4K
+  [VIVO] D| Fox Sports 2 | MX HD
+  [VIVO] D| Fox Sports 2 | ARG HD
+  [VIVO] D| FOX Sports Premium Arg HD
+  [VIVO] D| Fox Sports | ARG HD
+  [VIVO] D| Espn | MX HD
+  [VIVO] D| Espn Plus | MX HD
+  [VIVO] Cinecanal 4K
+  [VIVO] HBO 2 4K
+  [VIVO] HBO PLUS 4K
+  [VIVO] HBO POP 4K
+  ... Verificados 2750/2862 | Activos hasta ahora: 1650
+  [VIVO] TNT 4K
+  [VIVO] Universal Premiere 4K
+  [VIVO] PARAMOUNT+ FHD
+  [VIVO] PARAMOUNT+ FHD
+  [VIVO] AXN FHD |opc-3|
+  [VIVO] STAR Channel FHD |opc-2|
+  [VIVO] Warner TV FHD |opc-2|
+  [VIVO] Star Channel FHD |opc-4|
+  [VIVO] M+Cine Español FHD |opc-2|
+  [VIVO] Warner TV FHD |opc-1|
+  [VIVO] AXN FHD |opc-1|
+  [VIVO] M+Cine Español FHD |opc-2|
+  [VIVO] STAR Channel FHD |opc-1|
+  [VIVO] AXN FHD |opc-1|
+  [VIVO] AXN Movies FHD |opc-1|
+  [VIVO] STAR Channel FHD |opc-2|
+  [VIVO] Syfy FHD |opc-1|
+  [VIVO] Warner TV FHD |opc-1|
+  [VIVO] Star Channel HD
+  [VIVO] Warner TV FHD |opc-2|
+  [VIVO] USA: Fox Cleveland WJW HD
+  [VIVO] USA: Fox Atlanta HD WAGA
+  [VIVO] CL∆R0 SP0RTS GT HD
+  [VIVO] ᴺᴱᵂˢ | FOX NEWS FHD
+  [VIVO] ᴺᴱᵂˢ | CNN CHILE UHD
+  [VIVO] Syfy FHD |opc-1|
+  ... Verificados 2800/2862 | Activos hasta ahora: 1676
+  [VIVO] USA: Fox Business Network HD
+  [VIVO] USA: Fox News HD USA
+  [VIVO] USA: Cinemax Moremax FHD* US.
+  [VIVO] USA: Fox Sports Ohaio HD
+  [VIVO] USA: Fox Soccer + FHD USA
+  [VIVO] USA: FX HD USA
+  [VIVO] USA: Fox Atlanta WAGA HD
+  [VIVO] USA: Fox Sports Florida HD USA
+  [VIVO] USA: FOX Deportes HD USA
+  [VIVO] USA: TNT HD
+  [VIVO] USA: FOX Boston WFXT HD
+  [VIVO] USA: Fox Deportes HD
+  [VIVO] USA: HBO HITS FHD
+  [VIVO] ᴜsᴀ Spᴏʀᴛs ᴴᴰ | ESPN HD
+  [VIVO] ᴜsᴀ Spᴏʀᴛs ᴴᴰ | WBTV HBO Boxing FHD
+  [VIVO] USA: CINE ESTRELLA TV FHD
+  [VIVO] SYFY HD
+  [VIVO] Miraculous Las Aventuras De Ladybug - La Pelicula FHD 2023
+  [VIVO] FOX FHD
+  [VIVO] ᴜsᴀ Spᴏʀᴛs ᴴᴰ | ESPN 2 HD
+  [VIVO] AXN WHITE HD
+  [VIVO] SYFY FHD
+  [VIVO] Miraculous Las Aventuras De Ladybug - La Pelicula FHD 2023
+  [VIVO] Este Cuento No Ha Terminado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E07 - Y Colorín Colorado, Este Cuento No Ha Terminado
+  [VIVO] Aunque No Siempre" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E06 - En el Mar la Vida Es Más Sabrosa, Aunque No Siempre
+  [VIVO] Aunque No Siempre" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E06 - En el Mar la Vida Es Más Sabrosa, Aunque No Siempre
+  [VIVO] Este Cuento No Ha Terminado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E07 - Y Colorín Colorado, Este Cuento No Ha Terminado
+  [VIVO] Este Cuento No Ha Terminado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E07 - Y Colorín Colorado, Este Cuento No Ha Terminado
+  [VIVO] Este Cuento No Ha Terminado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E07 - Y Colorín Colorado, Este Cuento No Ha Terminado
+  [VIVO] Se Hacía Chiquita" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E05 - Lina Se Hacía Grandota, Se Hacía Chiquita
+  [VIVO] Se Hacía Chiquita" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E05 - Lina Se Hacía Grandota, Se Hacía Chiquita
+  [VIVO] Escribe La Tuya" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m8rWq3j73ZGhDuSCZWMMoE9ePH1.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Watchmen (2019) S01 Watchmen (2019) - S01E04 - Si No Te Gusta Mi Historia, Escribe La Tuya
+  ... Verificados 2850/2862 | Activos hasta ahora: 1708
+  [VIVO] Aunque No Siempre" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E06 - En el Mar la Vida Es Más Sabrosa, Aunque No Siempre
+
+============================================================
+PROCESO FINALIZADO
+============================================================
+Candidatos encontrados: 2862
+Canales activos y HD:   1709
+Archivo generado: lista_chile_final.m3u
+
+Canales incluidos:
+  - AR | FOX SPORTS 2 HD
+  - AR | FOX SPORTS 2 HD
+  - AR | FOX SPORTS 2 HD
+  - AR | FOX SPORTS 2 HD
+  - AR | FOX SPORTS 2 HD
+  - AR | FOX SPORTS 2 HD
+  - AR | FOX SPORTS 2 HD
+  - AR | FOX SPORTS 2 HD
+  - AR | FOX SPORTS 2 HD
+  - AR | FOX SPORTS 2 HD
+  - AR | FOX SPORTS 2 HD
+  - AR | FOX SPORTS 2 HD
+  - AR | FOX SPORTS 2 HD
+  - AR | FOX SPORTS 2 HD
+  - AR | FOX SPORTS 2 HD
+  - AR | FOX SPORTS 2 HD
+  - AR | FOX SPORTS 2 HD
+  - AR | FOX SPORTS 2 HD
+  - AR | FOX SPORTS 3 HD
+  - AR | FOX SPORTS 3 HD
+  - AR | FOX SPORTS 3 HD
+  - AR | FOX SPORTS 3 HD
+  - AR | FOX SPORTS 3 HD
+  - AR | FOX SPORTS 3 HD
+  - AR | FOX SPORTS 3 HD
+  - AR | FOX SPORTS 3 HD
+  - AR | FOX SPORTS 3 HD
+  - AR | FOX SPORTS 3 HD
+  - AR | FOX SPORTS 3 HD
+  - AR | FOX SPORTS 3 HD
+  - AR | FOX SPORTS 3 HD
+  - AR | FOX SPORTS 3 HD
+  - AR | FOX SPORTS 3 HD
+  - AR | FOX SPORTS 3 HD
+  - AR | FOX SPORTS 3 HD
+  - AR-| CINE AR HD
+  - AR-| CINE AR HD
+  - AR-| CINE AR HD
+  - AR-| CINE AR HD
+  - AR-| CINE AR HD
+  - AR-| CINE AR HD
+  - AR-| CINE AR HD
+  - AR-| CINE AR HD
+  - AR-| CINE AR HD
+  - Aunque No Siempre" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E06 - En el Mar la Vida Es Más Sabrosa, Aunque No Siempre
+  - Aunque No Siempre" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E06 - En el Mar la Vida Es Más Sabrosa, Aunque No Siempre
+  - Aunque No Siempre" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E06 - En el Mar la Vida Es Más Sabrosa, Aunque No Siempre
+  - Aunque No Siempre" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E06 - En el Mar la Vida Es Más Sabrosa, Aunque No Siempre
+  - Aunque No Siempre" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E06 - En el Mar la Vida Es Más Sabrosa, Aunque No Siempre
+  - Aunque No Siempre" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E06 - En el Mar la Vida Es Más Sabrosa, Aunque No Siempre
+  - Aunque No Siempre" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E06 - En el Mar la Vida Es Más Sabrosa, Aunque No Siempre
+  - Aunque No Siempre" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E06 - En el Mar la Vida Es Más Sabrosa, Aunque No Siempre
+  - Aunque No Siempre" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E06 - En el Mar la Vida Es Más Sabrosa, Aunque No Siempre
+  - Aunque No Siempre" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E06 - En el Mar la Vida Es Más Sabrosa, Aunque No Siempre
+  - Aunque No Siempre" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E06 - En el Mar la Vida Es Más Sabrosa, Aunque No Siempre
+  - Aunque No Siempre" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E06 - En el Mar la Vida Es Más Sabrosa, Aunque No Siempre
+  - Aunque No Siempre" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E06 - En el Mar la Vida Es Más Sabrosa, Aunque No Siempre
+  - AXN 4K
+  - AXN 4K
+  - AXN 4K
+  - AXN 4K
+  - AXN 4K
+  - AXN 4K
+  - AXN 4K
+  - AXN 4K
+  - AXN 4K
+  - AXN FHD |opc-1|
+  - AXN FHD |opc-1|
+  - AXN FHD |opc-1|
+  - AXN FHD |opc-1|
+  - AXN FHD |opc-1|
+  - AXN FHD |opc-1|
+  - AXN FHD |opc-1|
+  - AXN FHD |opc-1|
+  - AXN FHD |opc-1|
+  - AXN FHD |opc-1|
+  - AXN FHD |opc-1|
+  - AXN FHD |opc-1|
+  - AXN FHD |opc-1|
+  - AXN FHD |opc-1|
+  - AXN FHD |opc-1|
+  - AXN FHD |opc-1|
+  - AXN FHD |opc-1|
+  - AXN FHD |opc-1|
+  - AXN FHD |opc-1|
+  - AXN FHD |opc-3|
+  - AXN FHD |opc-3|
+  - AXN FHD |opc-3|
+  - AXN FHD |opc-3|
+  - AXN FHD |opc-3|
+  - AXN FHD |opc-3|
+  - AXN FHD |opc-3|
+  - AXN FHD |opc-3|
+  - AXN FHD |opc-3|
+  - AXN FHD²
+  - AXN FHD²
+  - AXN FHD²
+  - AXN FHD²
+  - AXN FHD²
+  - AXN HD¹
+  - AXN HD¹
+  - AXN HD¹
+  - AXN HD¹
+  - AXN Movies FHD |opc-1|
+  - AXN Movies FHD |opc-1|
+  - AXN Movies FHD |opc-1|
+  - AXN Movies FHD |opc-1|
+  - AXN Movies FHD |opc-1|
+  - AXN Movies FHD |opc-1|
+  - AXN Movies FHD |opc-1|
+  - AXN Movies FHD |opc-1|
+  - AXN MOVIES FHD²
+  - AXN MOVIES FHD²
+  - AXN MOVIES FHD²
+  - AXN MOVIES FHD²
+  - AXN MOVIES HD¹
+  - AXN MOVIES HD¹
+  - AXN MOVIES HD¹
+  - AXN MOVIES HD¹
+  - AXN MOVIES HD¹
+  - AXN WHITE HD
+  - AXN WHITE HD
+  - AXN WHITE HD
+  - AXN WHITE HD
+  - AXN WHITE HD
+  - AXN WHITE HD
+  - AXN WHITE HD
+  - AXN WHITE HD
+  - AXN WHITE HD
+  - BOM cine FHD²
+  - BOM cine FHD²
+  - BOM cine FHD²
+  - BOM cine FHD²
+  - BOM cine FHD²
+  - BOM cine FHD²
+  - CINE  | *HBO* POP  HD
+  - CINE  | *HBO* POP  HD
+  - CINE  | *HBO* POP  HD
+  - CINE  | *HBÖ* 2 HD
+  - CINE  | *HBÖ* 2 HD
+  - CINE  | *HBÖ* 2 HD
+  - CINE  | *HBÖ* 2 HD
+  - CINE  | A&E FHD
+  - CINE  | A&E FHD
+  - CINE  | A&E FHD
+  - CINE  | A&E HD
+  - CINE  | A&E HD
+  - CINE  | A&E HD
+  - CINE  | A&E HD
+  - CINE  | HBO .POP  HD
+  - CINE  | HBO .POP  HD
+  - CINE  | HBO .POP  HD
+  - CINE  | HBO .POP  HD
+  - CINE  | HBO .POP  HD
+  - CINE  | HBO .POP  HD
+  - CINE  | HBO .POP  HD
+  - CINE  | HBO .POP  HD
+  - CINE  | HBO .POP  HD
+  - CINE  | HBO FAMILY FHD
+  - CINE  | HBO FAMILY FHD
+  - CINE  | HBO FAMILY FHD
+  - CINE  | HBO FAMILY FHD
+  - CINE  | HBO FAMILY FHD
+  - CINE  | HBO FAMILY FHD
+  - CINE  | HBO FAMILY FHD
+  - CINE  | HBO FAMILY FHD
+  - CINE  | HBO FAMILY FHD
+  - CINE  | HBO PLUS  FHD
+  - CINE  | HBO PLUS  FHD
+  - CINE  | HBO PLUS  FHD
+  - CINE  | HBO PLUS  FHD
+  - CINE  | HBO PLUS  FHD
+  - CINE  | HBO PLUS  FHD
+  - CINE  | HBO PLUS  FHD
+  - CINE  | HBO PLUS  FHD
+  - CINE  | HBO PLUS  FHD
+  - CINE  | HBO PLUS  HD
+  - CINE  | HBO PLUS  HD
+  - CINE  | HBO PLUS  HD
+  - CINE  | HBO PLUS  HD
+  - CINE  | HBO PLUS  HD
+  - CINE  | HBO PLUS  HD
+  - CINE  | HBO PLUS  HD
+  - CINE  | HBO PLUS  HD
+  - CINE  | HBO PLUS  HD
+  - CINE  | HBO POP  FHD
+  - CINE  | HBO POP  FHD
+  - CINE  | HBO POP  FHD
+  - CINE  | HBO POP  FHD
+  - CINE  | HBO POP  FHD
+  - CINE  | HBO POP  FHD
+  - CINE  | HBO POP  FHD
+  - CINE  | HBO POP  FHD
+  - CINE  | HBO POP  FHD
+  - CINE  | HBO POP  FHD
+  - CINE  | HBO XTREME HD
+  - CINE  | HBO XTREME HD
+  - CINE  | HBO XTREME HD
+  - CINE  | HBO XTREME HD
+  - CINE  | HBO XTREME HD
+  - CINE  | HBO XTREME HD
+  - CINE  | HBO XTREME HD
+  - CINE  | HBO XTREME HD
+  - CINE  | HBO XTREME HD
+  - CINE  | TNT  FHD
+  - CINE  | TNT  FHD
+  - CINE  | TNT  FHD
+  - CINE  | TNT  HD
+  - CINE  | TNT  HD
+  - CINE  | TNT  HD
+  - CINE  | TNT SERIES  FHD
+  - CINE  | TNT SERIES  FHD
+  - CINE  | TNT SERIES  FHD
+  - CINE  | TNT SERIES  FHD
+  - CINE  | TNT SERIES  FHD
+  - CINE  | TNT SERIES  FHD
+  - CINE  | TNT SERIES  FHD
+  - CINE  | TNT SERIES  FHD
+  - CINE  | TNT SERIES  FHD
+  - CINE  | TNT SERIES  FHD
+  - CINE  | TNT SERIES  FHD
+  - CINE  | TNT SERIES  FHD
+  - CINE  | TNT SERIES  FHD
+  - CINE  | TÑT  HD
+  - CINE  | TÑT  HD
+  - CINE  | TÑT  HD
+  - CINE  | TÑT  HD
+  - CINE  | TÑT  HD
+  - CINE  | TÑT  HD
+  - CINE  | TÑT  HD
+  - CINE  | TÑT  HD
+  - CINE  | TÑT  HD
+  - CINE  | TⓝT  FHD
+  - CINE  | TⓝT  FHD
+  - CINE  | TⓝT  FHD
+  - CINE  | TⓝT  FHD
+  - CINE  | TⓝT  FHD
+  - CINE  | TⓝT  FHD
+  - CINE  | TⓝT  FHD
+  - CINE  | TⓝT  FHD
+  - CINE  | TⓝT  FHD
+  - CINE GOLDEN PLUS FHD
+  - CINE GOLDEN PLUS FHD
+  - CINE GOLDEN PLUS FHD
+  - CINE GOLDEN PLUS FHD
+  - CINE GOLDEN PLUS FHD
+  - CINE GOLDEN PLUS FHD
+  - CINE GOLDEN PLUS FHD
+  - CINE GOLDEN PLUS FHD
+  - CINE GOLDEN PLUS FHD
+  - CINE GOLDEN PLUS FHD
+  - CINE GOLDEN PLUS FHD
+  - CINE GOLDEN PLUS FHD
+  - CINE GOLDEN PLUS FHD
+  - CINE l P∆NICO HD
+  - CINE l P∆NICO HD
+  - CINE l P∆NICO HD
+  - CINE l P∆NICO HD
+  - CINE l P∆NICO HD
+  - CINE l P∆NICO HD
+  - CINE l P∆NICO HD
+  - CINE l P∆NICO HD
+  - CINE l P∆NICO HD
+  - CINE l P∆R∆M0UNT + HD
+  - CINE l P∆R∆M0UNT + HD
+  - CINE l P∆R∆M0UNT + HD
+  - CINE l P∆R∆M0UNT + HD
+  - CINE l P∆R∆M0UNT + HD
+  - CINE l P∆R∆M0UNT + HD
+  - CINE l P∆R∆M0UNT + HD
+  - CINE l P∆R∆M0UNT + HD
+  - CINE l P∆R∆M0UNT + HD
+  - CINE | *HBO* F@MILY  HD
+  - CINE | *HBO* F@MILY  HD
+  - CINE | *HBO* F@MILY  HD
+  - CINE | *HBO* HD
+  - CINE | *HBO* HD
+  - CINE | *HBO* HD
+  - CINE | *HBO* HD
+  - CINE | *HBO* HD
+  - CINE | *HBO* HD
+  - CINE | A&E HD
+  - CINE | A&E HD
+  - CINE | A&E HD
+  - CINE | A&E HD
+  - CINE | A&E HD
+  - CINE | A&E HD
+  - CINE | A&E HD
+  - CINE | A&E HD
+  - CINE | A&E HD
+  - CINE | AMC  FHD
+  - CINE | AMC  FHD
+  - CINE | AMC  FHD
+  - CINE | AMC  FHD
+  - CINE | AMC HD
+  - CINE | AMC HD
+  - CINE | AMC HD
+  - CINE | AMC HD
+  - CINE | AMC HD
+  - CINE | AMC HD
+  - CINE | AMC HD
+  - CINE | AMC HD
+  - CINE | AMC HD
+  - CINE | AMC HD
+  - CINE | AMC HD
+  - CINE | AMC HD
+  - CINE | AXN  FHD
+  - CINE | AXN  FHD
+  - CINE | AXN  FHD
+  - CINE | AXN  FHD
+  - CINE | AXN  FHD
+  - CINE | AXN  FHD
+  - CINE | AXN  FHD
+  - CINE | AXN  FHD
+  - CINE | AXN  FHD
+  - CINE | AXN  HD
+  - CINE | AXN  HD
+  - CINE | AXN  HD
+  - CINE | AXN  HD
+  - CINE | AXN  HD
+  - CINE | AXN  HD
+  - CINE | AXN  HD
+  - CINE | AXN  HD
+  - CINE | AXN  HD
+  - CINE | AXN  HD
+  - CINE | AXN  HD
+  - CINE | AXN  HD
+  - CINE | AXN  HD
+  - CINE | CINECANAL  FHD
+  - CINE | CINECANAL  FHD
+  - CINE | CINECANAL  FHD
+  - CINE | CINECANAL  HD
+  - CINE | CINECANAL  HD
+  - CINE | CINECANAL  HD
+  - CINE | CINECANAL  HD
+  - CINE | CINECANAL  HD
+  - CINE | CINECANAL  HD
+  - CINE | CINECANAL  HD
+  - CINE | CINECANAL  HD
+  - CINE | CINECANAL  HD
+  - CINE | CINECANAL  HD
+  - CINE | CINECANAL  HD
+  - CINE | FX  FHD
+  - CINE | FX  FHD
+  - CINE | FX  FHD
+  - CINE | FX  FHD
+  - CINE | FX  HD
+  - CINE | FX  HD
+  - CINE | FX  HD
+  - CINE | FX  HD
+  - CINE | FX  HD
+  - CINE | FX  HD
+  - CINE | FX  HD
+  - CINE | FX  HD
+  - CINE | FX  HD
+  - CINE | FX  HD
+  - CINE | FX  HD
+  - CINE | GOLDEN  FHD
+  - CINE | GOLDEN  FHD
+  - CINE | GOLDEN  FHD
+  - CINE | GOLDEN  FHD
+  - CINE | GOLDEN  HD
+  - CINE | GOLDEN  HD
+  - CINE | GOLDEN  HD
+  - CINE | GOLDEN  HD
+  - CINE | GOLDEN  HD
+  - CINE | GOLDEN  HD
+  - CINE | GOLDEN  HD
+  - CINE | GOLDEN  HD
+  - CINE | GOLDEN  HD
+  - CINE | GOLDEN  HD
+  - CINE | GOLDEN  HD
+  - CINE | GOLDEN EDG  HD
+  - CINE | GOLDEN EDG  HD
+  - CINE | GOLDEN EDG  HD
+  - CINE | GOLDEN EDG  HD
+  - CINE | GOLDEN EDG  HD
+  - CINE | GOLDEN EDG  HD
+  - CINE | GOLDEN EDG  HD
+  - CINE | GOLDEN EDG  HD
+  - CINE | GOLDEN EDG  HD
+  - CINE | GOLDEN PLUS HD
+  - CINE | GOLDEN PLUS HD
+  - CINE | GOLDEN PLUS HD
+  - CINE | GOLDEN PLUS HD
+  - CINE | GOLDEN PLUS HD
+  - CINE | GOLDEN PLUS HD
+  - CINE | GOLDEN PLUS HD
+  - CINE | GOLDEN PLUS HD
+  - CINE | GOLDEN PLUS HD
+  - CINE | GOLDEN PLUS HD
+  - CINE | GOLDEN PLUS HD
+  - CINE | GOLDEN PLUS HD
+  - CINE | GOLDEN PREMIER  HD
+  - CINE | GOLDEN PREMIER  HD
+  - CINE | GOLDEN PREMIER  HD
+  - CINE | GOLDEN PREMIER  HD
+  - CINE | GOLDEN PREMIER  HD
+  - CINE | GOLDEN PREMIER  HD
+  - CINE | GOLDEN PREMIER  HD
+  - CINE | GOLDEN PREMIER  HD
+  - CINE | GOLDEN PREMIER  HD
+  - CINE | HBO  FHD
+  - CINE | HBO  FHD
+  - CINE | HBO  FHD
+  - CINE | HBO  FHD
+  - CINE | HBO  FHD
+  - CINE | HBO  FHD
+  - CINE | HBO  FHD
+  - CINE | HBO  FHD
+  - CINE | HBO  FHD
+  - CINE | HBO  HD
+  - CINE | HBO  HD
+  - CINE | HBO  HD
+  - CINE | HBO  HD
+  - CINE | HBO  HD
+  - CINE | HBO  HD
+  - CINE | HBO  HD
+  - CINE | HBO  HD
+  - CINE | HBO  HD
+  - CINE | HBO 2 FHD
+  - CINE | HBO 2 FHD
+  - CINE | HBO 2 FHD
+  - CINE | HBO 2 FHD
+  - CINE | HBO 2 FHD
+  - CINE | HBO 2 FHD
+  - CINE | HBO 2 FHD
+  - CINE | HBO 2 FHD
+  - CINE | HBO 2 FHD
+  - CINE | HBO 2 HD
+  - CINE | HBO 2 HD
+  - CINE | HBO 2 HD
+  - CINE | HBO 2 HD
+  - CINE | HBO 2 HD
+  - CINE | HBO 2 HD
+  - CINE | HBO 2 HD
+  - CINE | HBO FAMILY  HD
+  - CINE | HBO FAMILY  HD
+  - CINE | HBO FAMILY  HD
+  - CINE | HBO FAMILY  HD
+  - CINE | HBO FAMILY  HD
+  - CINE | HBO FAMILY  HD
+  - CINE | HBO FAMILY  HD
+  - CINE | HBO FAMILY  HD
+  - CINE | HBO FAMILY  HD
+  - CINE | HBO MUNDI HD
+  - CINE | HBO MUNDI HD
+  - CINE | HBO MUNDI HD
+  - CINE | HBO MUNDI HD
+  - CINE | HBO MUNDI HD
+  - CINE | HBO MUNDI HD
+  - CINE | HBO MUNDI HD
+  - CINE | HBO MUNDI HD
+  - CINE | HBO MUNDI HD
+  - CINE | HBO MUNDl FHD
+  - CINE | HBO MUNDl FHD
+  - CINE | HBO MUNDl FHD
+  - CINE | HBO MUNDl FHD
+  - CINE | HBO MUNDl FHD
+  - CINE | HBO MUNDl FHD
+  - CINE | HBO MUNDl FHD
+  - CINE | HBO MUNDl FHD
+  - CINE | HBO MUNDl FHD
+  - CINE | HBO XTREME FHD
+  - CINE | HBO XTREME FHD
+  - CINE | HBO XTREME FHD
+  - CINE | HBO XTREME FHD
+  - CINE | HBO XTREME FHD
+  - CINE | HBO XTREME FHD
+  - CINE | HBO XTREME FHD
+  - CINE | HBO XTREME FHD
+  - CINE | PARAMOUNT CHANEL FHD
+  - CINE | PARAMOUNT CHANEL FHD
+  - CINE | PARAMOUNT CHANEL FHD
+  - CINE | PARAMOUNT CHANEL FHD
+  - CINE | PARAMOUNT CHANEL HD
+  - CINE | PARAMOUNT CHANEL HD
+  - CINE | PARAMOUNT CHANEL HD
+  - CINE | PARAMOUNT CHANEL HD
+  - CINE | SONY  FHD
+  - CINE | SONY  FHD
+  - CINE | SONY  FHD
+  - CINE | SONY  FHD
+  - CINE | SONY  HD
+  - CINE | SONY  HD
+  - CINE | SONY  HD
+  - CINE | SONY  HD
+  - CINE | SONY  HD
+  - CINE | SONY  HD
+  - CINE | SONY  HD
+  - CINE | SONY  HD
+  - CINE | SONY  HD
+  - CINE | SONY  HD
+  - CINE | SONY  HD
+  - CINE | SONY  HD
+  - CINE | SONY  HD
+  - CINE | SONY M0VIES FHD
+  - CINE | SONY M0VIES FHD
+  - CINE | SONY M0VIES FHD
+  - CINE | SONY M0VIES FHD
+  - CINE | SONY M0VIES FHD
+  - CINE | SONY M0VIES FHD
+  - CINE | SONY M0VIES FHD
+  - CINE | SONY M0VIES FHD
+  - CINE | SONY M0VIES FHD
+  - CINE | SPACE CHANEL  FHD
+  - CINE | SPACE CHANEL  FHD
+  - CINE | SPACE CHANEL  FHD
+  - CINE | SPACE CHANEL  FHD
+  - CINE | SPACE CHANEL  FHD
+  - CINE | SPACE CHANEL  FHD
+  - CINE | SPACE CHANEL  FHD
+  - CINE | SPACE CHANEL  FHD
+  - CINE | SPACE CHANEL  FHD
+  - CINE | SPACE CHANEL  FHD
+  - CINE | SPACE CHANEL  FHD
+  - CINE | SPACE CHANEL  FHD
+  - CINE | SPACE CHANEL  FHD
+  - CINE | SPACE CHANEL  HD
+  - CINE | SPACE CHANEL  HD
+  - CINE | SPACE CHANEL  HD
+  - CINE | SPACE CHANEL  HD
+  - CINE | SPACE CHANEL  HD
+  - CINE | SPACE CHANEL  HD
+  - CINE | SPACE CHANEL  HD
+  - CINE | SPACE CHANEL  HD
+  - CINE | SPACE CHANEL  HD
+  - CINE | SPACE CHANEL  HD
+  - CINE | SPACE CHANEL  HD
+  - CINE | SPACE CHANEL  HD
+  - CINE | SPACE CHANEL  HD
+  - CINE | STAR CHANEL HD
+  - CINE | STAR CHANEL HD
+  - CINE | STAR CHANEL HD
+  - CINE | STAR CHANEL HD
+  - CINE | STAR CHANEL HD
+  - CINE | STAR CHANEL HD
+  - CINE | STAR CHANEL HD
+  - CINE | STAR CHANEL HD
+  - CINE | STAR CHANEL HD
+  - CINE | STAR CHANNEL  FHD
+  - CINE | STAR CHANNEL  FHD
+  - CINE | STAR CHANNEL  FHD
+  - CINE | STAR CHANNEL  FHD
+  - CINE | STAR CHANNEL  HD
+  - CINE | STAR CHANNEL  HD
+  - CINE | STAR CHANNEL  HD
+  - CINE | TCM  FHD
+  - CINE | TCM  FHD
+  - CINE | TCM  FHD
+  - CINE | TCM  HD
+  - CINE | TCM  HD
+  - CINE | TCM  HD
+  - CINE | TCM  HD
+  - CINE | TCM  HD
+  - CINE | TCM  HD
+  - CINE | TCM  HD
+  - CINE | TCM  HD
+  - CINE | TCM  HD
+  - CINE | TCM  HD
+  - CINE | TCM  HD
+  - CINE | TCM  HD
+  - CINE | TCM  HD
+  - CINE | TNT SERIES  HD
+  - CINE | TNT SERIES  HD
+  - CINE | TNT SERIES  HD
+  - CINE | TNT SERIES  HD
+  - CINE | TNT SERIES  HD
+  - CINE | TNT SERIES  HD
+  - CINE | TNT SERIES  HD
+  - CINE | TNT SERIES  HD
+  - CINE | TNT SERIES  HD
+  - CINE | TNT SERIES  HD
+  - CINE | TNT SERIES  HD
+  - CINE | TNT SERIES  HD
+  - CINE | UNIVERSAL CHANEL  FHD
+  - CINE | UNIVERSAL CHANEL  FHD
+  - CINE | UNIVERSAL CHANEL  FHD
+  - CINE | UNIVERSAL CHANEL  HD
+  - CINE | UNIVERSAL CHANEL  HD
+  - CINE | UNIVERSAL CHANEL  HD
+  - CINE | UNIVERSAL CHANEL HD
+  - CINE | UNIVERSAL CHANEL HD
+  - CINE | UNIVERSAL CHANEL HD
+  - CINE | UNIVERSAL CHANEL HD
+  - CINE | UNIVERSAL CHANEL HD
+  - CINE | UNIVERSAL CHANEL HD
+  - CINE | UNIVERSAL CHANEL HD
+  - CINE | UNIVERSAL CHANEL HD
+  - CINE | UNIVERSAL CHANEL HD
+  - CINE | UNIVERSAL STUDIO FHD
+  - CINE | UNIVERSAL STUDIO FHD
+  - CINE | UNIVERSAL STUDIO FHD
+  - CINE | UNIVERSAL STUDIO FHD
+  - CINE | UNIVERSAL STUDIO FHD
+  - CINE | UNIVERSAL STUDIO FHD
+  - CINE | UNIVERSAL STUDIO FHD
+  - CINE | UNIVERSAL STUDIO FHD
+  - CINE | UNIVERSAL STUDIO FHD
+  - CINE | WARNER  FHD
+  - CINE | WARNER  FHD
+  - CINE | WARNER  FHD
+  - CINE | WARNER  FHD
+  - CINE | WARNER  FHD
+  - CINE | WARNER  FHD
+  - CINE | WARNER  FHD
+  - CINE | WARNER  FHD
+  - CINE | WARNER  FHD
+  - CINE | WARNER  FHD
+  - CINE | WARNER  FHD
+  - CINE | WARNER  FHD
+  - CINE | WARNER  HD
+  - CINE | WARNER  HD
+  - CINE | WARNER  HD
+  - CINE | WARNER  HD
+  - CINE | WARNER  HD
+  - CINE | WARNER  HD
+  - CINE | WARNER  HD
+  - CINE | WARNER  HD
+  - CINE | WARNER  HD
+  - CINE | WARNER  HD
+  - CINE | WARNER  HD
+  - CINE | WARNER  HD
+  - CINE | WARNER  HD
+  - CINE | WARNER  HD
+  - Cinecanal 4K
+  - Cinecanal 4K
+  - Cinecanal 4K
+  - Cinecanal 4K
+  - Cinecanal 4K
+  - Cinecanal 4K
+  - Cinecanal 4K
+  - Cinecanal 4K
+  - Cinecanal 4K
+  - CL | *T*N*T SPORTS FHD /OP /0
+  - CL | *T*N*T SPORTS FHD /OP /0
+  - CL | *T*N*T SPORTS FHD /OP /0
+  - CL | *T*N*T SPORTS FHD /OP /0
+  - CL | *T*N*T SPORTS FHD /OP /0
+  - CL | *T*N*T SPORTS FHD /OP /0
+  - CL | *T*N*T SPORTS FHD /OP /0
+  - CL | *T*N*T SPORTS FHD /OP /0
+  - CL | *T*N*T SPORTS HD / OP / 02
+  - CL | *T*N*T SPORTS HD / OP / 02
+  - CL | *T*N*T SPORTS HD / OP / 02
+  - CL | *T*N*T SPORTS HD / OP / 02
+  - CL | *T*N*T SPORTS HD / OP / 02
+  - CL | *T*N*T SPORTS HD / OP / 02
+  - CL | *T*N*T SPORTS HD / OP / 02
+  - CL | *T*N*T SPORTS HD / OP / 02
+  - CL | *T*N*T SPORTS HD / OP / 02
+  - CL | *T*N*T SPORTS HD/OP/ 01
+  - CL | *T*N*T SPORTS HD/OP/ 01
+  - CL | *T*N*T SPORTS HD/OP/ 01
+  - CL | *T*N*T SPORTS HD/OP/ 01
+  - CL | *T*N*T SPORTS HD/OP/ 01
+  - CL | *T*N*T SPORTS HD/OP/ 01
+  - CL | *T*N*T SPORTS HD/OP/ 01
+  - CL | *T*N*T SPORTS HD/OP/ 01
+  - CL | *T*N*T SPORTS HD/OP/ 01
+  - CL | *TV*N HD
+  - CL | *TV*N HD
+  - CL | *TV*N HD
+  - CL | 24 HORAS HD
+  - CL | 24 HORAS HD
+  - CL | 24 HORAS HD
+  - CL | 24 HORAS HD
+  - CL | 24 HORAS HD
+  - CL | 24 HORAS HD
+  - CL | CANAL 13  HD
+  - CL | CANAL 13  HD
+  - CL | CANAL 13  HD
+  - CL | CANAL 13  HD
+  - CL | CANAL 13  HD
+  - CL | CANAL 13  HD
+  - CL | CANAL 13  HD
+  - CL | CANAL 13  HD
+  - CL | CANAL 13  HD
+  - CL | CANAL 13  HD
+  - CL | CANAL 13 HD
+  - CL | CANAL 13 HD
+  - CL | CANAL 13 HD
+  - CL | CANAL 13 HD OP 02
+  - CL | CANAL 13 HD OP 02
+  - CL | CANAL 13 HD OP 02
+  - CL | CANAL 13 HD OP 02
+  - CL | CANAL 13 HD OP 02
+  - CL | CANAL 13 HD OP 02
+  - CL | CANAL 13 HD OP 02
+  - CL | CANAL 13 HD OP 02
+  - CL | CHILEVISION HD
+  - CL | CHILEVISION HD
+  - CL | CHILEVISION HD
+  - CL | CHILEVISION HD
+  - CL | CHILEVISION HD
+  - CL | CHILEVISION HD
+  - CL | CHILEVISION HD
+  - CL | CHILEVISION HD
+  - CL | CHILEVISION HD
+  - CL | CHILEVISION HD
+  - CL | CHILEVISION HD
+  - CL | CHILEVISION HD
+  - CL | CHILEVISION HD
+  - CL | CHILEVISION HD
+  - CL | LA RED HD
+  - CL | LA RED HD
+  - CL | LA RED HD
+  - CL | MEGA HD
+  - CL | MEGA HD
+  - CL | MEGA HD
+  - CL | MEGA HD
+  - CL | MEGA HD
+  - CL | MEGA HD
+  - CL | MEGA HD
+  - CL | MEGA HD
+  - CL | MEGA HD
+  - CL | MEGA HD
+  - CL | MEGA HD
+  - CL | MEGA HD
+  - CL | MEGA HD OP 2
+  - CL | MEGA HD OP 2
+  - CL | MEGA HD OP 2
+  - CL | MEGA HD OP 2
+  - CL | MEGA HD OP 2
+  - CL | MEGA HD OP 2
+  - CL | MEGA HD OP 2
+  - CL | MEGA HD OP 2
+  - CL | NTV HD
+  - CL | NTV HD
+  - CL | NTV HD
+  - CL | NTV HD
+  - CL | TELETRAK HD
+  - CL | TELETRAK HD
+  - CL | TELETRAK HD
+  - CL | TELETRAK HD
+  - CL | TELETRAK HD
+  - CL | TELETRAK HD
+  - CL | TELETRAK HD
+  - CL | TELETRAK HD
+  - CL | TELETRAK HD
+  - CL | TELETRAK HD
+  - CL | TELETRAK HD
+  - CL | TELETRAK HD
+  - CL | TVN  HD OP 2
+  - CL | TVN  HD OP 2
+  - CL | TVN  HD OP 2
+  - CL | TVN  HD OP 2
+  - CL | TVN  HD OP 2
+  - CL | TVN  HD OP 2
+  - CL | TVN  HD OP 2
+  - CL | TVN  HD OP 2
+  - CL | TVN  HD OP 2
+  - CL | TVN. HD
+  - CL | TVN. HD
+  - CL | TVN. HD
+  - CL | TVN. HD
+  - CL | TVN. HD
+  - CL | TVN. HD
+  - CL | TVN. HD
+  - CL | TVN. HD
+  - CL | TVN. HD
+  - CL | TVN. HD
+  - CL | UCV HD
+  - CL | UCV HD
+  - CL | UCV HD
+  - CL | UCV HD
+  - CL | UCV HD
+  - CL | VIA X HD
+  - CL | VIA X HD
+  - CL | VIA X HD
+  - CL | VIA X HD
+  - ClNE l DHE cine  HD
+  - ClNE l DHE cine  HD
+  - ClNE l DHE cine  HD
+  - ClNE l DHE cine  HD
+  - ClNE l DHE cine  HD
+  - ClNE l DHE cine  HD
+  - ClNE l DHE cine  HD
+  - ClNE l DHE cine  HD
+  - ClNE l DHE cine  HD
+  - CL∆R0 SP0RTS GT HD
+  - CL∆R0 SP0RTS GT HD
+  - CL∆R0 SP0RTS GT HD
+  - CL∆R0 SP0RTS GT HD
+  - CL∆R0 SP0RTS GT HD
+  - CL∆R0 SP0RTS GT HD
+  - CL∆R0 SP0RTS GT HD
+  - CL∆R0 SP0RTS GT HD
+  - CL∆R0 SP0RTS GT HD
+  - D | Espn 2 | COL HD
+  - D | Espn 2 | COL HD
+  - D | Espn 2 | COL HD
+  - D | Espn 2 | COL HD
+  - D | Espn 2 | COL HD
+  - D | Espn 2 | COL HD
+  - D | Espn 2 | COL HD
+  - D | Espn 2 | COL HD
+  - D | Espn 3 | COL HD
+  - D | Espn 3 | COL HD
+  - D | Espn 3 | COL HD
+  - D | Espn 3 | COL HD
+  - D | Espn 3 | COL HD
+  - D | Espn 3 | COL HD
+  - D | Espn 3 | COL HD
+  - D | Espn 3 | COL HD
+  - D | Espn 3 | COL HD
+  - D | Espn Deportes | HD
+  - D | Espn Deportes | HD
+  - D | Espn Deportes | HD
+  - D | Espn Deportes | HD
+  - D | Espn Deportes | HD
+  - D | Espn Deportes | HD
+  - D | Espn Deportes | HD
+  - D | Espn Deportes | HD
+  - D | Espn Deportes | HD
+  - D | Fox Sports 2 | COL HD
+  - D | Fox Sports 2 | COL HD
+  - D | Fox Sports 2 | COL HD
+  - D | Fox Sports 2 | COL HD
+  - D | Fox Sports 2 | COL HD
+  - D | Fox Sports 2 | COL HD
+  - D | Fox Sports 2 | COL HD
+  - D | Fox Sports 2 | COL HD
+  - D | Fox Sports 2 | COL HD
+  - D | Fox Sports 3 | COL HD
+  - D | Fox Sports 3 | COL HD
+  - D | Fox Sports 3 | COL HD
+  - D | Fox Sports 3 | COL HD
+  - D | Fox Sports 3 | COL HD
+  - D | Fox Sports 3 | COL HD
+  - D | Fox Sports 3 | COL HD
+  - D | Fox Sports 3 | COL HD
+  - D | Fox Sports 3 | COL HD
+  - D| Espn 2 | ARG HD
+  - D| Espn 2 | ARG HD
+  - D| Espn 2 | ARG HD
+  - D| Espn 2 | ARG HD
+  - D| Espn 2 | ARG HD
+  - D| Espn 2 | ARG HD
+  - D| Espn 2 | ARG HD
+  - D| Espn 2 | ARG HD
+  - D| Espn 2 | ARG HD
+  - D| Espn 2 | MX HD
+  - D| Espn 2 | MX HD
+  - D| Espn 2 | MX HD
+  - D| Espn 2 | MX HD
+  - D| Espn 2 | MX HD
+  - D| Espn 2 | MX HD
+  - D| Espn 2 | MX HD
+  - D| Espn 2 | MX HD
+  - D| Espn 2 | MX HD
+  - D| Espn 3 | MX HD
+  - D| Espn 3 | MX HD
+  - D| Espn 3 | MX HD
+  - D| Espn 3 | MX HD
+  - D| Espn 3 | MX HD
+  - D| Espn 3 | MX HD
+  - D| Espn 3 | MX HD
+  - D| Espn 3 | MX HD
+  - D| Espn 3 | MX HD
+  - D| Espn Plus | MX HD
+  - D| Espn Plus | MX HD
+  - D| Espn Plus | MX HD
+  - D| Espn Plus | MX HD
+  - D| Espn Plus | MX HD
+  - D| Espn Plus | MX HD
+  - D| Espn Plus | MX HD
+  - D| Espn Plus | MX HD
+  - D| Espn Plus | MX HD
+  - D| Espn | MX HD
+  - D| Espn | MX HD
+  - D| Espn | MX HD
+  - D| Espn | MX HD
+  - D| Espn | MX HD
+  - D| Espn | MX HD
+  - D| Espn | MX HD
+  - D| Espn | MX HD
+  - D| Espn | MX HD
+  - D| Fox Sports 2 | ARG HD
+  - D| Fox Sports 2 | ARG HD
+  - D| Fox Sports 2 | ARG HD
+  - D| Fox Sports 2 | ARG HD
+  - D| Fox Sports 2 | ARG HD
+  - D| Fox Sports 2 | ARG HD
+  - D| Fox Sports 2 | ARG HD
+  - D| Fox Sports 2 | ARG HD
+  - D| Fox Sports 2 | ARG HD
+  - D| Fox Sports 2 | CL HD
+  - D| Fox Sports 2 | CL HD
+  - D| Fox Sports 2 | CL HD
+  - D| Fox Sports 2 | CL HD
+  - D| Fox Sports 2 | CL HD
+  - D| Fox Sports 2 | CL HD
+  - D| Fox Sports 2 | CL HD
+  - D| Fox Sports 2 | CL HD
+  - D| Fox Sports 2 | CL HD
+  - D| Fox Sports 2 | MX HD
+  - D| Fox Sports 2 | MX HD
+  - D| Fox Sports 2 | MX HD
+  - D| Fox Sports 2 | MX HD
+  - D| Fox Sports 2 | MX HD
+  - D| Fox Sports 2 | MX HD
+  - D| Fox Sports 2 | MX HD
+  - D| Fox Sports 2 | MX HD
+  - D| Fox Sports 2 | MX HD
+  - D| FOX Sports Premium Arg HD
+  - D| FOX Sports Premium Arg HD
+  - D| FOX Sports Premium Arg HD
+  - D| FOX Sports Premium Arg HD
+  - D| FOX Sports Premium Arg HD
+  - D| FOX Sports Premium Arg HD
+  - D| FOX Sports Premium Arg HD
+  - D| FOX Sports Premium Arg HD
+  - D| FOX Sports Premium Arg HD
+  - D| Fox Sports | ARG HD
+  - D| Fox Sports | ARG HD
+  - D| Fox Sports | ARG HD
+  - D| Fox Sports | ARG HD
+  - D| Fox Sports | ARG HD
+  - D| Fox Sports | ARG HD
+  - D| Fox Sports | ARG HD
+  - D| Fox Sports | ARG HD
+  - D| Fox Sports | ARG HD
+  - D| Fox Sports | MX HD
+  - D| Fox Sports | MX HD
+  - D| Fox Sports | MX HD
+  - D| Fox Sports | MX HD
+  - D| Fox Sports | MX HD
+  - D| Fox Sports | MX HD
+  - D| Fox Sports | MX HD
+  - D| Fox Sports | MX HD
+  - D| Fox Sports | MX HD
+  - Escribe La Tuya" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m8rWq3j73ZGhDuSCZWMMoE9ePH1.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Watchmen (2019) S01 Watchmen (2019) - S01E04 - Si No Te Gusta Mi Historia, Escribe La Tuya
+  - Escribe La Tuya" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m8rWq3j73ZGhDuSCZWMMoE9ePH1.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Watchmen (2019) S01 Watchmen (2019) - S01E04 - Si No Te Gusta Mi Historia, Escribe La Tuya
+  - Escribe La Tuya" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m8rWq3j73ZGhDuSCZWMMoE9ePH1.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Watchmen (2019) S01 Watchmen (2019) - S01E04 - Si No Te Gusta Mi Historia, Escribe La Tuya
+  - Escribe La Tuya" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m8rWq3j73ZGhDuSCZWMMoE9ePH1.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Watchmen (2019) S01 Watchmen (2019) - S01E04 - Si No Te Gusta Mi Historia, Escribe La Tuya
+  - Escribe La Tuya" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m8rWq3j73ZGhDuSCZWMMoE9ePH1.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Watchmen (2019) S01 Watchmen (2019) - S01E04 - Si No Te Gusta Mi Historia, Escribe La Tuya
+  - Escribe La Tuya" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m8rWq3j73ZGhDuSCZWMMoE9ePH1.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Watchmen (2019) S01 Watchmen (2019) - S01E04 - Si No Te Gusta Mi Historia, Escribe La Tuya
+  - ESPN 2 HD²
+  - ESPN 2 HD²
+  - ESPN 2 HD²
+  - ESPN 2 HD²
+  - ESPN 3 HD
+  - ESPN 3 HD
+  - ESPN 3 HD
+  - ESPN 3 HD
+  - ESPN 3 HD
+  - ESPN 3 HD
+  - ESPN 3 HD
+  - ESPN 3 HD
+  - ESPN 3 HD
+  - ESPN 3 HD²
+  - ESPN 4 HD²
+  - ESPN 5 HD²
+  - ESPN 5 HD²
+  - ESPN 5 HD²
+  - ESPN 5 HD²
+  - ESPN 5 HD²
+  - ESPN 5 HD²
+  - ESPN 6 HD²
+  - ESPN HD OP 2
+  - ESPN HD OP 2
+  - ESPN HD OP 2
+  - ESPN HD OP 2
+  - ESPN HD OP 2
+  - ESPN HD OP 2
+  - ESPN HD OP 2
+  - ESPN HD OP 2
+  - ESPN HD OP 2
+  - ESPN HD²
+  - Este Cuento No Ha Terminado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E07 - Y Colorín Colorado, Este Cuento No Ha Terminado
+  - Este Cuento No Ha Terminado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E07 - Y Colorín Colorado, Este Cuento No Ha Terminado
+  - Este Cuento No Ha Terminado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E07 - Y Colorín Colorado, Este Cuento No Ha Terminado
+  - Este Cuento No Ha Terminado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E07 - Y Colorín Colorado, Este Cuento No Ha Terminado
+  - Este Cuento No Ha Terminado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E07 - Y Colorín Colorado, Este Cuento No Ha Terminado
+  - Este Cuento No Ha Terminado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E07 - Y Colorín Colorado, Este Cuento No Ha Terminado
+  - Este Cuento No Ha Terminado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E07 - Y Colorín Colorado, Este Cuento No Ha Terminado
+  - Este Cuento No Ha Terminado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E07 - Y Colorín Colorado, Este Cuento No Ha Terminado
+  - Este Cuento No Ha Terminado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E07 - Y Colorín Colorado, Este Cuento No Ha Terminado
+  - Este Cuento No Ha Terminado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E07 - Y Colorín Colorado, Este Cuento No Ha Terminado
+  - Este Cuento No Ha Terminado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E07 - Y Colorín Colorado, Este Cuento No Ha Terminado
+  - Este Cuento No Ha Terminado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E07 - Y Colorín Colorado, Este Cuento No Ha Terminado
+  - Este Cuento No Ha Terminado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E07 - Y Colorín Colorado, Este Cuento No Ha Terminado
+  - Este Cuento No Ha Terminado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E07 - Y Colorín Colorado, Este Cuento No Ha Terminado
+  - FOX DEPORTES HD²
+  - FOX DEPORTES HD²
+  - FOX DEPORTES HD²
+  - FOX DEPORTES HD²
+  - FOX DEPORTES HD²
+  - FOX DEPORTES HD²
+  - FOX FHD
+  - FOX FHD
+  - FOX FHD
+  - FOX FHD
+  - FOX FHD
+  - FOX FHD
+  - FOX FHD
+  - FOX FHD
+  - FOX FHD
+  - FOX SPORTS 2 HD
+  - FOX SPORTS 2 HD
+  - FOX SPORTS 2 HD
+  - FOX SPORTS 2 HD
+  - FOX SPORTS 2 HD
+  - FOX SPORTS 2 HD
+  - FOX SPORTS 2 HD
+  - FOX SPORTS 2 HD
+  - FOX SPORTS 2 HD
+  - FOX SPORTS 2 HD²
+  - FOX SPORTS 2 MX HD²
+  - FOX SPORTS 3 HD²
+  - FOX SPORTS 3 HD²
+  - FOX SPORTS 3 MX HD²
+  - FOX SPORTS 3 MX HD²
+  - FOX SPORTS HD²
+  - FOX SPORTS HD²
+  - FOX SPORTS HD²
+  - FOX SPORTS HD²
+  - FOX SPORTS HD²
+  - FOX SPORTS HD²
+  - FOX SPORTS PREMIUM FHD²
+  - FUT BASIC HD (CHI)
+  - FUT BASIC HD (CHI)
+  - FUT BASIC HD (CHI)
+  - FUT PREMIER CHI | HD OP 2
+  - FUT PREMIER CHI | HD OP 2
+  - FUT PREMIER CHI | HD OP 2
+  - FUT PREMIER CHI | HD OP 2
+  - FUT PREMIER CHI | HD OP 2
+  - FUT PREMIER CHI | HD(SOLO EVENTOS IMPORTANTES)
+  - FUT PREMIER CHI | HD(SOLO EVENTOS IMPORTANTES)
+  - FUT PREMIER CHI | HD(SOLO EVENTOS IMPORTANTES)
+  - FUT PREMIER CHI | HD(SOLO EVENTOS IMPORTANTES)
+  - HBO 2 4K
+  - HBO 2 4K
+  - HBO 2 4K
+  - HBO 2 4K
+  - HBO 2 4K
+  - HBO 2 4K
+  - HBO 2 4K
+  - HBO 2 4K
+  - HBO 2 4K
+  - HBO 2 4K
+  - HBO 4K
+  - HBO 4K
+  - HBO 4K
+  - HBO 4K
+  - HBO 4K
+  - HBO 4K
+  - HBO 4K
+  - HBO 4K
+  - HBO Family 4K
+  - HBO Family 4K
+  - HBO Family 4K
+  - HBO Family 4K
+  - HBO MAX AVANCES FHD²
+  - HBO MAX AVANCES FHD²
+  - HBO MAX AVANCES FHD²
+  - HBO MAX AVANCES FHD²
+  - HBO MAX AVANCES FHD²
+  - HBO MUNDI | 4k
+  - HBO MUNDI | 4k
+  - HBO MUNDI | 4k
+  - HBO MUNDI | 4k
+  - HBO MUNDI | 4k
+  - HBO MUNDI | 4k
+  - HBO MUNDI | 4k
+  - HBO MUNDI | 4k
+  - HBO MUNDI | 4k
+  - HBO MUNDI | 4k
+  - HBO PLUS 4K
+  - HBO PLUS 4K
+  - HBO PLUS 4K
+  - HBO PLUS 4K
+  - HBO PLUS 4K
+  - HBO PLUS 4K
+  - HBO PLUS 4K
+  - HBO PLUS 4K
+  - HBO POP 4K
+  - HBO POP 4K
+  - HBO POP 4K
+  - HBO POP 4K
+  - HBO POP 4K
+  - HBO POP 4K
+  - HBO POP 4K
+  - HBO POP 4K
+  - HBO POP | 4k
+  - HBO POP | 4k
+  - HBO POP | 4k
+  - HBO POP | 4k
+  - HBO POP | 4k
+  - HBO SIGNATURE | 4k
+  - HBO SIGNATURE | 4k
+  - HBO SIGNATURE | 4k
+  - HBO SIGNATURE | 4k
+  - HBO SIGNATURE | 4k
+  - HBO XTREME 4K
+  - HBO XTREME 4K
+  - HBO XTREME 4K
+  - HBO XTREME 4K
+  - HBO | 4k
+  - HBO | 4k
+  - HBO | 4k
+  - HBO | 4k
+  - HBO | 4k
+  - HBO | 4k
+  - HBO | 4k
+  - HBO | 4k
+  - HBO+ | 4k
+  - HBO+ | 4k
+  - HBO+ | 4k
+  - HBO+ | 4k
+  - HBO+ | 4k
+  - HBO+ | 4k
+  - M+Cine Espanol FHD¹
+  - M+Cine Espanol FHD¹
+  - M+Cine Espanol FHD¹
+  - M+Cine Espanol FHD¹
+  - M+Cine Espanol FHD¹
+  - M+Cine Español FHD |opc-2|
+  - M+Cine Español FHD |opc-2|
+  - M+Cine Español FHD |opc-2|
+  - M+Cine Español FHD |opc-2|
+  - M+Cine Español FHD |opc-2|
+  - M+Cine Español FHD |opc-2|
+  - M+Cine Español FHD |opc-2|
+  - M+Cine Español FHD |opc-2|
+  - M+Cine Español FHD |opc-2|
+  - M+Cine Español FHD |opc-2|
+  - M+Cine Español FHD |opc-2|
+  - M+Cine Español FHD |opc-2|
+  - M+Cine Español FHD |opc-2|
+  - M+Cine Español FHD |opc-2|
+  - M+Cine Español FHD |opc-2|
+  - M+Cine Español FHD |opc-2|
+  - M+Cine Español FHD |opc-2|
+  - Miraculous Las Aventuras De Ladybug - La Pelicula FHD 2023
+  - Miraculous Las Aventuras De Ladybug - La Pelicula FHD 2023
+  - Miraculous Las Aventuras De Ladybug - La Pelicula FHD 2023
+  - Miraculous Las Aventuras De Ladybug - La Pelicula FHD 2023
+  - Miraculous Las Aventuras De Ladybug - La Pelicula FHD 2023
+  - Miraculous Las Aventuras De Ladybug - La Pelicula FHD 2023
+  - Miraculous Las Aventuras De Ladybug - La Pelicula FHD 2023
+  - Miraculous Las Aventuras De Ladybug - La Pelicula FHD 2023
+  - Miraculous Las Aventuras De Ladybug - La Pelicula FHD 2023
+  - Miraculous Las Aventuras De Ladybug - La Pelicula FHD 2023
+  - MX | ESPN 2 MX HD
+  - MX | ESPN 2 MX HD
+  - MX | ESPN 2 MX HD
+  - MX | ESPN 2 MX HD
+  - MX | ESPN 2 MX HD
+  - MX | ESPN 2 MX HD
+  - MX | ESPN 2 MX HD
+  - MX | ESPN 2 MX HD
+  - MX | FOX SPORTS 1 HD
+  - MX | FOX SPORTS 1 HD
+  - MX | FOX SPORTS 1 HD
+  - MX | FOX SPORTS 1 HD
+  - MX | FOX SPORTS 1 HD
+  - MX | FOX SPORTS 1 HD
+  - MX | FOX SPORTS 1 HD
+  - MX | FOX SPORTS 1 HD
+  - MX | FOX SPORTS 1 HD
+  - MX | FOX SPORTS 2 HD
+  - MX | FOX SPORTS 2 HD
+  - MX | FOX SPORTS 2 HD
+  - MX | FOX SPORTS 2 HD
+  - MX | FOX SPORTS 2 HD
+  - MX | FOX SPORTS 2 HD
+  - MX | FOX SPORTS 2 HD
+  - MX | FOX SPORTS 2 HD
+  - MX | FOX SPORTS 2 HD
+  - MX | FOX SPORTS 3 HD
+  - MX | FOX SPORTS 3 HD
+  - MX | FOX SPORTS 3 HD
+  - MX | FOX SPORTS 3 HD
+  - MX | FOX SPORTS 3 HD
+  - MX | FOX SPORTS 3 HD
+  - MX | FOX SPORTS 3 HD
+  - MX | FOX SPORTS 3 HD
+  - MX | FOX SPORTS 3 HD
+  - MX | FOX SPORTS PREMIUM HD
+  - MX | FOX SPORTS PREMIUM HD
+  - MX | FOX SPORTS PREMIUM HD
+  - MX | FOX SPORTS PREMIUM HD
+  - MX | FOX SPORTS PREMIUM HD
+  - MX | FOX SPORTS PREMIUM HD
+  - MX | FOX SPORTS PREMIUM HD
+  - MX | FOX SPORTS PREMIUM HD
+  - MX | FOX SPORTS PREMIUM HD
+  - MX || CINE ESTRELLA HD®
+  - MX || CINE ESTRELLA HD®
+  - MX || CINE ESTRELLA HD®
+  - MX || CINE ESTRELLA HD®
+  - MX || CINE ESTRELLA HD®
+  - MX || CINE ESTRELLA HD®
+  - MX || CINE ESTRELLA HD®
+  - MX || CINE ESTRELLA HD®
+  - MX || CINE ESTRELLA HD®
+  - MX || CINE ESTRELLA HD®
+  - MX || CINE ESTRELLA HD®
+  - MX || MyTime Movie Network MX HD®
+  - MX || MyTime Movie Network MX HD®
+  - MX || MyTime Movie Network MX HD®
+  - MX || MyTime Movie Network MX HD®
+  - MX || MyTime Movie Network MX HD®
+  - MX || MyTime Movie Network MX HD®
+  - MX || MyTime Movie Network MX HD®
+  - MX || MyTime Movie Network MX HD®
+  - MX || MyTime Movie Network MX HD®
+  - MX || MyTime Movie Network MX HD®
+  - MX || ULTRA CINE HD®
+  - MX || ULTRA CINE HD®
+  - MX || ULTRA CINE HD®
+  - MX || ULTRA CINE HD®
+  - MX || ULTRA CINE HD®
+  - MX || ULTRA CINE HD®
+  - MX || ULTRA CINE HD®
+  - MX || ULTRA CINE HD®
+  - MX || ULTRA CINE HD®
+  - MX || ULTRA CINE HD®
+  - Naruto Shippuden 8: Boruto La Pelicula FHD (2015)
+  - Naruto Shippuden 8: Boruto La Pelicula FHD (2015)
+  - Naruto Shippuden 8: Boruto La Pelicula FHD (2015)
+  - Naruto Shippuden 8: Boruto La Pelicula FHD (2015)
+  - P | UNIVERSAL CINEMA HD
+  - P | UNIVERSAL CINEMA HD
+  - P | UNIVERSAL CINEMA HD
+  - P | UNIVERSAL CINEMA HD
+  - P | UNIVERSAL CINEMA HD
+  - P | UNIVERSAL CINEMA HD
+  - P | UNIVERSAL CINEMA HD
+  - P | UNIVERSAL CINEMA HD
+  - P | UNIVERSAL CINEMA HD
+  - P | UNIVERSAL COMEDY HD
+  - P | UNIVERSAL COMEDY HD
+  - P | UNIVERSAL COMEDY HD
+  - P | UNIVERSAL COMEDY HD
+  - P | UNIVERSAL COMEDY HD
+  - P | UNIVERSAL COMEDY HD
+  - P | UNIVERSAL COMEDY HD
+  - P | UNIVERSAL COMEDY HD
+  - P | UNIVERSAL COMEDY HD
+  - P | UNIVERSAL CRIMEN HD
+  - P | UNIVERSAL CRIMEN HD
+  - P | UNIVERSAL CRIMEN HD
+  - P | UNIVERSAL CRIMEN HD
+  - P | UNIVERSAL CRIMEN HD
+  - P | UNIVERSAL CRIMEN HD
+  - P | UNIVERSAL CRIMEN HD
+  - P | UNIVERSAL CRIMEN HD
+  - P | UNIVERSAL CRIMEN HD
+  - P | UNIVERSAL PREMIER HD
+  - P | UNIVERSAL PREMIER HD
+  - P | UNIVERSAL PREMIER HD
+  - P | UNIVERSAL PREMIER HD
+  - P | UNIVERSAL PREMIER HD
+  - P | UNIVERSAL PREMIER HD
+  - P | UNIVERSAL PREMIER HD
+  - P | UNIVERSAL PREMIER HD
+  - P | UNIVERSAL PREMIER HD
+  - P | UNIVERSAL REALITY HD
+  - P | UNIVERSAL REALITY HD
+  - P | UNIVERSAL REALITY HD
+  - P | UNIVERSAL REALITY HD
+  - P | UNIVERSAL REALITY HD
+  - P | UNIVERSAL REALITY HD
+  - P | UNIVERSAL REALITY HD
+  - P | UNIVERSAL REALITY HD
+  - P | UNIVERSAL REALITY HD
+  - PARAMOUNT CHANNEL | 4k
+  - PARAMOUNT CHANNEL | 4k
+  - PARAMOUNT CHANNEL | 4k
+  - PARAMOUNT CHANNEL | 4k
+  - PARAMOUNT CHANNEL | 4k
+  - PARAMOUNT CHANNEL | 4k
+  - PARAMOUNT CHANNEL | 4k
+  - PARAMOUNT CHANNEL | 4k
+  - PARAMOUNT CHANNEL | 4k
+  - PARAMOUNT+ FHD
+  - PARAMOUNT+ FHD
+  - PARAMOUNT+ FHD
+  - PARAMOUNT+ FHD
+  - PARAMOUNT+ FHD
+  - PARAMOUNT+ FHD
+  - PARAMOUNT+ FHD
+  - PARAMOUNT+ FHD
+  - PARAMOUNT+ FHD
+  - PARAMOUNT+ FHD
+  - PARAMOUNT+ FHD
+  - PARAMOUNT+ FHD
+  - PARAMOUNT+ FHD
+  - PARAMOUNT+ FHD
+  - PARAMOUNT+ FHD
+  - PARAMOUNT+ FHD
+  - PARAMOUNT+ FHD
+  - PARAMOUNT+ FHD
+  - PARAMOUNT+ FHD
+  - PE| ESPN 4 HD
+  - PE| ESPN 4 HD
+  - PE| ESPN 4 HD
+  - PE| ESPN 4 HD
+  - PE| ESPN 4 HD
+  - PE| ESPN 4 HD
+  - PE| ESPN 4 HD
+  - PE| ESPN 4 HD
+  - PE| ESPN 4 HD
+  - PREM CHI | HD OP1 (SOLO EVENTOS IMPORTANTES)
+  - PREM CHI | HD OP1 (SOLO EVENTOS IMPORTANTES)
+  - PREM CHI | HD OP1 (SOLO EVENTOS IMPORTANTES)
+  - PREMIER CHI | OP 3 HD
+  - PREMIER CHI | OP 3 HD
+  - PREMIER CHI | OP 3 HD
+  - Runtime Cine Y Series FHD¹
+  - Runtime Cine Y Series FHD¹
+  - Runtime Cine Y Series FHD¹
+  - Runtime Cine Y Series FHD¹
+  - Se Hacía Chiquita" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E05 - Lina Se Hacía Grandota, Se Hacía Chiquita
+  - Se Hacía Chiquita" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E05 - Lina Se Hacía Grandota, Se Hacía Chiquita
+  - Se Hacía Chiquita" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E05 - Lina Se Hacía Grandota, Se Hacía Chiquita
+  - Se Hacía Chiquita" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E05 - Lina Se Hacía Grandota, Se Hacía Chiquita
+  - Se Hacía Chiquita" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E05 - Lina Se Hacía Grandota, Se Hacía Chiquita
+  - Se Hacía Chiquita" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E05 - Lina Se Hacía Grandota, Se Hacía Chiquita
+  - Se Hacía Chiquita" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E05 - Lina Se Hacía Grandota, Se Hacía Chiquita
+  - Se Hacía Chiquita" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E05 - Lina Se Hacía Grandota, Se Hacía Chiquita
+  - Se Hacía Chiquita" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E05 - Lina Se Hacía Grandota, Se Hacía Chiquita
+  - Se Hacía Chiquita" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E05 - Lina Se Hacía Grandota, Se Hacía Chiquita
+  - Se Hacía Chiquita" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E05 - Lina Se Hacía Grandota, Se Hacía Chiquita
+  - Se Hacía Chiquita" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E05 - Lina Se Hacía Grandota, Se Hacía Chiquita
+  - Se Hacía Chiquita" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E05 - Lina Se Hacía Grandota, Se Hacía Chiquita
+  - Se Hacía Chiquita" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg" group-title="↪️ SERIES HBO MAX ↩️ ",Los Colorado (2026) S01 Los Colorado (2026) - S01E05 - Lina Se Hacía Grandota, Se Hacía Chiquita
+  - Space 4K
+  - Space 4K
+  - Space 4K
+  - Space 4K
+  - Space 4K
+  - STAR CHANNEL 4K
+  - STAR Channel FHD |opc-1|
+  - STAR Channel FHD |opc-1|
+  - STAR Channel FHD |opc-1|
+  - STAR Channel FHD |opc-1|
+  - STAR Channel FHD |opc-1|
+  - STAR Channel FHD |opc-1|
+  - STAR Channel FHD |opc-1|
+  - STAR Channel FHD |opc-1|
+  - STAR Channel FHD |opc-1|
+  - STAR Channel FHD |opc-2|
+  - STAR Channel FHD |opc-2|
+  - STAR Channel FHD |opc-2|
+  - STAR Channel FHD |opc-2|
+  - STAR Channel FHD |opc-2|
+  - STAR Channel FHD |opc-2|
+  - STAR Channel FHD |opc-2|
+  - STAR Channel FHD |opc-2|
+  - STAR Channel FHD |opc-2|
+  - STAR Channel FHD |opc-2|
+  - STAR Channel FHD |opc-2|
+  - STAR Channel FHD |opc-2|
+  - STAR Channel FHD |opc-2|
+  - STAR Channel FHD |opc-2|
+  - STAR Channel FHD |opc-2|
+  - STAR Channel FHD |opc-2|
+  - STAR Channel FHD |opc-2|
+  - STAR Channel FHD |opc-2|
+  - Star Channel FHD |opc-4|
+  - Star Channel FHD |opc-4|
+  - Star Channel FHD |opc-4|
+  - Star Channel FHD |opc-4|
+  - Star Channel FHD |opc-4|
+  - Star Channel FHD |opc-4|
+  - Star Channel FHD |opc-4|
+  - Star Channel FHD |opc-4|
+  - Star Channel FHD |opc-4|
+  - Star Channel FHD |opc-4|
+  - STAR CHANNEL FHD²
+  - STAR CHANNEL FHD²
+  - STAR CHANNEL FHD²
+  - Star Channel HD
+  - Star Channel HD
+  - Star Channel HD
+  - Star Channel HD
+  - Star Channel HD
+  - Star Channel HD
+  - Star Channel HD
+  - Star Channel HD
+  - Star Channel HD
+  - STAR CHANNEL HD¹
+  - STAR CHANNEL HD¹
+  - STAR CHANNEL HD¹
+  - STAR CHANNEL HD¹
+  - Studio Universal 4K
+  - Studio Universal 4K
+  - Studio Universal 4K
+  - Studio Universal 4K
+  - SYFY FHD
+  - SYFY FHD
+  - SYFY FHD
+  - SYFY FHD
+  - SYFY FHD
+  - SYFY FHD
+  - SYFY FHD
+  - SYFY FHD
+  - SYFY FHD
+  - SYFY FHD
+  - Syfy FHD |opc-1|
+  - Syfy FHD |opc-1|
+  - Syfy FHD |opc-1|
+  - Syfy FHD |opc-1|
+  - Syfy FHD |opc-1|
+  - Syfy FHD |opc-1|
+  - Syfy FHD |opc-1|
+  - Syfy FHD |opc-1|
+  - Syfy FHD |opc-1|
+  - Syfy FHD |opc-1|
+  - Syfy FHD |opc-1|
+  - Syfy FHD |opc-1|
+  - Syfy FHD |opc-1|
+  - Syfy FHD |opc-1|
+  - Syfy FHD |opc-1|
+  - Syfy FHD |opc-1|
+  - Syfy FHD |opc-1|
+  - Syfy FHD |opc-1|
+  - Syfy FHD²
+  - Syfy FHD²
+  - Syfy FHD²
+  - Syfy FHD²
+  - SYFY HD
+  - SYFY HD
+  - SYFY HD
+  - SYFY HD
+  - SYFY HD
+  - SYFY HD
+  - SYFY HD
+  - SYFY HD
+  - SYFY HD
+  - Syfy HD¹
+  - Syfy HD¹
+  - Syfy HD¹
+  - Syfy HD¹
+  - Syfy HD¹
+  - TBS | TNT NOVELAS HD
+  - TBS | TNT NOVELAS HD
+  - TNT 4K
+  - TNT 4K
+  - TNT 4K
+  - TNT 4K
+  - TNT 4K
+  - TNT 4K
+  - TNT 4K
+  - TNT 4K
+  - TNT Novelas 4K
+  - TNT Novelas 4K
+  - TNT Novelas 4K
+  - TNT Novelas 4K
+  - TNT Novelas 4K
+  - TNT NOVELAS HD
+  - TNT NOVELAS HD
+  - TNT NOVELAS HD
+  - TNT NOVELAS HD
+  - TNT NOVELAS HD
+  - TNT NOVELAS HD
+  - TNT NOVELAS HD
+  - TNT NOVELAS HD
+  - TNT NOVELAS HD
+  - TNT NOVELAS HD
+  - TNT NOVELAS HD
+  - TNT NOVELAS HD
+  - TNT NOVELAS HD
+  - TNT NOVELAS HD
+  - TNT NOVELAS HD
+  - TNT NOVELAS HD
+  - TNT NOVELAS HD
+  - TNT NOVELAS HD
+  - TNT Series 4K
+  - TNT Series 4K
+  - TNT Series 4K
+  - TNT Series 4K
+  - TNT Series 4K
+  - TNT Sports COL HD²
+  - TNT Sports COL HD²
+  - TNT Sports HD²
+  - TNT Sports HD²
+  - TNT Sports HD²
+  - TNT Sports HD²
+  - TNT Sports HD²
+  - UNIVERSAL CHANNEL 4K
+  - UNIVERSAL CHANNEL 4K
+  - UNIVERSAL CHANNEL 4K
+  - UNIVERSAL CHANNEL 4K
+  - UNIVERSAL CHANNEL 4K
+  - Universal Premiere 4K
+  - Universal Premiere 4K
+  - Universal Premiere 4K
+  - Universal Premiere 4K
+  - Universal Premiere 4K
+  - Universal Premiere 4K
+  - Universal Premiere 4K
+  - Universal Premiere 4K
+  - Universal Premiere 4K
+  - USA: CINE ESTRELLA TV FHD
+  - USA: CINE ESTRELLA TV FHD
+  - USA: Cinemax Moremax FHD* US.
+  - USA: Cinemax Moremax FHD* US.
+  - USA: Cinemax Moremax FHD* US.
+  - USA: Cinemax Moremax FHD* US.
+  - USA: Cinemax Moremax FHD* US.
+  - USA: Cinemax Moremax FHD* US.
+  - USA: Cinemax Moremax FHD* US.
+  - USA: Fox Atlanta HD WAGA
+  - USA: Fox Atlanta HD WAGA
+  - USA: Fox Atlanta HD WAGA
+  - USA: Fox Atlanta HD WAGA
+  - USA: Fox Atlanta HD WAGA
+  - USA: Fox Atlanta HD WAGA
+  - USA: Fox Atlanta HD WAGA
+  - USA: Fox Atlanta HD WAGA
+  - USA: Fox Atlanta WAGA HD
+  - USA: Fox Atlanta WAGA HD
+  - USA: Fox Atlanta WAGA HD
+  - USA: Fox Atlanta WAGA HD
+  - USA: Fox Atlanta WAGA HD
+  - USA: Fox Atlanta WAGA HD
+  - USA: FOX Boston WFXT HD
+  - USA: FOX Boston WFXT HD
+  - USA: FOX Boston WFXT HD
+  - USA: FOX Boston WFXT HD
+  - USA: FOX Boston WFXT HD
+  - USA: FOX Boston WFXT HD
+  - USA: FOX Boston WFXT HD
+  - USA: Fox Business Network HD
+  - USA: Fox Cleveland WJW HD
+  - USA: Fox Cleveland WJW HD
+  - USA: Fox Cleveland WJW HD
+  - USA: Fox Cleveland WJW HD
+  - USA: Fox Cleveland WJW HD
+  - USA: Fox Cleveland WJW HD
+  - USA: Fox Cleveland WJW HD
+  - USA: Fox Cleveland WJW HD
+  - USA: Fox Cleveland WJW HD
+  - USA: Fox Deportes HD
+  - USA: Fox Deportes HD
+  - USA: Fox Deportes HD
+  - USA: Fox Deportes HD
+  - USA: Fox Deportes HD
+  - USA: Fox Deportes HD
+  - USA: Fox Deportes HD
+  - USA: Fox Deportes HD
+  - USA: Fox Deportes HD
+  - USA: FOX Deportes HD USA
+  - USA: FOX Deportes HD USA
+  - USA: FOX Deportes HD USA
+  - USA: FOX Deportes HD USA
+  - USA: FOX Deportes HD USA
+  - USA: FOX Deportes HD USA
+  - USA: FOX Deportes HD USA
+  - USA: Fox News HD USA
+  - USA: Fox News HD USA
+  - USA: Fox News HD USA
+  - USA: Fox News HD USA
+  - USA: Fox Soccer + FHD USA
+  - USA: Fox Soccer + FHD USA
+  - USA: Fox Soccer + FHD USA
+  - USA: Fox Soccer + FHD USA
+  - USA: Fox Soccer + FHD USA
+  - USA: Fox Soccer + FHD USA
+  - USA: Fox Soccer + FHD USA
+  - USA: Fox Soccer + FHD USA
+  - USA: Fox Soccer + FHD USA
+  - USA: Fox Sports Florida HD USA
+  - USA: Fox Sports Florida HD USA
+  - USA: Fox Sports Florida HD USA
+  - USA: Fox Sports Florida HD USA
+  - USA: Fox Sports Florida HD USA
+  - USA: Fox Sports Florida HD USA
+  - USA: Fox Sports Florida HD USA
+  - USA: Fox Sports Ohaio HD
+  - USA: Fox Sports Ohaio HD
+  - USA: Fox Sports Ohaio HD
+  - USA: Fox Sports Ohaio HD
+  - USA: Fox Sports Ohaio HD
+  - USA: Fox Sports Ohaio HD
+  - USA: Fox Sports Ohaio HD
+  - USA: FX HD USA
+  - USA: FX HD USA
+  - USA: FX HD USA
+  - USA: FX HD USA
+  - USA: FX HD USA
+  - USA: FX HD USA
+  - USA: FX HD USA
+  - USA: HBO HITS FHD
+  - USA: HBO HITS FHD
+  - USA: HBO HITS FHD
+  - USA: HBO HITS FHD
+  - USA: HBO HITS FHD
+  - USA: HBO HITS FHD
+  - USA: HBO HITS FHD
+  - USA: HBO HITS FHD
+  - USA: TNT HD
+  - USA: TNT HD
+  - USA: TNT HD
+  - USA: TNT HD
+  - USA: TNT HD
+  - USA: TNT HD
+  - USA: TNT HD
+  - USA: TNT HD
+  - USA: TNT HD
+  - USA: TNT HD
+  - USA: TNT HD
+  - USA| CINEMAX EAST HD
+  - USA| CINEMAX EAST HD
+  - USA| CINEMAX EAST HD
+  - USA| CINEMAX EAST HD
+  - USA| CINEMAX EAST HD
+  - USA| FOX NEWS HD
+  - USA| FOX NEWS HD
+  - USA| FOX NEWS HD
+  - USA| FOX NEWS HD
+  - USA| VIP MOVIE 5 STARMAX HD
+  - USA| VIP MOVIE 5 STARMAX HD
+  - USA| VIP MOVIE 5 STARMAX HD
+  - USA| VIP MOVIE 5 STARMAX HD
+  - USA| VIP MOVIE 5 STARMAX HD
+  - Warner Channel 4K
+  - Warner Channel 4K
+  - Warner Channel 4K
+  - Warner TV FHD |opc-1|
+  - Warner TV FHD |opc-1|
+  - Warner TV FHD |opc-1|
+  - Warner TV FHD |opc-1|
+  - Warner TV FHD |opc-1|
+  - Warner TV FHD |opc-1|
+  - Warner TV FHD |opc-1|
+  - Warner TV FHD |opc-1|
+  - Warner TV FHD |opc-1|
+  - Warner TV FHD |opc-1|
+  - Warner TV FHD |opc-1|
+  - Warner TV FHD |opc-1|
+  - Warner TV FHD |opc-1|
+  - Warner TV FHD |opc-1|
+  - Warner TV FHD |opc-1|
+  - Warner TV FHD |opc-1|
+  - Warner TV FHD |opc-1|
+  - Warner TV FHD |opc-2|
+  - Warner TV FHD |opc-2|
+  - Warner TV FHD |opc-2|
+  - Warner TV FHD |opc-2|
+  - Warner TV FHD |opc-2|
+  - Warner TV FHD |opc-2|
+  - Warner TV FHD |opc-2|
+  - Warner TV FHD |opc-2|
+  - Warner TV FHD |opc-2|
+  - Warner TV FHD |opc-2|
+  - Warner TV FHD |opc-2|
+  - Warner TV FHD |opc-2|
+  - Warner TV FHD |opc-2|
+  - Warner TV FHD |opc-2|
+  - Warner TV FHD |opc-2|
+  - Warner TV FHD |opc-2|
+  - Warner TV FHD |opc-2|
+  - Warner TV FHD |opc-2|
+  - WARNER TV FHD²
+  - WARNER TV FHD²
+  - WARNER TV FHD²
+  - WARNER TV FHD²
+  - WARNER TV FHD²
+  - WARNER TV HD¹
+  - WARNER TV HD¹
+  - WARNER TV HD¹
+  - WARNER TV HD¹
+  - WARNER TV HD¹
+  - ᴜsᴀ Spᴏʀᴛs ᴴᴰ | ESPN 2 HD
+  - ᴜsᴀ Spᴏʀᴛs ᴴᴰ | ESPN 2 HD
+  - ᴜsᴀ Spᴏʀᴛs ᴴᴰ | ESPN 2 HD
+  - ᴜsᴀ Spᴏʀᴛs ᴴᴰ | ESPN 2 HD
+  - ᴜsᴀ Spᴏʀᴛs ᴴᴰ | ESPN 2 HD
+  - ᴜsᴀ Spᴏʀᴛs ᴴᴰ | ESPN 2 HD
+  - ᴜsᴀ Spᴏʀᴛs ᴴᴰ | ESPN HD
+  - ᴜsᴀ Spᴏʀᴛs ᴴᴰ | ESPN HD
+  - ᴜsᴀ Spᴏʀᴛs ᴴᴰ | ESPN HD
+  - ᴜsᴀ Spᴏʀᴛs ᴴᴰ | ESPN HD
+  - ᴜsᴀ Spᴏʀᴛs ᴴᴰ | ESPN HD
+  - ᴜsᴀ Spᴏʀᴛs ᴴᴰ | ESPN HD
+  - ᴜsᴀ Spᴏʀᴛs ᴴᴰ | ESPN HD
+  - ᴜsᴀ Spᴏʀᴛs ᴴᴰ | ESPN HD
+  - ᴜsᴀ Spᴏʀᴛs ᴴᴰ | WBTV HBO Boxing FHD
+  - ᴜsᴀ Spᴏʀᴛs ᴴᴰ | WBTV HBO Boxing FHD
+  - ᴜsᴀ Spᴏʀᴛs ᴴᴰ | WBTV HBO Boxing FHD
+  - ᴜsᴀ Spᴏʀᴛs ᴴᴰ | WBTV HBO Boxing FHD
+  - ᴜsᴀ Spᴏʀᴛs ᴴᴰ | WBTV HBO Boxing FHD
+  - ᴜsᴀ Spᴏʀᴛs ᴴᴰ | WBTV HBO Boxing FHD
+  - ᴜsᴀ Spᴏʀᴛs ᴴᴰ | WBTV HBO Boxing FHD
+  - ᴜsᴀ Spᴏʀᴛs ᴴᴰ | WBTV HBO Boxing FHD
+  - ᴜsᴀ Spᴏʀᴛs ᴴᴰ | WBTV HBO Boxing FHD
+  - ᴺᴱᵂˢ | CNN CHILE UHD
+  - ᴺᴱᵂˢ | CNN CHILE UHD
+  - ᴺᴱᵂˢ | CNN CHILE UHD
+  - ᴺᴱᵂˢ | CNN CHILE UHD
+  - ᴺᴱᵂˢ | CNN CHILE UHD
+  - ᴺᴱᵂˢ | CNN CHILE UHD
+  - ᴺᴱᵂˢ | FOX NEWS FHD
+  - ᴺᴱᵂˢ | FOX NEWS FHD
+  - ᴺᴱᵂˢ | FOX NEWS FHD
+  - ᴺᴱᵂˢ | FOX NEWS FHD
+  - ᴺᴱᵂˢ | FOX NEWS FHD
+  - ᴺᴱᵂˢ | FOX NEWS FHD
+  - ᴺᴱᵂˢ | FOX NEWS FHD
+  - ᴺᴱᵂˢ | FOX NEWS FHD
+  - ᴺᴱᵂˢ | FOX NEWS FHD
+  - ᴺᴱᵂˢ | FOX NEWS FHD

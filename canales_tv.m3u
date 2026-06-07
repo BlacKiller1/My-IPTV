@@ -103,10 +103,10 @@ http://38.91.106.197:80/nau9JBYrOq/bTE1IEaPRH/139326
 #EXTINF:-1 xui-id="357998" tvg-id="" tvg-name="TV Senado | CL" tvg-logo="https://cdn.m3u.cl/logo/444_TV_Senado.png" group-title="Noticias",TV Senado | CL
 https://boxtreampro.vip:2087/play/gErEWaqXwwIab6JWeCfjEVGHQaSxtZIJyHk5jNJkDYUL7uabbU152pyQfOv65zEB/ts
 
-#EXTINF:-1 group-title="ESPN",ESPN 1
-http://38.91.106.197:80/nau9JBYrOq/bTE1IEaPRH/138546
-#EXTINF:-1 tvg-id="ESPN 2 HD" tvg-name="ESPN 2 FHD" tvg-logo="http://fplay.me/images/YljKBdOJdm3PuPv_iWyAeTJ_Z2xfX-SzY3vAsL8v_KOqVnW5juFC5oG8HUWUvPlDpXF_UMK7eXLTeEikptsf7vnayRWuxIml5BM_W8GnlrY.png" group-title="ESPN",ESPN 2
-http://dbox10.com:80/247000869047/166157246103/24639.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN FHD | AR" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/hdrkql1660762351.png" group-title="ESPN",ESPN 1
+http://avefenixtv.com:80/gilbertoking/aZLwiv7TUB/712743.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2  FHD | AR" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/wcualh1660760950.png" group-title="ESPN",ESPN 2
+http://avefenixtv.com:80/gilbertoking/aZLwiv7TUB/712744.ts
 #EXTINF:-1 tvg-id="ESPN 3 HD" tvg-name="ESPN 3 FHD" tvg-logo="http://fplay.me:80/images/YljKBdOJdm3PuPv_iWyAecKza6xMtoDn0YRdMcB4yTwbWc-tzAtwRnDFjzuS0lf3J2XycIlm1wNK9EKBpiWYI0ssh-JFS5dXU2Vwt0ex3gc.png" group-title="ESPN",ESPN 3
 http://dbox10.com:80/247000869047/166157246103/24652.ts
 #EXTINF:-1 tvg-id="ESPN 4 HD" tvg-name="ESPN 4 FHD" tvg-logo="http://fplay.me:80/images/YljKBdOJdm3PuPv_iWyAeVv38D-2kKzqRjA7B_lWDHgQSS61M0mkZdWpdfYP_6PK0hy-KhIIOYTXeFjoKQgJnEk7d669iBGj6yZwm5VrYao.png" group-title="ESPN",ESPN 4
@@ -157,6 +157,25 @@ http://jumangis.cloud:2082/JairoVargas/5T5wLJjTbu/117760
 http://jumangis.cloud:2082/JairoVargas/5T5wLJjTbu/117761
 #EXTINF:-1 tvg-id="" tvg-name="VIa X" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/VIA_X.png" group-title="Deportes",VIa X
 http://avefenixtv.com:80/gilbertoking/aZLwiv7TUB/235662.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="CINECANAL FHD" tvg-logo="http://media.biobiochile.cl/wp-content/uploads/2016/01/cinecanal_titulo.jpg" group-title="Cine y Series",CineCanal
+http://planettvweb.com:8091/FernDelgado867/fernan9678/11663
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax 4K" tvg-logo="http://imgfz.com/i/QZil1sG.png" group-title="Cine y Series",Cinemax
+http://xstr.cyou:8080/IsaacB0013/B4qJCJN47tBQ/458659
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1280px-Comedy_Central_2018.svg.png" group-title="Cine y Series",Comedy Central
+http://resplaytvofc.vip:80//live/cliente617/654321/400093.ts
+#EXTINF:-1 tvg-id="" tvg-name="FX FHD" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fx_m.png" group-title="Cine y Series",FX
+http://planettvweb.com:8091/FernDelgado867/fernan9678/11958
+#EXTINF:-1 tvg-id="" tvg-name="SPACE | 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_htwlVuuX1Ntrq3fJiUBcnzQ2YJYrf1HVzQ&usqp=CAU" group-title="Cine y Series",Space
+http://resplaytvofc.vip:80//live/Cristianbe56/Benavente56/111760.ts
+#EXTINF:-1 tvg-id="STAR CHANNEL HD.co" tvg-name="STAR CHANNEL HD (DTV)" tvg-logo="https://i.ibb.co/fSbvx7T/STAR22.png" group-title="Cine y Series",Star Channel
+http://avefenixtv.com:80/gilbertoking/aZLwiv7TUB/46186.ts
+#EXTINF:-1 tvg-id="" tvg-name="TCM FHD |opc-1|" tvg-logo="https://i.ytimg.com/vi/L4wgJT2HzzM/hqdefault.jpg" group-title="Cine y Series",TCM
+http://resplaytvofc.vip:80//live/usuariocanales259/eVySVC6vv5/316329.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TNT-oficial.png" group-title="Cine y Series",TNT
+http://resplaytvofc.vip:80//live/usuariocanales259/eVySVC6vv5/400177.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES FHD" tvg-logo="https://cdn.mitvstatic.com/channels/cl_tnt-series_m.png" group-title="Cine y Series",TNT Series
+http://planettvweb.com:8091/FernDelgado867/fernan9678/11613
 
 #EXTINF:-1 group-title="UFC",06/06 Preliminar UFC - Paramount+ Español
 http://elpapanatas.space:8080/3mauric1206/XJQ7mmhZFf/441517

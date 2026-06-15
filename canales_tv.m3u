@@ -45,16 +45,18 @@ http://elpapanatas.space:8080/JavierRenderos/xakRfkrgDJ/114330
 #EXTINF:-1 tvg-id="" tvg-name="ESPN Premium  | AR FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="ESPN",ESPN Premium  | AR FHD
 http://alltvmx.com:80/walther_rod/Rodriguez2024W/712747.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/DEPORTES/TNTSPORTS.png" group-title="TNT Sports",TNT SPORTS
-http://miotv.cc:8080/camilogonzalez/4TH7fY5FJHaj/187361
-#EXTINF:-1 tvg-id="TNTSPORTSFIX CL" tvg-name="TNT Sports HD *" tvg-logo="https://logos.iptv.wtf/deportes/tntsportshd.png" group-title="TNT Sports",TNT Sports HD *
-http://live.stablechannels.tv:80/live/fD1UHP3sR/k1vdCg559Z/17.ts
-#EXTINF:-1 tvg-id="AR TNT SPORTS" tvg-name="TNT Sports HD ARG *" tvg-logo="http://logos.iptv.wtf/deportes/tntsports.png" group-title="TNT Sports",TNT Sports HD ARG *
-http://live.stablechannels.tv:80/live/fD1UHP3sR/k1vdCg559Z/13884.ts
-#EXTINF:-1 tvg-id="AR TNT SPORTS" tvg-name="TNT Sports HD ARG **" tvg-logo="http://logos.iptv.wtf/deportes/tntsports.png" group-title="TNT Sports",TNT Sports HD ARG **
-http://live.stablechannels.tv:80/live/fD1UHP3sR/k1vdCg559Z/13885.ts
-#EXTINF:-1 tvg-id="AR TNT SPORTS" tvg-name="TNT Sports HD ARG ***" tvg-logo="http://logos.iptv.wtf/deportes/tntsports.png" group-title="TNT Sports",TNT Sports HD ARG ***
-http://live.stablechannels.tv:80/live/fD1UHP3sR/k1vdCg559Z/13886.ts
+#EXTINF:-1 group-title="TNT Sports",TNT Sports (Eventos)
+http://jumangis.cloud:2082/JairoVargas/5T5wLJjTbu/384352
+#EXTINF:-1 group-title="TNT Sports",TNT Sports 1
+http://live.iptv.wtf:80/live/awvtgznv/w2xqZb086E/15718.ts
+#EXTINF:-1 group-title="TNT Sports",TNT Sports 2
+http://jumangis.cloud:2082/JairoVargas/5T5wLJjTbu/117755
+#EXTINF:-1 group-title="TNT Sports",TNT Sports 3
+http://live.iptv.wtf:80/live/awvtgznv/w2xqZb086E/14886.ts
+#EXTINF:-1 group-title="TNT Sports",TNT Sports Premium
+http://alltvmx.com:80/Maria2402marq/FDEYQhzmSq/712753.ts
+#EXTINF:-1 group-title="TNT Sports",TNT Sports Premium 2
+http://live.iptv.wtf:80/live/awvtgznv/w2xqZb086E/15923.ts
 
 #EXTINF:-1 xui-id="333465" tvg-id="EVENT1" tvg-name="EVENTO | 10 | UFC FREEDOM 250 | Topuria Vs Gaethje | 20h00 | Paramount" tvg-logo="https://www.ufc.com/images/image/2026-04/Freedom250_Microsite_3DLogo_Sponsors_V2.png" group-title="UFC",EVENTO | 10 | UFC FREEDOM 250 | Topuria Vs Gaethje | 20h00 | Paramount
 http://maxclicktv.net:8080/play/Y7ylZdn1M-f4Mzi-ir4Fy3EgC3x8kZ69GrsYrkaZ-5iRjzJAf7dlv9ETPmQhK1AF/m3u8

@@ -1,155 +1,133 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_CL1.xml.gz" x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_CL1.xml.gz"
 
-#EXTINF:-1 tvg-id="" tvg-name="13 REC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/13i_2018.png/800px-13i_2018.png" group-title="Chile",13 REC
-http://miotv.cc:8080/camilogonzalez/4TH7fY5FJHaj/184073
-#EXTINF:-1 tvg-id="" tvg-name="CHILEVISION" tvg-logo="https://i.postimg.cc/qMYhfTCW/chilevision7955-removebg-preview.png" group-title="Chile",CHILEVISION
-http://alltvmx.com:80/walther_rod/Rodriguez2024W/9826.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA RED HD" tvg-logo="https://i.imgur.com/CGbKsm8.png" group-title="Chile",LA RED HD
-http://alltvmx.com:80/walther_rod/Rodriguez2024W/33500.ts
-#EXTINF:-1 tvg-id="" tvg-name="MEGA 2" tvg-logo="https://images2-mega.cdn.mdstrm.com/meganoticias/2023/09/08/como-sintonizar-la-senal-2-de-mega-en-tu-television_424990_1_64fb76134268f.jpg" group-title="Chile",MEGA 2
-http://miotv.cc:8080/camilogonzalez/4TH7fY5FJHaj/289376
-#EXTINF:-1 tvg-id="Mega" tvg-name="MEGA FHD" tvg-logo="https://i.postimg.cc/BnrMYQdv/Mega-Spain-2015.png" group-title="Chile",MEGA FHD
-http://alltvmx.com:80/walther_rod/Rodriguez2024W/327790.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png" group-title="Chile",TV+
-http://elpapanatas.space:8080/JavierRenderos/xakRfkrgDJ/207975
-#EXTINF:-1 tvg-id="" tvg-name="TVN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFycp8TWyHxzX3HfrIJ5VylNGJ2auHcWD5gg&usqp=CAU" group-title="Chile",TVN
-http://miotv.cc:8080/camilogonzalez/4TH7fY5FJHaj/277351
-#EXTINF:-1 tvg-id="" tvg-name="ZONA LATINA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6TpmeLVvfRgRt57eEnafP7rViLBeNIElAtQ&s" group-title="Chile",ZONA LATINA
-http://alltvmx.com:80/walther_rod/Rodriguez2024W/715105.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/7YKXQrs8/13c.jpg" tvg-name="13C" group-title="Chile",13C
+http://jumangis.cloud:2082/c3Y4YmdUSTdZSStSSjVrVnUyalIvRWprOXpmTm1LR1BRM2QwN0FJS3NLdz0
+#EXTINF:-1 tvg-id="" tvg-logo="http://descargas.podzone.net/logos/-el-trece.png" tvg-name="Canal 13" group-title="Chile",Canal 13
+http://planettvweb.com:8091/NicaelaAbalo/TYed5794q/11901
+#EXTINF:-1 tvg-name="Chilevisión" group-title="Chile",Chilevisión
+http://magiz.net:80/play/chXzkkaPaXkx2-3idfJ3VbBh5vrysmGV63WYqWn4S8I/ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.etc.cl/_common/images/logoetc_2015.png" tvg-name="ETC" group-title="Chile",ETC
+http://elpapanatas.space:8080/12meses21890310/12meses21890310/45472
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CGbKsm8.png" tvg-name="La Red" group-title="Chile",La Red
+http://alltvmx.com/live/Maria2402marq/FDEYQhzmSq/33500.ts
+#EXTINF:-1 tvg-id="Mega" tvg-logo="https://i.postimg.cc/BnrMYQdv/Mega-Spain-2015.png" tvg-name="Mega" group-title="Chile",Mega
+http://alltvmx.com/live/Maria2402marq/FDEYQhzmSq/327790.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HW8rzmY8/mega2.png" tvg-name="Mega 2" group-title="Chile",Mega 2
+http://jumangis.cloud:2082/c3Y4YmdUSTdZSStSSjVrVnUyalIvS01KRW0zcVJ4WEVLaHZzVmVrQ0J6UT0
+#EXTINF:-1 tvg-name="TV+" group-title="Chile",TV+
+http://magiz.net:80/play/chXzkkaPaXkx2-3idfJ3VczQvUppq-Ft9WzW30Xydx4/ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://spott4k.online:8080/images/logopedia/TVN_304877.png" tvg-name="TVN" group-title="Chile",TVN
+http://alal.fit:8080/FatmiriTV/jv8D9RARGJ/304877
+#EXTINF:-1 tvg-id="" tvg-logo="http://spott4k.online:8080/images/logopedia/TELECANAL_12_305673.png" tvg-name="Telecanal" group-title="Chile",Telecanal
+http://alal.fit:8080/FatmiriTV/jv8D9RARGJ/305673
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/L8HtfPfZ/file-0000000080bc720eb0eb6cf37f7a4ad3.png" tvg-name="ViaX" group-title="Chile",ViaX
+http://miotv.cc:8080/WUtRRGhDYU5uQWdzY2Z1SFpGOERid3dJcmloN2VpbTFBbDdYOGQreEhBRT0
+#EXTINF:-1 tvg-id="ZonaLatina.cl" tvg-logo="https://i.postimg.cc/RhyjC7MZ/zona-latina-logo.jpg" tvg-name="Zona Latina" group-title="Chile",Zona Latina
+http://jumangis.cloud:2082/c3Y4YmdUSTdZSStSSjVrVnUyalIvS01DVFhHUlYrZlNJa003Skc2YlN5ND0
 
-#EXTINF:-1 tvg-id="24 Horas" tvg-name="24 HORAS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Logo_Canal_24_horas.svg/960px-Logo_Canal_24_horas.svg.png" group-title="Chile Noticias",24 HORAS FHD
-http://alltvmx.com:80/walther_rod/Rodriguez2024W/414778.ts
-#EXTINF:-1 tvg-id="" tvg-name="CNN Chile HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/CNN_Chile_boxless_2024.svg/revision/latest/scale-to-width-down/250?cb=20240517225007" group-title="Chile Noticias",CNN Chile HD
-http://alltvmx.com:80/walther_rod/Rodriguez2024W/79091.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cooperativa | CL" tvg-logo="https://cdn.m3u.cl/logo/422_Cooperativa.png" group-title="Chile Noticias",Cooperativa | CL
-http://miotv.cc:8080/camilogonzalez/4TH7fY5FJHaj/415403
-#EXTINF:-1 tvg-id="" tvg-name="MEGA  NOTICIAS" tvg-logo="https://pbs.twimg.com/profile_images/1551995585091084288/O-eU6CLx_400x400.jpg" group-title="Chile Noticias",MEGA  NOTICIAS
-http://miotv.cc:8080/camilogonzalez/4TH7fY5FJHaj/177860
+#EXTINF:-1 tvg-id="24 Horas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Logo_Canal_24_horas.svg/960px-Logo_Canal_24_horas.svg.png" tvg-name="24 Horas" group-title="Chile Noticias",24 Horas
+http://alltvmx.com/live/Maria2402marq/FDEYQhzmSq/414778.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/CNN_Chile_boxless_2024.svg/revision/latest/scale-to-width-down/250?cb=20240517225007" tvg-name="CNN Chile" group-title="Chile Noticias",CNN Chile
+http://alltvmx.com/live/Maria2402marq/FDEYQhzmSq/79091.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.m3u.cl/logo/422_Cooperativa.png" tvg-name="Cooperativa" group-title="Chile Noticias",Cooperativa
+http://miotv.cc:8080/WUtRRGhDYU5uQWdzY2Z1SFpGOERiMy85OU9lVzQ0NVJpRG0zanRiOWJxaz0
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Meganoticias" group-title="Chile Noticias",Meganoticias
+http://vpjertrcww.top:8080/VIP0199169433707119/1ec6e361fdcd/133992
+#EXTINF:-1 tvg-id="NODATA" tvg-logo="" tvg-name="T13" group-title="Chile Noticias",T13
+http://live.stablechannels.tv:80/live/fD1UHP3sR/k1vdCg559Z/2111.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="ESPN  4 HD" tvg-logo="https://i.pinimg.com/474x/d1/32/ab/d132abffb1021e2f5ae191f46a17680d.jpg" group-title="ESPN",ESPN  4 HD
-http://miotv.cc:8080/camilogonzalez/4TH7fY5FJHaj/392038
-#EXTINF:-1 tvg-id="ESPN.co" tvg-name="ESPN 1 CO FHD" tvg-logo="https://i.postimg.cc/QCGkRnbL/ES-PN.png" group-title="ESPN",ESPN 1 CO FHD
-http://alltvmx.com:80/walther_rod/Rodriguez2024W/591976.ts
-#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ESPN 2 ARG | FHD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/wcualh1660760950.png" group-title="ESPN",ESPN 2 ARG | FHD
-http://alltvmx.com:80/walther_rod/Rodriguez2024W/591981.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD" tvg-logo="https://i.postimg.cc/cJtTx5P7/file-000000002730622fb20f448f3768d3d7.png" group-title="ESPN",ESPN 3 HD
-http://miotv.cc:8080/camilogonzalez/4TH7fY5FJHaj/243076
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 5  HD" tvg-logo="https://i.pinimg.com/474x/d1/32/ab/d132abffb1021e2f5ae191f46a17680d.jpg" group-title="ESPN",ESPN 5  HD
-http://miotv.cc:8080/camilogonzalez/4TH7fY5FJHaj/392037
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 6 HD" tvg-logo="https://i.pinimg.com/474x/d1/32/ab/d132abffb1021e2f5ae191f46a17680d.jpg" group-title="ESPN",ESPN 6 HD
-http://miotv.cc:8080/camilogonzalez/4TH7fY5FJHaj/392036
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 7 HD" tvg-logo="https://i.postimg.cc/cJtTx5P7/file-000000002730622fb20f448f3768d3d7.png" group-title="ESPN",ESPN 7 HD
-http://miotv.cc:8080/camilogonzalez/4TH7fY5FJHaj/243084
-#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA FHD²²" tvg-logo="http://digitaltvsv.com:80/images/FROyVc99IF67kMP7WV1BheSTL2mOxJ74Yar5ErtSLQHCdkEV6vTF3G_ry2OXmMBzvNWWFCwb5bTTvuYPC_OqD84KUwl6HkHsKrmg4mC4ochgWixjPRt8nbT5smqzSMYHCp3eFqqjEGVDebdEsxK1Yojk9MCsCoJLQw42JYgWaQHd_Twht7Fu6a1kWYaZA23M.png" group-title="ESPN",ESPN EXTRA FHD²²
-http://elpapanatas.space:8080/JavierRenderos/xakRfkrgDJ/114330
-#EXTINF:-1 tvg-id="" tvg-name="ESPN Premium  | AR FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="ESPN",ESPN Premium  | AR FHD
-http://alltvmx.com:80/walther_rod/Rodriguez2024W/712747.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://elcomercio.pe/resizer/QikIJlcwRoKBJUtP64TMVNZKxZk=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/734Z5O7GVRH3XPIBNPA4AZSYFQ.png" tvg-name="ESPN 1" group-title="ESPN",ESPN 1
+http://alltvmx.com/live/Maria2402marq/FDEYQhzmSq/195674.ts
+#EXTINF:-1 tvg-name="ESPN 2" group-title="ESPN",ESPN 2
+http://esponja.lat:80/43416216/78523449/437924
+#EXTINF:-1 tvg-name="ESPN 3" group-title="ESPN",ESPN 3
+http://esponja.lat:80/43416216/78523449/437930
+#EXTINF:-1 tvg-name="ESPN 4" group-title="ESPN",ESPN 4
+http://esponja.lat:80/43416216/78523449/437936
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/c4VX2vfg/ESPN-5.png" tvg-name="ESPN 5" group-title="ESPN",ESPN 5
+http://jumangis.cloud:2082/c3Y4YmdUSTdZSStSSjVrVnUyalIvRUdjdDlka25PVUc4aEhac2hkcE1ucz0
+#EXTINF:-1 tvg-name="ESPN 6" group-title="ESPN",ESPN 6
+http://esponja.lat:80/43416216/78523449/437948
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/rwqsjJzf/ESPN-7-logo-svg.png" tvg-name="ESPN 7" group-title="ESPN",ESPN 7
+http://jumangis.cloud:2082/c3Y4YmdUSTdZSStSSjVrVnUyalIvQWR6cEdrKzU5c1poYzl4QzNDZm1uWT0
+#EXTINF:-1 tvg-logo="https://iili.io/qfMFtKF.png" tvg-name="ESPN Extra" group-title="ESPN",ESPN Extra
+http://assistz.top/live/h52bfm5v/2g1txn7y/234846.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" tvg-name="ESPN Premium" group-title="ESPN",ESPN Premium
+http://alltvmx.com/live/Maria2402marq/FDEYQhzmSq/712747.ts
 
-#EXTINF:-1 group-title="TNT Sports",TNT Sports (Eventos)
-http://jumangis.cloud:2082/JairoVargas/5T5wLJjTbu/384352
-#EXTINF:-1 group-title="TNT Sports",TNT Sports 1
-http://live.iptv.wtf:80/live/awvtgznv/w2xqZb086E/15718.ts
-#EXTINF:-1 group-title="TNT Sports",TNT Sports 2
-http://jumangis.cloud:2082/JairoVargas/5T5wLJjTbu/117755
-#EXTINF:-1 group-title="TNT Sports",TNT Sports 3
-http://live.iptv.wtf:80/live/awvtgznv/w2xqZb086E/14886.ts
-#EXTINF:-1 group-title="TNT Sports",TNT Sports Premium
-http://alltvmx.com:80/Maria2402marq/FDEYQhzmSq/712753.ts
-#EXTINF:-1 group-title="TNT Sports",TNT Sports Premium 2
-http://live.iptv.wtf:80/live/awvtgznv/w2xqZb086E/15923.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/pTkykn74/file-000000007610720ea97af1ee84e1a008.png" tvg-name="TNT Sports" group-title="TNT Sports",TNT Sports
+http://miotv.cc:8080/WUtRRGhDYU5uQWdzY2Z1SFpGOERiMThlUWQ5Vk9ELzBiSTU1YWZpVUtwTT0
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/rphNQBqZ/tnt-sport.jpg" tvg-name="TNT Sports 2" group-title="TNT Sports",TNT Sports 2
+http://jumangis.cloud:2082/c3Y4YmdUSTdZSStSSjVrVnUyalIvRGpOQnM0NHIyRjZVL3VPNXBVZWlRRT0
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/rphNQBqZ/tnt-sport.jpg" tvg-name="TNT Sports 3" group-title="TNT Sports",TNT Sports 3
+http://jumangis.cloud:2082/c3Y4YmdUSTdZSStSSjVrVnUyalIvQzFSVE0vUkpsTHdtMVNQNDFuRUdpdz0
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/MGvwTnLW/tnt-sport-premium.png" tvg-name="TNT Sports Premium" group-title="TNT Sports",TNT Sports Premium
+http://jumangis.cloud:2082/c3Y4YmdUSTdZSStSSjVrVnUyalIvREV2dno4Z3lRVlJybkxJdlkvQ1UrMD0
 
-#EXTINF:-1 xui-id="333465" tvg-id="EVENT1" tvg-name="EVENTO | 10 | UFC FREEDOM 250 | Topuria Vs Gaethje | 20h00 | Paramount" tvg-logo="https://www.ufc.com/images/image/2026-04/Freedom250_Microsite_3DLogo_Sponsors_V2.png" group-title="UFC",EVENTO | 10 | UFC FREEDOM 250 | Topuria Vs Gaethje | 20h00 | Paramount
-http://maxclicktv.net:8080/play/Y7ylZdn1M-f4Mzi-ir4Fy3EgC3x8kZ69GrsYrkaZ-5iRjzJAf7dlv9ETPmQhK1AF/m3u8
-#EXTINF:-1 group-title="UFC",Paramount Network
-http://elpapanatas.space:8080/3mauric1206/XJQ7mmhZFf/15472
-#EXTINF:-1 group-title="UFC",Paramount Network FHD
-http://elpapanatas.space:8080/3mauric1206/XJQ7mmhZFf/239822
-#EXTINF:-1 group-title="UFC",Paramount Network HD
-http://elpapanatas.space:8080/3mauric1206/XJQ7mmhZFf/239823
-#EXTINF:-1 group-title="UFC",UFC PARAMOUNT+ 1 FHD
-http://cristalfumacento.xyz:80/43416216/78523449/1770966
-#EXTINF:-1 group-title="UFC",UFC PARAMOUNT+ 1 HD
-http://cristalfumacento.xyz:80/43416216/78523449/233137
-#EXTINF:-1 tvg-id="" tvg-name="UFC | 04:00 PM | UFC at the White House Topuria vs Gaethje Español" tvg-logo="https://contentmasters.app/logos/wwe-ufc-box.png" group-title="UFC",UFC | 04:00 PM | UFC at the White House Topuria vs Gaethje Español
-http://miotv.cc:8080/camilogonzalez/4TH7fY5FJHaj/442569
+#EXTINF:-1 tvg-ID="" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/UFC-.png" tvg-name="UFC Evento" group-title="UFC",UFC Evento
+http://dns.metv.one:80/uumycmvh2d/9x1oe8xxfm/1844880
+#EXTINF:-1 tvg-id="" tvg-logo="https://cm-inter.xyz/Logos/USA/UFCFIGHTPASS.png" tvg-name="UFC Fight Pass" group-title="UFC",UFC Fight Pass
+http://alltvmx.com/live/Maria2402marq/FDEYQhzmSq/149276.ts
+#EXTINF:-1 tvg-name="UFC Paramount+ 1" group-title="UFC",UFC Paramount+ 1
+http://esponja.lat:80/43416216/78523449/233137
 
-#EXTINF:-1 tvg-id="NBA03.v3" tvg-name="(NBA 04) | 8:30PM San Antonio vs New York (Español)" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpluspng.com%2Fimg-png%2Fnba-logo-vector-png--1250.png&f=1&nofb=1&ipt=27b18eacbfbb190a5449d0ece61713fa8435927444090433eec8bf9e135da67c&ipo=images" group-title="NBA",(NBA 04) | 8:30PM San Antonio vs New York (Español)
-http://wp.strmz.cc:80/BCamacho/OI6nP3Gkzo/2191129.m3u8
-#EXTINF:-1 tvg-id="NBATV.ca" tvg-name="CA-S: NBA TV CANADA" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdownload.logo.wine%2Flogo%2FNBA_TV_Canada%2FNBA_TV_Canada-Logo.wine.png&f=1&nofb=1&ipt=c2ffe6cdc7288f622f1ee3407bba2538002aada3e0f1ef6d968f7909bf081c9c&ipo=images" group-title="NBA",CA-S: NBA TV CANADA
-http://wp.strmz.cc:80/BCamacho/OI6nP3Gkzo/1062603.m3u8
-#EXTINF:-1 group-title="NBA",DE: NBA TV
-http://vipceylim.xyz:2095/bthn4107/bthn1801dd00bb/30512
-#EXTINF:-1 tvg-ID="" tvg-name="ES- NBA Atlanta Hawks " tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/NBA_TV.png" group-title="NBA",ES- NBA Atlanta Hawks
+#EXTINF:-1 tvg-ID="" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/NBA_TV.png" tvg-name="NBA Atlanta Hawks" group-title="NBA",NBA Atlanta Hawks
 http://dns.metv.one:80/uumycmvh2d/9x1oe8xxfm/1104908
-#EXTINF:-1 tvg-ID="" tvg-name="ES- NBA Boston Celtics " tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/NBA_TV.png" group-title="NBA",ES- NBA Boston Celtics
+#EXTINF:-1 tvg-ID="" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/NBA_TV.png" tvg-name="NBA Boston Celtics" group-title="NBA",NBA Boston Celtics
 http://dns.metv.one:80/uumycmvh2d/9x1oe8xxfm/1104909
-#EXTINF:-1 tvg-ID="" tvg-name="ES- NBA Brooklyn Nets " tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/NBA_TV.png" group-title="NBA",ES- NBA Brooklyn Nets
+#EXTINF:-1 tvg-ID="" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/NBA_TV.png" tvg-name="NBA Brooklyn Nets" group-title="NBA",NBA Brooklyn Nets
 http://dns.metv.one:80/uumycmvh2d/9x1oe8xxfm/1104910
-#EXTINF:-1 tvg-ID="" tvg-name="ES- NBA Charlotte Hornets " tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/NBA_TV.png" group-title="NBA",ES- NBA Charlotte Hornets
-http://dns.metv.one:80/uumycmvh2d/9x1oe8xxfm/1104911
-#EXTINF:-1 tvg-ID="" tvg-name="ES- NBA Chicago Bulls " tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/NBA_TV.png" group-title="NBA",ES- NBA Chicago Bulls
+#EXTINF:-1 tvg-ID="" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/NBA_TV.png" tvg-name="NBA Chicago Bulls" group-title="NBA",NBA Chicago Bulls
 http://dns.metv.one:80/uumycmvh2d/9x1oe8xxfm/1104912
-#EXTINF:-1 tvg-ID="" tvg-name="ES- NBA Cleveland Cavaliers " tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/NBA_TV.png" group-title="NBA",ES- NBA Cleveland Cavaliers
+#EXTINF:-1 tvg-ID="" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/NBA_TV.png" tvg-name="NBA Cleveland Cavaliers" group-title="NBA",NBA Cleveland Cavaliers
 http://dns.metv.one:80/uumycmvh2d/9x1oe8xxfm/1104913
-#EXTINF:-1 tvg-ID="" tvg-name="ES- NBA Dallas Mavericks " tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/NBA_TV.png" group-title="NBA",ES- NBA Dallas Mavericks
+#EXTINF:-1 tvg-ID="" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/NBA_TV.png" tvg-name="NBA Dallas Mavericks" group-title="NBA",NBA Dallas Mavericks
 http://dns.metv.one:80/uumycmvh2d/9x1oe8xxfm/1104914
-#EXTINF:-1 tvg-ID="" tvg-name="ES- NBA Denver Nuggets " tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/NBA_TV.png" group-title="NBA",ES- NBA Denver Nuggets
+#EXTINF:-1 tvg-ID="" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/NBA_TV.png" tvg-name="NBA Denver Nuggets" group-title="NBA",NBA Denver Nuggets
 http://dns.metv.one:80/uumycmvh2d/9x1oe8xxfm/1104915
-#EXTINF:-1 tvg-ID="" tvg-name="ES- NBA Detroit Pistons " tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/NBA_TV.png" group-title="NBA",ES- NBA Detroit Pistons
+#EXTINF:-1 tvg-ID="" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/NBA_TV.png" tvg-name="NBA Detroit Pistons" group-title="NBA",NBA Detroit Pistons
 http://dns.metv.one:80/uumycmvh2d/9x1oe8xxfm/1104916
-#EXTINF:-1 tvg-ID="" tvg-name="ES- NBA Golden State Warriors " tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/NBA_TV.png" group-title="NBA",ES- NBA Golden State Warriors
+#EXTINF:-1 tvg-ID="" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/NBA_TV.png" tvg-name="NBA Golden State Warriors" group-title="NBA",NBA Golden State Warriors
 http://dns.metv.one:80/uumycmvh2d/9x1oe8xxfm/1104917
-#EXTINF:-1 tvg-ID="" tvg-name="ES- NBA Houston Rockets" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/NBA_TV.png" group-title="NBA",ES- NBA Houston Rockets
+#EXTINF:-1 tvg-ID="" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/NBA_TV.png" tvg-name="NBA Houston Rockets" group-title="NBA",NBA Houston Rockets
 http://dns.metv.one:80/uumycmvh2d/9x1oe8xxfm/1104918
-#EXTINF:-1 tvg-ID="" tvg-name="ES- NBA Indiana Pacers" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/NBA_TV.png" group-title="NBA",ES- NBA Indiana Pacers
+#EXTINF:-1 tvg-ID="" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/NBA_TV.png" tvg-name="NBA Indiana Pacers" group-title="NBA",NBA Indiana Pacers
 http://dns.metv.one:80/uumycmvh2d/9x1oe8xxfm/1104919
-#EXTINF:-1 tvg-ID="" tvg-name="ES- NBA Los Angeles Clippers" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/NBA_TV.png" group-title="NBA",ES- NBA Los Angeles Clippers
+#EXTINF:-1 tvg-ID="" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/NBA_TV.png" tvg-name="NBA Los Angeles Clippers" group-title="NBA",NBA Los Angeles Clippers
 http://dns.metv.one:80/uumycmvh2d/9x1oe8xxfm/1104930
-#EXTINF:-1 tvg-ID="" tvg-name="ES- NBA Los Angeles Lakers" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/NBA_TV.png" group-title="NBA",ES- NBA Los Angeles Lakers
+#EXTINF:-1 tvg-ID="" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/NBA_TV.png" tvg-name="NBA Los Angeles Lakers" group-title="NBA",NBA Los Angeles Lakers
 http://dns.metv.one:80/uumycmvh2d/9x1oe8xxfm/1104931
-#EXTINF:-1 tvg-ID="" tvg-name="ES- NBA Memphis Grizzlies" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/NBA_TV.png" group-title="NBA",ES- NBA Memphis Grizzlies
+#EXTINF:-1 tvg-ID="" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/NBA_TV.png" tvg-name="NBA Memphis Grizzlies" group-title="NBA",NBA Memphis Grizzlies
 http://dns.metv.one:80/uumycmvh2d/9x1oe8xxfm/1104932
-#EXTINF:-1 tvg-ID="" tvg-name="ES- NBA Miami Heat" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/NBA_TV.png" group-title="NBA",ES- NBA Miami Heat
+#EXTINF:-1 tvg-ID="" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/NBA_TV.png" tvg-name="NBA Miami Heat" group-title="NBA",NBA Miami Heat
 http://dns.metv.one:80/uumycmvh2d/9x1oe8xxfm/1104933
-#EXTINF:-1 tvg-ID="" tvg-name="ES- NBA Milwaukee Bucks" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/NBA_TV.png" group-title="NBA",ES- NBA Milwaukee Bucks
+#EXTINF:-1 tvg-ID="" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/NBA_TV.png" tvg-name="NBA Milwaukee Bucks" group-title="NBA",NBA Milwaukee Bucks
 http://dns.metv.one:80/uumycmvh2d/9x1oe8xxfm/1104934
-#EXTINF:-1 tvg-ID="" tvg-name="ES- NBA Minnesota Timberwolves" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/NBA_TV.png" group-title="NBA",ES- NBA Minnesota Timberwolves
+#EXTINF:-1 tvg-ID="" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/NBA_TV.png" tvg-name="NBA Minnesota Timberwolves" group-title="NBA",NBA Minnesota Timberwolves
 http://dns.metv.one:80/uumycmvh2d/9x1oe8xxfm/1104935
-#EXTINF:-1 tvg-ID="" tvg-name="ES- NBA New Orleans Pelicans" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/NBA_TV.png" group-title="NBA",ES- NBA New Orleans Pelicans
+#EXTINF:-1 tvg-ID="" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/NBA_TV.png" tvg-name="NBA New Orleans Pelicans" group-title="NBA",NBA New Orleans Pelicans
 http://dns.metv.one:80/uumycmvh2d/9x1oe8xxfm/1104936
-#EXTINF:-1 tvg-ID="" tvg-name="ES- NBA Oklahoma City Thunder" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/NBA_TV.png" group-title="NBA",ES- NBA Oklahoma City Thunder
+#EXTINF:-1 tvg-ID="" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/NBA_TV.png" tvg-name="NBA New York Knicks" group-title="NBA",NBA New York Knicks
+http://dns.metv.one:80/uumycmvh2d/9x1oe8xxfm/1104937
+#EXTINF:-1 tvg-ID="" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/NBA_TV.png" tvg-name="NBA Oklahoma City Thunder" group-title="NBA",NBA Oklahoma City Thunder
 http://dns.metv.one:80/uumycmvh2d/9x1oe8xxfm/1104938
-#EXTINF:-1 tvg-ID="" tvg-name="ES- NBA Orlando Magic" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/NBA_TV.png" group-title="NBA",ES- NBA Orlando Magic
-http://dns.metv.one:80/uumycmvh2d/9x1oe8xxfm/1104939
-#EXTINF:-1 tvg-ID="" tvg-name="ES- NBA Philadelphia 76ers" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/NBA_TV.png" group-title="NBA",ES- NBA Philadelphia 76ers
+#EXTINF:-1 tvg-ID="" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/NBA_TV.png" tvg-name="NBA Philadelphia 76ers" group-title="NBA",NBA Philadelphia 76ers
 http://dns.metv.one:80/uumycmvh2d/9x1oe8xxfm/1104940
-#EXTINF:-1 tvg-ID="" tvg-name="ES- NBA Phoenix Suns" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/NBA_TV.png" group-title="NBA",ES- NBA Phoenix Suns
+#EXTINF:-1 tvg-ID="" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/NBA_TV.png" tvg-name="NBA Phoenix Suns" group-title="NBA",NBA Phoenix Suns
 http://dns.metv.one:80/uumycmvh2d/9x1oe8xxfm/1104941
-#EXTINF:-1 tvg-ID="" tvg-name="ES- NBA Portland Trail Blazers" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/NBA_TV.png" group-title="NBA",ES- NBA Portland Trail Blazers
+#EXTINF:-1 tvg-ID="" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/NBA_TV.png" tvg-name="NBA Portland Trail Blazers" group-title="NBA",NBA Portland Trail Blazers
 http://dns.metv.one:80/uumycmvh2d/9x1oe8xxfm/1104942
-#EXTINF:-1 tvg-ID="" tvg-name="ES- NBA Sacramento Kings" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/NBA_TV.png" group-title="NBA",ES- NBA Sacramento Kings
+#EXTINF:-1 tvg-ID="" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/NBA_TV.png" tvg-name="NBA Sacramento Kings" group-title="NBA",NBA Sacramento Kings
 http://dns.metv.one:80/uumycmvh2d/9x1oe8xxfm/1104943
-#EXTINF:-1 tvg-ID="" tvg-name="ES- NBA Toronto Raptors" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/NBA_TV.png" group-title="NBA",ES- NBA Toronto Raptors
-http://dns.metv.one:80/uumycmvh2d/9x1oe8xxfm/1104945
-#EXTINF:-1 tvg-ID="" tvg-name="ES- NBA USA" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/NBA_TV.png" group-title="NBA",ES- NBA USA
-http://dns.metv.one:80/uumycmvh2d/9x1oe8xxfm/1104906
-#EXTINF:-1 group-title="NBA",NBA TV
-http://vipceylim.xyz:2095/nrttn7454pk2/nrttn1901yy22/46281
-#EXTINF:-1 xui-id="200414" tvg-id="NBATVC" tvg-name="NBA TV Canada" tvg-logo="http://fomo.re:80/images/_dPfLuGUDAi0_8XEWWgXfG53HU2L4l3Xl366kyQzL5DiMkvS3v0oEKFkA56j_ioushkzv_JFRmAR0gNp9TGTPg.png" group-title="NBA",NBA TV Canada
-http://fomo.re:80/play/BYvCkTUxzu0kEjk_qRZXb-fZhJuy7IbXHcZgg_KMf3I/ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA TV E" tvg-logo="" group-title="NBA",NBA TV E
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491455
-#EXTINF:-1 tvg-id="" tvg-name="NBA TV FHD¹" tvg-logo="https://i.imgur.com/Nn4ovV6.png" group-title="NBA",NBA TV FHD¹
+#EXTINF:-1 tvg-ID="" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/NBA_TV.png" tvg-name="NBA San Antonio Spurs" group-title="NBA",NBA San Antonio Spurs
+http://dns.metv.one:80/uumycmvh2d/9x1oe8xxfm/1104944
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Nn4ovV6.png" tvg-name="NBA TV" group-title="NBA",NBA TV
 http://flashrevliga.com:8880/live/23jessicamagri/tj1b9sfx/68454.m3u8
-#EXTINF:-1 group-title="NBA",NBA TV HD 1
-http://cristalfumacento.xyz:80/43416216/78523449/1770183
-#EXTINF:-1 group-title="NBA",NBA TV HD 2
-http://cristalfumacento.xyz:80/43416216/78523449/1770184
-#EXTINF:-1 tvg-id="" tvg-name="US : Nba Tv HD" tvg-logo="https://yt3.ggpht.com/lwNmuM6cV_kH2dT408Q5HBdKCf7gKM2A7yh_cclROgG5urRy9qvfoSsUhkUZX94xH6rg9m4bAw=ns-nd" group-title="NBA",US : Nba Tv HD
-http://xstr.cyou:8080/IsaacB0013/B4qJCJN47tBQ/543947
-#EXTINF:-1 tvg-id="NBAtv.us" tvg-name="US | NBA TV HD" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpluspng.com%2Fimg-png%2Fnba-logo-vector-png--1250.png&f=1&nofb=1&ipt=27b18eacbfbb190a5449d0ece61713fa8435927444090433eec8bf9e135da67c&ipo=images" group-title="NBA",US | NBA TV HD
-http://wp.strmz.cc:80/BCamacho/OI6nP3Gkzo/2191125.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="★ NBA ★ 03: NBA TV (GAMES ONLY)" tvg-logo="http://onerestream.us:80/images/E8KGoSwj2u7k1yTTl5XI6QIw5RHsM5idmSlUbG46URGX8wBLkH5gGJQgakPfOeiMhsk5D285aXYzdflpBhp8F3lSk9-WKkAUS2_ZqpNMOH-RLXSQuZogdkOmV4gK7ZRQHEvHi4VnWX0rQrrfp1sBH9TUoPRZxrXR6ON2UUhTjpRn1HIrkaa-vNCAWAVbNqYs.jpg" group-title="NBA",★ NBA ★ 03: NBA TV (GAMES ONLY)
-http://xstr.cyou:8080/IsaacB0013/B4qJCJN47tBQ/580356
-#EXTINF:-1 tvg-id="" tvg-name="★ NBA ★ 04: NBA TV (GAMES ONLY)" tvg-logo="http://onerestream.us:80/images/E8KGoSwj2u7k1yTTl5XI6QIw5RHsM5idmSlUbG46URGX8wBLkH5gGJQgakPfOeiMhsk5D285aXYzdflpBhp8F3lSk9-WKkAUS2_ZqpNMOH-RLXSQuZogdkOmV4gK7ZRQHEvHi4VnWX0rQrrfp1sBH9TUoPRZxrXR6ON2UUhTjpRn1HIrkaa-vNCAWAVbNqYs.jpg" group-title="NBA",★ NBA ★ 04: NBA TV (GAMES ONLY)
-http://xstr.cyou:8080/IsaacB0013/B4qJCJN47tBQ/580357
+#EXTINF:-1 tvg-ID="" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/NBA_TV.png" tvg-name="NBA Toronto Raptors" group-title="NBA",NBA Toronto Raptors
+http://dns.metv.one:80/uumycmvh2d/9x1oe8xxfm/1104945
+#EXTINF:-1 tvg-ID="" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/NBA_TV.png" tvg-name="NBA USA (ES)" group-title="NBA",NBA USA (ES)
+http://dns.metv.one:80/uumycmvh2d/9x1oe8xxfm/1104906
+#EXTINF:-1 tvg-ID="" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/NBA_TV.png" tvg-name="NBA Utah Jazz" group-title="NBA",NBA Utah Jazz
+http://dns.metv.one:80/uumycmvh2d/9x1oe8xxfm/1104946
+#EXTINF:-1 tvg-ID="" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/NBA_TV.png" tvg-name="NBA Washington Wizards" group-title="NBA",NBA Washington Wizards
+http://dns.metv.one:80/uumycmvh2d/9x1oe8xxfm/1104947
